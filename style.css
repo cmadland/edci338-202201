@@ -12,3 +12,66 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+/* Styling for all custom environments: */
+div.bonus, div.reflect, div.assessment, div.progress, div.video, div.caution, div.feedback{
+  padding: 1.5em 0.5em 0.5em 1em;
+  margin-bottom: 0.5em;
+  position:relative;
+  border-radius: 5px;
+  color: black;
+}
+
+
+
+div.bonus:before,
+div.reflect:before,
+div.assessment:before,
+div.progress:before,
+div.video:before,
+div.caution:before,
+div.feedback:before{
+    left:0.5em;
+    position:absolute;
+    top:0.1em;
+    font-weight:bold;
+    font-style:italic;
+    font-size: 1.5em;
+}
+
+
+/* Style hyperlinks */
+.book .book-body .page-wrapper .page-inner .normal div.bonus a:link,
+.book .book-body .page-wrapper .page-inner .normal div.reflect a:link,
+.book .book-body .page-wrapper .page-inner .normal div.assessment a:link,
+.book .book-body .page-wrapper .page-inner .normal div.progress a:link,
+.book .book-body .page-wrapper .page-inner .normal div.video a:link,
+.book .book-body .page-wrapper .page-inner .normal div.caution a:link,
+.book .book-body .page-wrapper .page-inner .normal div.feedback a:link{
+  text-decoration: underline;
+  font-weight: bold;
+  color: black;
+}
+
+
+/* Styling unique to each environment: */
+div.bonus{background: #71c7ec;}
+div.bonus:before {content: url(images/sun-fill.svg);}
+
+div.reflect{background: #e7f4e4;}
+div.reflect:before {content: url(images/lightbulb-fill.svg);}
+
+div.assessment{background: #e1f3f8;}
+div.assessment:before {content: url(images/pencil-fill.svg);}
+
+div.progress{background: #bba3cc;}
+div.progress:before {content: url(images/pulse-line.svg);}
+
+div.video{background: #fff1d2;}
+div.video:before {content: url(images/vidicon-fill.svg);}
+
+div.caution{background: #f9dede;}
+div.caution:before {content: url(images/alarm-warning-fill.svg);}
+
+div.feedback{background: #d6d7d9;}
+div.feedback:before {content: url(images/chat-1-fill.svg);}
