@@ -1,0 +1,27 @@
+--- 
+title: "EDCI 338 - Social Media and Personalized Learning"
+author: ""
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+url: your book url like https://cmadland.github.io/edci338-202201
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to publish course materials.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: cmadland/edci338-202201
+---
+
+# Description {-}
+
+EDCI 338 examines the application of social media in educational contexts and its relationship to personalized learning. The course utilizes blogs and other social media tools to develop networked literacy and learning networks that contribute to their professional practice in legal, safe, consensual and ethical ways.
+
+## Course Author {-}
+
+[Jesse Miller](https://twitter.com/mediatedreality) is the primary author of the materials in this course, and [Colin Madland](https://twitter.com/colinmadland) has revised some sections for the Spring 2022 cohort.
+
+## Learner Contributors {-}
+

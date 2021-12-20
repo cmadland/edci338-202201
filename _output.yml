@@ -1,0 +1,10 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">EDCI 338 - Social Media and Personalized Learning</a></li>
+      after: |
+        <li><a href="https://github.com/cmadland/edci338-202201" target="blank">Published with bookdown</a></li>
+    download: ["epub"]
+bookdown::epub_book: default
