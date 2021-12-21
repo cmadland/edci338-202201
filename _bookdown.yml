@@ -1,6 +1,6 @@
 book_filename: "edci338-202201"
 language:
   ui:
-    chapter_name: " "
+    chapter_name: "Week "
 delete_merged_file: true
 output_dir: "docs"

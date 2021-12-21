@@ -1,6 +1,5 @@
-# Course Toolset {-}
+# Course Assessment {-}
 
-We will use a variety of tools in this course, as you might expect in a course about personal learning networks and using social media in education. One of the primary reasons for that is to allow opportunity for you to make your learning visible and to share it with the community, whatever that might look like for you. I recognize that you may be coming to this course for a variety of reasons, including as an elective for your Teacher Education program, but also as an elective in another program, for your own personal learning, or maybe because you heard about the series of courses that [@edtechuvic](https://twitter.com/edtechuvic) offers.
+Assessment is a process of reasoning from evidence that you provide in the work that you do on tasks in relation to the outcomes of the course. Ultimately, you need to demonstrate to me that you have met the outcomes listed on the syllabus. In a course *about* social media and personal learning networks, that means you will have to demonstrate to me in your activities and in your reflections on those activities that you have, in one way or another, met the intended outcomes. Doing your work with that in mind will absolutely help you learn what you are intended to learn. It also means that you will have to make your personal learning network interactions *visible* to me and to your fellow learners in the course.
 
-## WordPress {-} 
-
+The way to do that is to `tag` your work in whatever platform you are interacting with `edci338`. The work you do will happen in two primary locations and some other secondary locations. Please see the [Course Toolset](https://cmadland.github.io/edci338-202201/course-toolset)
