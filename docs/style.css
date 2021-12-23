@@ -15,7 +15,7 @@ pre code {
 
 /* Styling for all custom environments: */
 div.bonus, div.reflect, div.assessment, div.progress, div.video, div.caution, div.feedback, div.protip{
-  padding: 0.2em 0.5em 0.5em 0.5em;
+  padding: 0.0em 1.0em 0.5em 1.0em;
   margin-bottom: 0.5em;
   position:relative;
   border-radius: 10px;

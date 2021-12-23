@@ -1,6 +1,6 @@
 --- 
 title: "EDCI 338 - Social Media and Personalized Learning"
-author: ""
+author: 
 date: Latest Build - `r Sys.Date()`
 site: bookdown::bookdown_site
 documentclass: book
@@ -19,11 +19,11 @@ github-repo: cmadland/edci338-202201
 
 EDCI 338 examines the application of social media in educational contexts and its relationship to personalized learning. The course utilizes blogs and other social media tools to develop networked literacy and learning networks that contribute to their professional practice in legal, safe, consensual and ethical ways.
 
-## Course Author {-}
+## Course Developers {-}
 
 [Jesse Miller](https://twitter.com/mediatedreality) is the primary author of the materials in this course, and [Colin Madland](https://twitter.com/colinmadland) has revised some sections for the Spring 2022 cohort.
 
-## Learner Contributors {-}
+## Learner Authors {-}
 
 The following learners in EDCI338 at the University of Victoria contributed to this resource.
 
