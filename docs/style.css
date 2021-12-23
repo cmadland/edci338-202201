@@ -14,12 +14,12 @@ pre code {
 }
 
 /* Styling for all custom environments: */
-div.bonus, div.reflect, div.assessment, div.progress, div.video, div.caution, div.feedback{
-  padding: 1.5em 0.5em 0.5em 1em;
+div.bonus, div.reflect, div.assessment, div.progress, div.video, div.caution, div.feedback, div.protip{
+  padding: 0.2em 0.5em 0.5em 0.5em;
   margin-bottom: 0.5em;
   position:relative;
-  border-radius: 5px;
-  color: black;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
 }
 
 
@@ -30,7 +30,8 @@ div.assessment:before,
 div.progress:before,
 div.video:before,
 div.caution:before,
-div.feedback:before{
+div.feedback:before
+div.protip:before{
     left:0.5em;
     position:absolute;
     top:0.1em;
@@ -47,10 +48,11 @@ div.feedback:before{
 .book .book-body .page-wrapper .page-inner .normal div.progress a:link,
 .book .book-body .page-wrapper .page-inner .normal div.video a:link,
 .book .book-body .page-wrapper .page-inner .normal div.caution a:link,
-.book .book-body .page-wrapper .page-inner .normal div.feedback a:link{
+.book .book-body .page-wrapper .page-inner .normal div.feedback a:link
+.book .book-body .page-wrapper .page-inner .normal div.protip a:link{
   text-decoration: underline;
   font-weight: bold;
-  color: black;
+  color: white;
 }
 
 
@@ -75,3 +77,6 @@ div.caution:before {content: url(images/alarm-warning-fill.svg);}
 
 div.feedback{background: #d6d7d9;}
 div.feedback:before {content: url(images/chat-1-fill.svg);}
+
+div.protip{background:    #34495e;}
+div.protip:before {content: ;}

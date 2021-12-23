@@ -2,12 +2,60 @@
 
 We will use a variety of tools in this course, as you might expect in a course about personal learning networks and using social media in education. One of the primary reasons for that is to allow opportunity for you to make your learning visible and to share it with the community, whatever that might look like for you. I recognize that you may be coming to this course for a variety of reasons, including as an elective for your Teacher Education program, but also as an elective in another program, for your own personal learning, or maybe because you heard about the series of courses that [edtechuvic](https://twitter.com/edtechuvic) offers.
 
-## WordPress {-} 
+## Primary Tools
+
+These primary tools form the backbone of EDCI338 and are the core creation tools we will use.
+
+### WordPress {-} 
 
 WordPress will be our hub for EDCI338. [The course hub](https://edtechuvic.ca/edci338) is where I will post updates throughout the course and you are strongly encouraged to subscribe to receive notifications of updates using an email address that you often check. 
 
 Additionally, you will sign up for and create your own WordPress site. It is on this site that you will publish your reflections on your work through the course. We have provided instructions for how to get set up on [opened.ca](https://opened.ca). You may already have an ___.opened.ca website that you created for another EDCI course and you may use that one by simply adding an `edci338` category to your posts. You may also use your own site through WordPress.com or another blogging tool, as long as the site publishes an RSS feed. The main caveat is that my ability to help troubleshoot your site may be more limited if you aren't on opened.ca.
 
+### GitHub {-}
+
+A significant part of the work you will do for EDCI338 will be in the context of creating content using a collaborative tool. GitHub is a tool designed for the collaborative creation of software, but it can also be used for people looking to collaborate on text and multi-media documents. While GitHub may be unfamiliar to some of you, the workflow is not difficult to learn.
+- sign up with your ___@uvic.ca email address to get a free upgrade.
+
+### An RSS Reader {-}
+
+There are numerous feed readers available on the web, but two that I recommend are [Feedly](https://feedly.com) and, my personal choice, [Inoreader](https://inoreader.com). Both offer free plans with 'pro' upgrades, but the free plans should be more than adequate for this course. Feed readers allow users to aggregate updates, or feeds, from various sources, such as blogs or news websites. Unfortunately, the free tier of most feed readers doesn't include the ability to subscribe to social media feeds, such as Twitter or TikTok. A feed reader can help you stay in touch with others in this course as well as receive notifications on my updates.
+
+## Secondary Tools {-}
+
+The secondary tools are more topical in the course and will be the subjects of our explorations.
+
+### Notion {-}
+
+Notion is a tool that I use to track your progress through the course and to provide feedback on your work. You can also use it to manage your time and communicate with your learning pod throughout the course.
+- sign up with your ___@uvic.ca email address to get a free upgrade.
+
+### Twitter{-}
+
+### Meta{-}
+
+#### Instagram{-}
+
+#### Facebook{-}
+
+#### WhatsApp{-}
+
+### TikTok{-}
+
+### WeChat{-}
+
+### MS Teams{-}
+
+### SnapChat{-}
+
+### Hypothes.is {-}
+
+### Mattermost
+
+### Discord
+
+### Mastodon.social
+
+### GitHub
 
 
-## An RSS Reader
