@@ -8,23 +8,27 @@ The fundamental and core task in this course is for you to build and reflect on 
 
 ## Community Contributions and Connections (30%){-}
 
-Throughout the course, you will be required to reflect on the work you are doing in relation to the topics of that particular week. This reflection will be in the form of blog posts on your own blog (either on opened.ca, or another blogging platform) and they will be due throughout the course. There are 11 prompts for you in the course and you will be required to respond to 6 of those (you may choose to respond to more, but 6 are required). Of the 6 posts you publish, you will choose 2 to be assessed for grading as `showcase` posts (15% each for a total of 30%). Your 6 posts should be considered `work-in-progress (WIP)`. Your 2 showcase posts will be polished for publication on your blog and should reflect a professional *voice*.
+Throughout the course, you will be required to reflect on the work you are doing in relation to the topics of that particular week. This reflection will be in the form of blog posts on your own blog (either on opened.ca, or another blogging platform) and they will be due throughout the course. There are 8 prompts for you in the course and you will be required to respond to each of those. You will choose 2 to be assessed for grading as `showcase` posts (15% each for a total of 30%). Your 2 showcase posts will be polished for publication on your blog and should reflect a professional *voice*.
 
-You are encouraged to initiate your own posts in response to the materials and resources shared throughout the course, as well as linking out to materials and literature to support your thinking. These resources will be provided in the form of multimedia video, social media links, and reading links that are all available through the University of Victoria library.
+### Post Prompts (Reviewed in your Learning Pods) {-}
 
-In addition to authoring blog posts, you will be expected to contribute to the edci338 community by commenting on the posts of your peers. Review the blog feed for your section, select posts of interest and provide feedback or ask questions of other authors.
+Your posts in response to each of the prompts will be in the form of one 'Wow' and one 'Wonder'. A Wow is anything from the week that caught your interest from the readings, videos, tasks, your PLN, or one of your fellow learners' posts. It should be something that you haven't thought of before or maybe that you have changed your thinking about. A Wonder is something that you have a question about from the same sources. It might be something you thought wasn't explained clearly, something that is counter-intuitive, doesn't make sense, is muddy, or simply something you want to investigate further. Your Wow and Wonder posts can be brief (100-150 words) and in point form, but they must include a hyperlink to the artifact you are writing about and a brief reflection on why you chose that Wow or Wonder.
 
-Set a goal for yourself of interacting with at least 2 other bloggers after a posted assignment. You are encouraged to diversify your interaction and reading of other learners in the community. You should find that these interactions lead to increased traffic on your own blog, which will provide opportunities to have your thinking supported, questions to answer, and possibly new connections made.
+### Showcase Posts (2 @ 15% each) {-}
 
-It is recommended that you comment on others' posts by creating a new post on your own site and including a link to the post you are commenting on. This will create a 'trackback' on the original post, which is just like a comment. Make sure you check the comments on your own site because you will have to approve them before they are visible. You will see a notification in the side menu of WordPress when you have comments that need to be approved.
+You will choose 2 of your Wow and Wonder posts and expand and polish them to be about 500 words. You should reference course artifacts **and** find resources not listed in the syllabus to inform and support your thinking about your Wows and Wonders.
 
-Each post should:
+Set a goal for yourself of linking to at least 2 other learners in each showcase post. You are encouraged to diversify your interaction and reading of other learners in the community. You should find that these interactions lead to increased traffic on your own blog, which will provide opportunities to have your thinking supported, questions answered, and possibly new connections made.
 
-- be 400-500 words in length,  
+It is recommended that you comment on others' posts by including a link in your own post to the post you are commenting on. This will create a 'trackback' on the original post, which is just like a comment. Make sure you check the comments on your own site because you will have to approve them before they are visible. You will see a notification in the side menu of WordPress when you have comments that need to be approved.
+
+Each Showcase post should:
+
+- be about 500 words in length,  
 - include a featured image,  
 - include hyperlinks to relevant course materials and activities,  
 - include commentary on and hyperlinks to other EDCI338 learners' posts,  
-- hyperlinks to cited work (use the style you are accustomed to)  
+- a list of references including hyperlinks to cited work (use the style you are accustomed to)  
 
 ### Suggested Prompts for Comments{-}
 
@@ -61,3 +65,9 @@ Your reflection must include references and hyperlinks to:
 
 An easy way to help yourself manage this is to create a set of outcome categories on your blog (outcome1, outcome2, etc) and apply those categories to the posts that meet those outcomes.
 ```
+## Grading Standards
+
+- What is media literacy?
+- Why is it important?
+- Why is it dismissed?
+- Why should you aim for varied views but factual consensus in your PLN?
