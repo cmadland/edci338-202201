@@ -65,9 +65,6 @@ Your reflection must include references and hyperlinks to:
 
 An easy way to help yourself manage this is to create a set of outcome categories on your blog (outcome1, outcome2, etc) and apply those categories to the posts that meet those outcomes.
 ```
-## Grading Standards
+## Grading Standards {-}
 
-- What is media literacy?
-- Why is it important?
-- Why is it dismissed?
-- Why should you aim for varied views but factual consensus in your PLN?
+[Click here to read about the SOLO Taxonomy.](https://teaching.madland.ca/solo)

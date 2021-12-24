@@ -3,7 +3,6 @@ mattermost
 discord
 mastodon.social
 github-1
-grading-standards
 twitter-1
 instagram-1
 facebook-1
