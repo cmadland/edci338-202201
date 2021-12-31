@@ -14,22 +14,22 @@ pre code {
 }
 
 /* Styling for all custom environments: */
-div.bonus, div.reflect, div.assessment, div.progress, div.video, div.caution, div.feedback, div.protip{
-  padding: 0.0em 1.0em 0.5em 1.0em;
+div.secondary, div.reflect, div.wp, div.gh, div.video, div.caution, div.feedback, div.protip{
+  padding: 0.1em 0.0em 0.5em 1.0em;
   margin-bottom: 0.5em;
   position:relative;
   border-style: solid;
-  border-width: 2px;
+  border-width: 1px;
   border-color: black;
   border-radius: 10px;
 }
 
 
 
-div.bonus:before,
+div.secondary:before,
 div.reflect:before,
-div.assessment:before,
-div.progress:before,
+div.wp:before,
+div.gh:before,
 div.video:before,
 div.caution:before,
 div.feedback:before
@@ -44,10 +44,10 @@ div.protip:before{
 
 
 /* Style hyperlinks */
-.book .book-body .page-wrapper .page-inner .normal div.bonus a:link,
+.book .book-body .page-wrapper .page-inner .normal div.secondary a:link,
 .book .book-body .page-wrapper .page-inner .normal div.reflect a:link,
-.book .book-body .page-wrapper .page-inner .normal div.assessment a:link,
-.book .book-body .page-wrapper .page-inner .normal div.progress a:link,
+.book .book-body .page-wrapper .page-inner .normal div.wp a:link,
+.book .book-body .page-wrapper .page-inner .normal div.gh a:link,
 .book .book-body .page-wrapper .page-inner .normal div.video a:link,
 .book .book-body .page-wrapper .page-inner .normal div.caution a:link,
 .book .book-body .page-wrapper .page-inner .normal div.feedback a:link
@@ -59,26 +59,18 @@ div.protip:before{
 
 
 /* Styling unique to each environment: */
-div.bonus{background: #71c7ec;}
-div.bonus:before {content: url(images/sun-fill.svg);}
+div.secondary{background: #71c7ec;}
 
 div.reflect{background: #e7f4e4;}
-div.reflect:before {content: url(images/lightbulb-fill.svg);}
 
-div.assessment{background: #e1f3f8;}
-div.assessment:before {content: url(images/pencil-fill.svg);}
+div.wp{background: #e1f3f8;}
 
-div.progress{background: #bba3cc;}
-div.progress:before {content: url(images/pulse-line.svg);}
+div.gh{background: #bba3cc;}
 
 div.video{background: #fff1d2;}
-div.video:before {content: url(images/vidicon-fill.svg);}
 
 div.caution{background: #f9dede;}
-div.caution:before {content: url(images/alarm-warning-fill.svg);}
 
 div.feedback{background: #d6d7d9;}
-div.feedback:before {content: url(images/chat-1-fill.svg);}
 
 div.protip{color: rgb(255, 255, 255); background: #34495e;}
-div.protip:before {content: ;}
