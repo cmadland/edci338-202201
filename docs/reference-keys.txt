@@ -3,6 +3,7 @@ mattermost
 discord
 mastodon.social
 github-1
+project-details
 twitter-1
 instagram-1
 facebook-1
@@ -17,3 +18,5 @@ discord-1
 mastodon.social-1
 github-2
 notion-1
+notion-2
+notion-3

@@ -18,8 +18,10 @@ div.bonus, div.reflect, div.assessment, div.progress, div.video, div.caution, di
   padding: 0.0em 1.0em 0.5em 1.0em;
   margin-bottom: 0.5em;
   position:relative;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
   border-radius: 10px;
-  color: rgb(255, 255, 255);
 }
 
 
@@ -52,7 +54,7 @@ div.protip:before{
 .book .book-body .page-wrapper .page-inner .normal div.protip a:link{
   text-decoration: underline;
   font-weight: bold;
-  color: white;
+  color: rgb(3, 3, 3);
 }
 
 
@@ -78,5 +80,5 @@ div.caution:before {content: url(images/alarm-warning-fill.svg);}
 div.feedback{background: #d6d7d9;}
 div.feedback:before {content: url(images/chat-1-fill.svg);}
 
-div.protip{background:    #34495e;}
+div.protip{color: rgb(255, 255, 255); background: #34495e;}
 div.protip:before {content: ;}
