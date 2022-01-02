@@ -23,7 +23,7 @@ EDCI 338 examines the application of social media in educational contexts and it
 
 [Jesse Miller](https://twitter.com/mediatedreality) is the primary author of the materials in this course, and [Colin Madland](https://twitter.com/colinmadland) has revised some sections for the Spring 2022 cohort.
 
-## Learner Authors {-}
+## Learner Contributors {-}
 
 The following learners in EDCI338 at the University of Victoria contributed to this resource.
 

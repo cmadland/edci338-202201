@@ -6,6 +6,22 @@ The way to do that is to `tag` your work in whatever platform you are interactin
 
 The fundamental and core task in this course is for you to build and reflect on a *Personal Learning Network (PLN)* using modern networked tools. Your PLN will likely end up with two *nodes* by the time the course is complete. One node will be the network we build within this community of learners, while the other node (or maybe more) will be the professional connections you make outside the course. Hopefully, both nodes will persist beyond the end of the course, which is why it is critical that the work you do is NOT locked up in an institutional Learning Management System (LMS; Brightspace is the UVic LMS).
 
+## Building Community Support {-}
+
+This is an asynchronous online course, meaning that we don't have any specific *required* meeting times. This can be a significant advantage for those who unable to meet at a particular time on in a particular place, but it can also contribute to challenges completing the coursework for those who prefer to work in more social contexts. We seek to strike a balance between learners working in isolation, and requiring on-campus meetings. To do this, there are two critical structures in the course: learning pods, weekly meetings, and assessment meetings with me.
+
+### Learning Pods {-}
+
+You will be provided a link to a password-protected page where you can sign up for a learning pod, which is a group of 3-4 learners who meet together regularly (ideally weekly) at a time that works for them. This time should be used to review the course materials and any questions that learners might have, and also to plan and organize work on the course assignments. Learning pods are intended to be your first line of support during the course.
+
+### Weekly Meetings
+
+We will determine a time during the week that works for as many people as possible for a 1-hour meeting time with me. This meeting will not be *required*, but it is strongly recommended that you attend as many of these meetings as you are able. This will be a time to discuss the week's readings, clarify questions about both the content and the logistics (what is due when and where) of the course.
+
+### Assessment Meetings
+
+Each learning pod will be required to meet with me at least twice during the course. The first time will be within the first two weeks to ensure that you have been able to get set up with all the required tools and connected with a learning pod. The second required time will be prior to reading week to ensure that you are on track for the Major Project. Learning pods are also encouraged to book meeting times with me as needed.
+
 ## Community Contributions and Connections (30%){-}
 
 Throughout the course, you will be required to reflect on the work you are doing in relation to the topics of that particular week. This reflection will be in the form of blog posts on your own blog (either on opened.ca, or another blogging platform) and they will be due throughout the course. There are 8 prompts for you in the course and you will be required to respond to each of those. You will choose 2 to be assessed for grading as `showcase` posts (15% each for a total of 30%). Your 2 showcase posts will be polished for publication on your blog and should reflect a professional *voice*.
@@ -52,7 +68,7 @@ The platform we will use to create the resource will be GitHub, a tool specifica
 
 ### Project Details
 
-You will work in your learning pods to complete the major project, which will be to create an online resource for educators wishing to learn about using social media tools to build a Personal Learning Network. Each Learning Pod will contribute an in-depth analysis of one networking tool that can be used in educational settings.
+You will work in your learning pods to complete the major project, which will be to create an online resource for educators wishing to learn about using social media tools to build a Personal Learning Network. Each Learning Pod will contribute an in-depth analysis of one networking tool that might be used in educational settings. The structure of each page in the resource will follow the topics and structure of the course, so you will be working on completing the major project as you progress through the course.
 
 ## Celebration of Learning (30%) {-}
 

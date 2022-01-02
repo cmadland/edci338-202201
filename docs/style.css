@@ -59,18 +59,27 @@ div.protip:before{
 
 
 /* Styling unique to each environment: */
-div.secondary{background: #71c7ec;}
-
-div.reflect{background: #e7f4e4;}
-
-div.wp{background: #e1f3f8;}
-
-div.gh{background: #bba3cc;}
-
-div.video{background: #fff1d2;}
-
-div.caution{background: #f9dede;}
-
-div.feedback{background: #d6d7d9;}
-
-div.protip{color: rgb(255, 255, 255); background: #34495e;}
+div.secondary{
+  background: #71c7ec;
+}
+div.reflect{
+  background: #e7f4e4;
+}
+div.wp{
+  background: #e1f3f8;
+}
+div.gh{
+  background: #bba3cc;
+}
+div.video{
+  background: #fff1d2;
+}
+div.caution{
+  background: #f9dede;
+}
+div.feedback{
+  background: #d6d7d9;
+}
+div.protip{
+  color: rgb(255, 255, 255); background: #34495e;
+}
