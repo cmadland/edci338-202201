@@ -15,7 +15,7 @@ link-citations: yes
 github-repo: cmadland/edci338-202201
 ---
 
-# Description {-}
+# Course Description {-}
 
 EDCI 338 examines the application of social media in educational contexts and its relationship to personalized learning. The course utilizes blogs and other social media tools to develop networked literacy and learning networks that contribute to their professional practice in legal, safe, consensual and ethical ways.
 
