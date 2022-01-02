@@ -14,11 +14,11 @@ This is an asynchronous online course, meaning that we don't have any specific *
 
 You will be provided a link to a password-protected page where you can sign up for a learning pod, which is a group of 3-4 learners who meet together regularly (ideally weekly) at a time that works for them. This time should be used to review the course materials and any questions that learners might have, and also to plan and organize work on the course assignments. Learning pods are intended to be your first line of support during the course.
 
-### Weekly Meetings
+### Weekly Meetings {-}
 
 We will determine a time during the week that works for as many people as possible for a 1-hour meeting time with me. This meeting will not be *required*, but it is strongly recommended that you attend as many of these meetings as you are able. This will be a time to discuss the week's readings, clarify questions about both the content and the logistics (what is due when and where) of the course.
 
-### Assessment Meetings
+### Assessment Meetings {-}
 
 Each learning pod will be required to meet with me at least twice during the course. The first time will be within the first two weeks to ensure that you have been able to get set up with all the required tools and connected with a learning pod. The second required time will be prior to reading week to ensure that you are on track for the Major Project. Learning pods are also encouraged to book meeting times with me as needed.
 

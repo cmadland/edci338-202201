@@ -1,4 +1,2 @@
-weekly-meetings
-assessment-meetings
 project-details
-whatsapp
+major-project-template
