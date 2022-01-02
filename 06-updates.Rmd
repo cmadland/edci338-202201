@@ -1,3 +1,12 @@
 # Updates {-}
 
+## Week One Jan (10-16) {-}
 
+```{block, type='todo'}
+#### Things To Do This Week
+- Sign up for a WordPress site.
+- Register for a GitHub account.
+    - Create a repo for EDCI338.
+    - Activate 'Projects' in your repo
+    - Create a Course Checklist issue.
+```

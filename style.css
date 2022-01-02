@@ -14,7 +14,7 @@ pre code {
 }
 
 /* Styling for all custom environments: */
-div.secondary, div.reflect, div.wp, div.gh, div.video, div.caution, div.feedback, div.protip{
+div.secondary, div.reflect, div.wp, div.gh, div.todo, div.caution, div.feedback, div.protip{
   padding: 0.1em 0.0em 0.5em 1.0em;
   margin-bottom: 0.5em;
   position:relative;
@@ -30,7 +30,7 @@ div.secondary:before,
 div.reflect:before,
 div.wp:before,
 div.gh:before,
-div.video:before,
+div.todo:before,
 div.caution:before,
 div.feedback:before
 div.protip:before{
@@ -48,7 +48,7 @@ div.protip:before{
 .book .book-body .page-wrapper .page-inner .normal div.reflect a:link,
 .book .book-body .page-wrapper .page-inner .normal div.wp a:link,
 .book .book-body .page-wrapper .page-inner .normal div.gh a:link,
-.book .book-body .page-wrapper .page-inner .normal div.video a:link,
+.book .book-body .page-wrapper .page-inner .normal div.todo a:link,
 .book .book-body .page-wrapper .page-inner .normal div.caution a:link,
 .book .book-body .page-wrapper .page-inner .normal div.feedback a:link
 .book .book-body .page-wrapper .page-inner .normal div.protip a:link{
@@ -71,7 +71,7 @@ div.wp{
 div.gh{
   background: #bba3cc;
 }
-div.video{
+div.todo{
   background: #fff1d2;
 }
 div.caution{

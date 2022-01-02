@@ -1,2 +1,8 @@
 # GitHub Setup {-}
 
+```{block, type='todo'}
+#### Things To Do in GitHub
+- Register for an account.
+
+
+```
