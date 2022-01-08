@@ -1,8 +1,8 @@
 bookdown::gitbook:
+  includes:
+      in_header: includes.html
   css: style.css
   config:
-    includes:
-      in_header: hypothesis.html
     toc:
       collapse: section
       scroll_highlight: true
