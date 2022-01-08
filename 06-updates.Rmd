@@ -2,6 +2,7 @@
 
 ## Week One Jan (10-16) {-}
 
+Hello everyone and thank you for joining this course! 
 ```{block, type='todo'}
 #### Things To Do This Week
 - Sign up for a [WordPress site](https://cmadland.github.io/edci338-202201/wordpress-setup).
