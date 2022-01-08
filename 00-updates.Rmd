@@ -1,0 +1,27 @@
+# Updates {-}
+
+## Week One (Jan 10-16) {-}
+
+Hello everyone and thank you for joining this course! 
+
+My name is Colin Madland and I will be your instructor for this Spring 2022 cohort of EDCI 338, *Social Media and Personalized Learning*. I am a PhD candidate in the Educational Technology area of the Faculty of Education, where I am researching assessment in higher education. You can learn more about me and my research on my [personal website](https://cmad.land) and follow me on [Twitter](https://twitter.com/colinmadland). I live and work in West Kelowna, BC, on the [traditional, unceded, ancestral lands of the `syilx` people](https://wfn.ca) and I am grateful to be a guest here.
+
+When I am not working on my reasearch, or my day-job at another BC university, I really enjoy riding my bicycle, cooking all sorts of deliciousness on my grill, and hanging out with my family, which includes my wife, 2 two sons, 1 daughter-in-law, 1 daughter, 1 son-in-law, and 1 grandson. Some people might include the fur-bearing beasts (a dog and a cat) in the 'family' category, I know they certainly do!
+
+I'm going to be honest with you (hopefully that isn't surprising...) and perhaps a bit vulnerable. I'm teaching EDCI338 for the first time this spring, and the course requires a significant investment in learning to use some technologies that you and I both may not be entirely familiar with. There aren't really any good ways to think deeply about social media without actually engaging in social media. That can be really challenging, especially in the midst of the ongoing dispruption of our lives due to COVID-19. Disruption can take many forms, from being physically sick with COVID, to having family members and friends being affected, to losing jobs, and on and on. As a result, it can be really hard to focus on learning. So, I want you to understand from the very beginning that it is my *responsibility* in this course to do whatever it is that I can to support your success.
+
+```{block, type='reflect'}
+#### 💯 My commitment to you...
+**I am committed to helping you achieve success in this course, and I trust you to contact me if you have questions or concerns.**
+
+```
+I hope you will find that you are welcome to approach me through whatever media I've published. Admittedly, sometimes I miss notifcations, but that is not on you. I encourage you to be persistent if you haven't heard a reply after a day or so.
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ Sign up for a [WordPress site](https://cmadland.github.io/edci338-202201/wordpress-setup).  
+✔️ Register for a [GitHub account](https://cmadland.github.io/edci338-202201/github-setup).  
+    ✔️ visit the course repo and create a `Learner Profile` issue.
+✔️ Sign up for [hypothes.is](https://hypothes.is) and [join the `edci338` private group](https://hypothes.is/groups/KPPbMpdo/edci338).  
+    ✔️ Annotate the [Course Details](https://cmadland.github.io/edci338-202201/course-details.html) and [Assessment](https://cmadland.github.io/edci338-202201/assessment) pages with your questions, comments, concerns, or other observations.
+```
