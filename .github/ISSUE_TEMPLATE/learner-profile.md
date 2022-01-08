@@ -22,6 +22,9 @@ assignees: cmadland
 
 - [ ]  Check here if you give me permission to share your work publicly and tag you.
 
+#### Please indicate which social media tools you are currently using and/or would like to learn more about.
+
+
 #### Please check the following boxes if you agree with the statement.
 
 - [ ]  I agree to share my work for EDCI338 on the open web.
