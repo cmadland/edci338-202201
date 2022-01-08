@@ -7,6 +7,4 @@
     - choose 'Private' in the visibility settings (step 4, above)
 - Go to the [course repository](https://github.com/cmadland/edci338-202201)
 - Click `Issues`, then `New Issue`, then `Get Started` on a Learner Profile for yourself.
-    - 
-
 ```
