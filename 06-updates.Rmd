@@ -4,7 +4,7 @@
 
 ```{block, type='todo'}
 #### Things To Do This Week
-- Sign up for a WordPress site.
+- Sign up for a [WordPress site](https://cmadland.github.io/edci338-202201/wordpress-setup).
 - Register for a GitHub account.
     - Create a repo for EDCI338.
     - Activate 'Projects' in your repo
