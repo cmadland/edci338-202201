@@ -87,7 +87,7 @@ set in the _output.yml file.</p>" />
 <ul>
 <li class="chapter" data-level="" data-path="updates.html"><a href="updates.html#week-one-jan-10-16"><i class="fa fa-check"></i>Week One (Jan 10-16)</a>
 <ul>
-<li class="chapter" data-level="0.0.1" data-path="updates.html"><a href="updates.html#getting-going"><i class="fa fa-check"></i><b>0.0.1</b> Getting Going</a></li>
+<li class="chapter" data-level="" data-path="updates.html"><a href="updates.html#getting-going"><i class="fa fa-check"></i>Getting Going</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="course-details.html"><a href="course-details.html"><i class="fa fa-check"></i>Course Details</a>
@@ -130,7 +130,15 @@ set in the _output.yml file.</p>" />
 <li class="chapter" data-level="" data-path="course-toolset.html"><a href="course-toolset.html#secondary-tools"><i class="fa fa-check"></i>Secondary Tools</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="wordpress-setup.html"><a href="wordpress-setup.html"><i class="fa fa-check"></i>WordPress Setup</a></li>
-<li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html"><i class="fa fa-check"></i>GitHub Setup</a></li>
+<li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html"><i class="fa fa-check"></i>GitHub Setup</a>
+<ul>
+<li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html#markdown"><i class="fa fa-check"></i>Markdown</a>
+<ul>
+<li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html#styling-text"><i class="fa fa-check"></i>Styling text</a></li>
+<li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html#hyperlinks"><i class="fa fa-check"></i>Hyperlinks</a></li>
+<li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html#images"><i class="fa fa-check"></i>Images</a></li>
+</ul></li>
+</ul></li>
 <li class="chapter" data-level="1" data-path="major-project-template.html"><a href="major-project-template.html"><i class="fa fa-check"></i><b>1</b> Major Project Template</a></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
@@ -156,31 +164,52 @@ set in the _output.yml file.</p>" />
             <section class="normal" id="section-">
 <div id="github-setup" class="section level1 unnumbered">
 <h1>GitHub Setup</h1>
+<p>Github will be the main location of our collaborative work in EDCI338. While Github was created for teams to collaborate on coding projects, it can also be used for many other projects. Some of the language around interacting with Github might be new to you, but that is ok, it will seem foreign at first, but the whole point of you taking this course is to learn new skills, right?! I’m here to help.</p>
+<p>The first thing you might notice is that there are some weird punctuation marks in the raw text in Github. That is called <code>Markdown</code>, which is a way to tell web-browsers how to style text. The basics are super easy to learn, and they map pretty well to what you might do in a word processor. For example, in MS Word, if you want to indicate a heading, you put your cursor in the text, and choose the <code>Heading 2</code> style. You can do the same thing in Markdown by simply adding two hashtags and a space before the text, like this…</p>
+<p><code>## Markdown</code></p>
+<p>Which shows up on the page like this…</p>
+<div id="markdown" class="section level2 unnumbered">
+<h2>Markdown</h2>
+<p>Each heading level uses the corresponding number of hashtags.
+### Heading levels {-}</p>
+<pre><code># Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6</code></pre>
+<div id="styling-text" class="section level3 unnumbered">
+<h3>Styling text</h3>
+<p>You can also style text as <em>italics</em> <code>*italics*</code>, or <strong>bold</strong> <code>**bold**</code>, and you can also stack codes so <strong><em>bold italics</em></strong> <code>***bold italics***</code>.</p>
+</div>
+<div id="hyperlinks" class="section level3 unnumbered">
+<h3>Hyperlinks</h3>
+<p><a href="https://edtechuvic.ca/edci338">Put the text you want to display between square brackets, followed by the URL in parentheses</a></p>
+<p><code>[Put the text you want to display between square brackets, followed by the URL in parentheses](https://edtechuvic.ca/edci338)</code></p>
+</div>
+<div id="images" class="section level3 unnumbered">
+<h3>Images</h3>
+<p>Images use the same syntax as hyperlinks, except they use an <code>!</code> at the beginning, so…</p>
+<p><code>![Ellie with a cactus in her nose](assets/poor-ellie.jpg)</code> renders to</p>
+<div class="figure">
+<img src="assets/poor-ellie.jpg" alt="" />
+<p class="caption">Ellie with a cactus in her nose</p>
+</div>
 <div class="todo">
 <h4 id="things-to-do-in-github">
 Things To Do in GitHub
 </h4>
-<ul>
-<li>
-Register for an account.
-</li>
-<li>
-<a href="https://docs.github.com/en/get-started/quickstart/create-a-repo">Create a new repository</a> called <code>EDCI338</code>
-<ul>
-<li>
-choose ‘Private’ in the visibility settings (step 4, above)
-</li>
-</ul>
-</li>
-<li>
-Go to the <a href="https://github.com/cmadland/edci338-202201">course repository</a>
-</li>
-<li>
-Click <code>Issues</code>, then <code>New Issue</code>, then <code>Get Started</code> on a Learner Profile for yourself.
-</li>
-</ul>
+<p>
+✔️ Register for an account.<br />
+✔️ <a href="https://docs.github.com/en/get-started/quickstart/create-a-repo">Create a new repository</a> called <code>EDCI338</code><br />
+✔️ choose ‘Private’ in the visibility settings (step 4, above)<br />
+✔️ Go to the <a href="https://github.com/cmadland/edci338-202201">course repository</a><br />
+✔️ Click <code>Issues</code>, then <code>New Issue</code>, then <code>Get Started</code> on a Learner Profile for yourself.
+</p>
 </div>
 
+</div>
+</div>
 </div>
             </section>
 

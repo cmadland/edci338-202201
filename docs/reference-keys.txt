@@ -1,2 +1,1 @@
-getting-going
 major-project-template

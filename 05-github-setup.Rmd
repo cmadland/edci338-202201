@@ -1,10 +1,50 @@
 # GitHub Setup {-}
 
+Github will be the main location of our collaborative work in EDCI338. While Github was created for teams to collaborate on coding projects, it can also be used for many other projects. Some of the language around interacting with Github might be new to you, but that is ok, it will seem foreign at first, but the whole point of you taking this course is to learn new skills, right?! I'm here to help.
+
+The first thing you might notice is that there are some weird punctuation marks in the raw text in Github. That is called `Markdown`, which is a way to tell web-browsers how to style text. The basics are super easy to learn, and they map pretty well to what you might do in a word processor. For example, in MS Word, if you want to indicate a heading, you put your cursor in the text, and choose the `Heading 2` style. You can do the same thing in Markdown by simply adding two hashtags and a space before the text, like this...
+
+`## Markdown`
+
+Which shows up on the page like this...
+
+## Markdown {-}
+
+Each heading level uses the corresponding number of hashtags.
+### Heading levels {-}
+
+```
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+```
+### Styling text {-}
+
+You can also style text as *italics* `*italics*`, or **bold** `**bold**`, and you can also stack codes so ***bold italics*** `***bold italics***`.
+
+### Hyperlinks {-}
+
+[Put the text you want to display between square brackets, followed by the URL in parentheses](https://edtechuvic.ca/edci338)
+
+ `[Put the text you want to display between square brackets, followed by the URL in parentheses](https://edtechuvic.ca/edci338)` 
+
+### Images {-}
+
+Images use the same syntax as hyperlinks, except they use an `!` at the beginning, so...
+
+`![Ellie with a cactus in her nose](assets/poor-ellie.jpg)` renders to
+
+![Ellie with a cactus in her nose](assets/poor-ellie.jpg)
+
+
 ```{block, type='todo'}
 #### Things To Do in GitHub
-- Register for an account.
-- [Create a new repository](https://docs.github.com/en/get-started/quickstart/create-a-repo) called `EDCI338`
-    - choose 'Private' in the visibility settings (step 4, above)
-- Go to the [course repository](https://github.com/cmadland/edci338-202201)
-- Click `Issues`, then `New Issue`, then `Get Started` on a Learner Profile for yourself.
+✔️ Register for an account.  
+✔️ [Create a new repository](https://docs.github.com/en/get-started/quickstart/create-a-repo) called `EDCI338`  
+    ✔️ choose 'Private' in the visibility settings (step 4, above)  
+✔️ Go to the [course repository](https://github.com/cmadland/edci338-202201)  
+✔️ Click `Issues`, then `New Issue`, then `Get Started` on a Learner Profile for yourself.  
 ```
