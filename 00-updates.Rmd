@@ -25,7 +25,7 @@ I have created a poll to help us decide on a weekly meeting time, but for this w
 
 ```{block, type='todo'}
 #### Things To Do This Week
-✔️ Read the syllabus, which will be [posted in Brightspace](https://bright.uvic.ca/) early this week.
+✔️ Read the syllabus, which will be [posted in Brightspace](https://bright.uvic.ca/) early this week.  
 ✔️ Sign up for a [WordPress site](https://cmadland.github.io/edci338-202201/wordpress-setup).  
 ✔️ Register for a [GitHub account](https://cmadland.github.io/edci338-202201/github-setup).  
 ✔️ Visit the [course repo on Github](https://github.com/cmadland/edci338-202201) and create a `Learner Profile` issue (click `Issues` to get going...).  
