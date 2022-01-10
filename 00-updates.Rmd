@@ -30,5 +30,5 @@ I have created a poll to help us decide on a weekly meeting time, but for this w
 ✔️ Register for a [GitHub account](https://cmadland.github.io/edci338-202201/github-setup).  
 ✔️ Visit the [course repo on Github](https://github.com/cmadland/edci338-202201) and create a `Learner Profile` issue (click `Issues` to get going...).  
 ✔️ Sign up for [hypothes.is](https://hypothes.is) and [join the `edci338` private group](https://hypothes.is/groups/KPPbMpdo/edci338).  
-✔️ Annotate the [Course Details](https://cmadland.github.io/edci338-202201/course-details.html) and [Assessment](https://cmadland.github.io/edci338-202201/assessment) pages with your questions, comments, concerns, or other observations.
+✔️ Annotate the [Course Details](https://cmadland.github.io/edci338-202201/course-details.html) and [Assessment](https://cmadland.github.io/edci338-202201/course-assessment) pages with your questions, comments, concerns, or other observations.
 ```
