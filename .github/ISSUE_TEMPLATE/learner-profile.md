@@ -36,3 +36,9 @@ assignees: cmadland
     - [ ]  4 other courses
     - [ ]  5 or more other courses
 - [ ]  Do you have any plans that will require you to be away from the course for more than a few days? It's not necessarily a problem if you do, but it will be helpful to plan ahead. Also, I recognize that sometimes, things come up that you can't avoid. Please just let me know if you are going to be away. We can always work something out.
+
+#### Please tell me a little bit about why you are taking EDCI338.
+- [ ] As an elective in the Faculty of Education (you are a pre-service teacher)
+- [ ] As an elective in another faculty at UVic
+- [ ] As an elective for a different university
+- [ ] As an active teacher seeking professional development
