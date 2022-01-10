@@ -19,7 +19,7 @@ I hope you will find that you are welcome to approach me through whatever media 
 
 ### Getting Going {-}
 
-During this first week, it will be important to start getting comfortable with a couple of the tools we will use for the course. 
+During this first week, it will be important to start getting comfortable with a couple of the tools we will use for the course. There is a [WordPress Setup](https://cmadland.github.io/edci338-202201/wordpress-setup) and a [GitHub Setup](https://cmadland.github.io/edci338-202201/github-setup) page with instructions for how to get started with those two tools.
 
 ```{block, type='todo'}
 #### Things To Do This Week

@@ -25,7 +25,7 @@ Additionally, you will sign up for and create your own WordPress site. It is on 
 
 
 A significant part of the work you will do for EDCI338 will be in the context of creating content using a collaborative tool. GitHub is a tool designed for the collaborative creation of software, but it can also be used for people looking to collaborate on text and multi-media documents. While GitHub may be unfamiliar to some of you, the workflow is not difficult to learn.  
-- sign up with your ___@uvic.ca email address to get a free upgrade.
+- sign up with your `___@uvic.ca` email address to get a free upgrade.
 
 ```
 

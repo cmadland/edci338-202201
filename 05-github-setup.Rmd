@@ -25,6 +25,32 @@ Each heading level uses the corresponding number of hashtags.
 
 You can also style text as *italics* `*italics*`, or **bold** `**bold**`, and you can also stack codes so ***bold italics*** `***bold italics***`.
 
+### Lists
+
+You can quickly and easily create an unordered list (bullets) with either a `*`, or a `-` followed by a space...
+
+```
+- berries
+- fruit
+- vegetables
+```
+
+- berries
+- fruit
+- vegetables
+
+You can create an ordered list by doing the same with a number and a `.`...
+
+```
+1. Cycling
+2. Running
+3. Rowing
+```
+
+1. Cycling
+2. Running
+3. Rowing
+
 ### Hyperlinks {-}
 
 [Put the text you want to display between square brackets, followed by the URL in parentheses](https://edtechuvic.ca/edci338)
@@ -48,5 +74,6 @@ The difference with images is that you need to make sure the image is physically
 ✔️ [Create a new repository](https://docs.github.com/en/get-started/quickstart/create-a-repo) called `EDCI338`  
     ✔️ choose 'Private' in the visibility settings (step 4, above)  
 ✔️ Go to the [course repository](https://github.com/cmadland/edci338-202201)  
-✔️ Click `Issues`, then `New Issue`, then `Get Started` on a Learner Profile for yourself.  
+✔️ Click `Issues`, then `New Issue`, then `Get Started` to create a Learner Profile for yourself.  
+✔️ If you know who will be in your learning pod, please add the `Label` to your issue that corresponds with your Learning Pod, otherwise, you can just add a label that has fewer than 4 members already.
 ```
