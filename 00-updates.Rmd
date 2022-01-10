@@ -19,14 +19,16 @@ I hope you will find that you are welcome to approach me through whatever media 
 
 ### Getting Going {-}
 
-During this first week, it will be important to start getting comfortable with a couple of the tools we will use for the course. There is a [WordPress Setup](https://cmadland.github.io/edci338-202201/wordpress-setup) and a [GitHub Setup](https://cmadland.github.io/edci338-202201/github-setup) page with instructions for how to get started with those two tools.
+During this first week, it will be important to start getting comfortable with a couple of the tools we will use for the course. There is a [WordPress Setup](https://cmadland.github.io/edci338-202201/wordpress-setup) and a [GitHub Setup](https://cmadland.github.io/edci338-202201/github-setup) page with instructions for how to get started with those two tools. It will be important for you to get started with these tools as they will be critical to your work in the course.
+
+I have created a poll to help us decide on a weekly meeting time, but for this week, let's meet at 9:00am Pacific time in Zoom at the link that I sent in the announcement from Brightspace
 
 ```{block, type='todo'}
 #### Things To Do This Week
 ✔️ Read the syllabus, which will be [posted in Brightspace](https://bright.uvic.ca/) early this week.
 ✔️ Sign up for a [WordPress site](https://cmadland.github.io/edci338-202201/wordpress-setup).  
 ✔️ Register for a [GitHub account](https://cmadland.github.io/edci338-202201/github-setup).  
-✔️ Visit the [course repo on Github](https://github.com/cmadland/edci338-202201) and create a `Learner Profile` issue.  
+✔️ Visit the [course repo on Github](https://github.com/cmadland/edci338-202201) and create a `Learner Profile` issue (click `Issues` to get going...).  
 ✔️ Sign up for [hypothes.is](https://hypothes.is) and [join the `edci338` private group](https://hypothes.is/groups/KPPbMpdo/edci338).  
 ✔️ Annotate the [Course Details](https://cmadland.github.io/edci338-202201/course-details.html) and [Assessment](https://cmadland.github.io/edci338-202201/assessment) pages with your questions, comments, concerns, or other observations.
 ```

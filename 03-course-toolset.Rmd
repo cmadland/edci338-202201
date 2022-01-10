@@ -25,7 +25,7 @@ Additionally, you will sign up for and create your own WordPress site. It is on 
 
 
 A significant part of the work you will do for EDCI338 will be in the context of creating content using a collaborative tool. GitHub is a tool designed for the collaborative creation of software, but it can also be used for people looking to collaborate on text and multi-media documents. While GitHub may be unfamiliar to some of you, the workflow is not difficult to learn.  
-- sign up with your `___@uvic.ca` email address to get a free upgrade.
+- sign up with your uvic.ca email address to get a free upgrade.
 
 ```
 
@@ -40,11 +40,7 @@ The secondary tools are more topical in the course and will be the subjects of o
 
 There are numerous feed readers available on the web, but two that I recommend are [Feedly](https://feedly.com) and, my personal choice, [Inoreader](https://inoreader.com). Both offer free plans with 'pro' upgrades, but the free plans should be more than adequate for this course. Feed readers allow users to aggregate updates, or feeds, from various sources, such as blogs or news websites. Unfortunately, the free tier of most feed readers doesn't include the ability to subscribe to social media feeds, such as Twitter or TikTok. A feed reader can help you stay in touch with others in this course as well as receive notifications on my updates.
 
-
-##### Notion {-}
-
-Notion is a tool that I use to track your progress through the course and to provide feedback on your work. You can also use it to manage your time and communicate with your learning pod throughout the course.
-- sign up with your ___@uvic.ca email address to get a free upgrade.
+The following are some possible social networking tools that we might explore in the course, depending on your interests.
 
 ##### Twitter{-}
 
@@ -72,7 +68,7 @@ Notion is a tool that I use to track your progress through the course and to pro
 
 ##### Mastodon.social
 
-##### GitHub
+##### Others?
 
 
 
