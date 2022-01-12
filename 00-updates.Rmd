@@ -1,5 +1,23 @@
 # Updates {-}
 
+
+## Week One - Wednesday, Jan 12 {-}
+
+It's good to see you starting to register your WordPress sites, signing up for GitHub (BTW, don't choose a paid plan!), and submitting your first issue to the 'Learner Profiles'. [You can see others who have submitted their issues as well at this link.](https://github.com/cmadland/edci338-202201/issues) While you are there, you can click on your own issue and add a label to align yourself with a Learning Pod.
+
+![Screenshot of adding a label to a Github issue](assets/w1/gh-label-1.png)
+
+Also, in the EDCI338 repository that you created in your own account, please go to 'Settings', then 'Manage access', and click the green 'Add people' button and add me as a collaborator to your repository. My GitHub username is `cmadland`. Since the Learner Profile issues you created in the course repo are public to the course, we will use your own private repository to track your work and have assessment conversations.
+
+![Manage access to a repository in GitHub.](assets/w1/gh-access.png)
+
+```{block, type='protip'}
+#### ✨ ProTip{-}
+It is perfectly normal to feel a bit overwhelmed or intimidated at the beginning of a course. EDCI338 has a bunch of front-loaded set up in technologies, and that always takes time. Please be patient with yourself and don't hesitate to reach out if you need assistance.
+```
+
+---
+
 ## Week One (Jan 10-16) {-}
 
 Hello everyone and thank you for joining this course! 

@@ -63,11 +63,11 @@ You can create an ordered list by doing the same with a number and a `.`...
 
 Images use the same syntax as hyperlinks, except they use an `!` at the beginning, so...
 
-`![Ellie with a cactus in her nose](assets/poor-ellie.jpg)` renders to
+`![Ellie with a cactus in her nose](assets/w1/poor-ellie.jpg)` renders to
 
-![Ellie with a cactus in her nose](assets/poor-ellie.jpg)
+![Ellie with a cactus in her nose](assets/w1/poor-ellie.jpg)
 
-The difference with images is that you need to make sure the image is physically in the same repository that you are working in. In this case, the image is in the `assets` folder.
+The difference with images is that you need to make sure the image is physically in the same repository that you are working in. In this case, the image is in the `assets/w1/` folder.
 
 
 ```{block, type='todo'}
