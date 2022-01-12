@@ -67,7 +67,7 @@ Perry Plewes and a co-op student are available for technical help for students i
 
 ## UVic Students' Society Peer Support {-}
 
-![UVic Peer Support Poster](docs/_assets/UVSS-peer.jpg)
+![UVic Peer Support Poster](assets/UVSS-peer.jpg)
 
 [UVSS Peer Support Site](https://uvss.ca/peer-support-centre/)
 
