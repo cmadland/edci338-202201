@@ -1,5 +1,17 @@
 # Updates {-}
 
+## Week one mini update - Thursday {-}
+
+```{block, type='gh'}
+#### GitHub
+
+In the spirit of learning together, I've learned that I need to add you as collaborators on the course repository in order for you to use your Learner Profile issues to organize Learning Pods. Those of you who have created your Learner Profiles in GitHub as of 4:45pm on Thursday have been invited as collaborators and should see an email in your inbox with the invitation.
+
+Once you are a collaborator, you will be able to add the Learning Pod label to your profile..
+
+```
+
+---
 
 ## Week One - Wednesday, Jan 12 {-}
 
