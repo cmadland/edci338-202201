@@ -1,5 +1,49 @@
 # Updates {-}
 
+## Weekend Update 1 {-}
+
+...not that Weekend Update.
+
+Happy Saturday, at least I hope it is for you! For those of you in Victoria, stay away from the beaches for a bit until the tsunami warning is lifted! 
+
+As of this morning, 19 of you have signed up for a GitHub account and created your Learner Profile in the course repository. Thank you for doing that. I know that everyone has different schedules, and in the past, most learners in my online classes do most of the work over the weekend. I anticipate a good number of you will be able to get going today and tomorrow.
+
+Just a reminder that you won't be able to add the learning pod label to your learner profile until after I have added you as a collaborator in the repo. So far, I have added everyone who has submitted a Learner Profile issue, but there are a few of you who have not accepted that invitation. You can see the invitation if you sign in to Github and visit the course repo. There will be a blue notice towards the top of the page.
+
+As I mentioned previously, it really is important to get a good start becoming familiar with the technologies we will be using this term. Technology is a significant part of the ***content*** of this course, not just the medium for communication. If you are having challenges, please reach out to me as soon as possible! I've published in Brightspace (look in the Content navigator) a link you can use to book an appointment. I encourage you to book as a learning pod or as an individual.
+
+Good to see several of you annotating the course book using Hypothes.is! While you are welcome to post publicly, I have created a private group for EDCI338 if you would prefer to use that. Check out '[Things to do this week](https://cmadland.github.io/edci338-202201/updates.html#things-to-do-this-week)'. You will notice that there are several points in the course book where the text is highlighted, as below:
+
+![hypothes.is annotations](assets/w1/hypothesis.png)
+
+These are annotations using hypothes.is and you can access the tool by clicking the little arrow in the top right corner of the course book.
+
+![hypothes.is access](assets/w1/hypothesis-2.png)
+
+Then when the overlay opens, you'll be able to sign in or sign up to annotate the page.
+
+Hypothes.is is active throughout the book, so you can use it to ask questions about any page...even this one. If you do that, then answers to your questions will ba available to the whole class. Wins all around!
+
+```{block, type='caution'}
+#### 🕐 Class Meeting Times
+
+The class meeting time poll has closed and the most popular time (8 votes out of 14 people who voted) was [1:00pm on Fridays - Click to see a time Zone Converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Course+Meeting+Time+%28Weekly%29&iso=20220121T13&p1=1091) . I usually like to meet earlier in the week, but I'm happy to fit the course schedule and rhythm to what works for most of you.
+
+Please let me know if you or your learning pod need to connect! I'm happy to make time for you.
+
+```
+
+I'll end with this...
+
+![JodyVance on Twitter](assets/w1/jodyvance-tweet.png)
+
+Have a good weekend!
+
+---
+
+
+
+
 ## Week one mini update - Thursday {-}
 
 ```{block, type='gh'}
