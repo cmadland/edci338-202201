@@ -1,6 +1,81 @@
 # Updates {-}
 
-## Weekend Update 1 {-}
+```{block, type='reflect'}
+#### Note
+
+I've reversed the order of the updates on this link so the newest updates are at the bottom of the page. That is because having the newest at the top would have created a disaster of a Table of Contents on the left side of the page. Sorry for the change.
+
+Click the link to the current week in the ToC to navigate to the current updates.
+
+```
+## Week One (Jan 10-16) {-}
+
+Hello everyone and thank you for joining this course! 
+
+My name is Colin Madland and I will be your instructor for this Spring 2022 cohort of EDCI 338, *Social Media and Personalized Learning*. I am a PhD candidate in the Educational Technology area of the Faculty of Education, where I am researching assessment in higher education. You can learn more about me and my research on my [personal website](https://cmad.land) and follow me on [Twitter](https://twitter.com/colinmadland). I live and work in West Kelowna, BC, on the [traditional, unceded, ancestral lands of the `syilx` people](https://wfn.ca) and I am grateful to be a guest here.
+
+When I am not working on my reasearch, or my day-job at another BC university, I really enjoy riding my bicycle, cooking all sorts of deliciousness on my grill, and hanging out with my family, which includes my wife, 2 two sons, 1 daughter-in-law, 1 daughter, 1 son-in-law, and 1 grandson. Some people might include the fur-bearing beasts (a dog and a cat) in the 'family' category, I know they certainly do!
+
+I'm going to be honest with you (hopefully that isn't surprising...) and perhaps a bit vulnerable. I'm teaching EDCI338 for the first time this spring, and the course requires a significant investment in learning to use some technologies that you and I both may not be entirely familiar with. There aren't really any good ways to think deeply about social media without actually engaging in social media. That can be really challenging, especially in the midst of the ongoing dispruption of our lives due to COVID-19. Disruption can take many forms, from being physically sick with COVID, to having family members and friends being affected, to losing jobs, and on and on. As a result, it can be really hard to focus on learning. So, I want you to understand from the very beginning that it is my *responsibility* in this course to do whatever it is that I can to support your success.
+
+```{block, type='reflect'}
+#### 💯 My commitment to you...
+**I am committed to helping you achieve success in this course, and I trust you to contact me if you have questions or concerns.**
+
+```
+I hope you will find that you are welcome to approach me through whatever media I've published. Admittedly, sometimes I miss notifcations, but that is not on you. I encourage you to be persistent if you haven't heard a reply after a day or so.
+
+### Getting Going {-}
+
+During this first week, it will be important to start getting comfortable with a couple of the tools we will use for the course. There is a [WordPress Setup](https://cmadland.github.io/edci338-202201/wordpress-setup) and a [GitHub Setup](https://cmadland.github.io/edci338-202201/github-setup) page with instructions for how to get started with those two tools. It will be important for you to get started with these tools as they will be critical to your work in the course.
+
+I have created a poll to help us decide on a weekly meeting time, but for this week, let's meet at 9:00am Pacific time in Zoom at the link that I sent in the announcement from Brightspace
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ Read the syllabus, which will be [posted in Brightspace](https://bright.uvic.ca/) early this week.  
+✔️ Sign up for a [WordPress site](https://cmadland.github.io/edci338-202201/wordpress-setup).  
+✔️ Register for a [GitHub account](https://cmadland.github.io/edci338-202201/github-setup).  
+✔️ Visit the [course repo on Github](https://github.com/cmadland/edci338-202201) and create a `Learner Profile` issue (click `Issues` to get going...).  
+✔️ Sign up for [hypothes.is](https://hypothes.is) and [join the `edci338` private group](https://hypothes.is/groups/KPPbMpdo/edci338).  
+✔️ Annotate the [Course Details](https://cmadland.github.io/edci338-202201/course-details.html) and [Assessment](https://cmadland.github.io/edci338-202201/course-assessment) pages with your questions, comments, concerns, or other observations.
+```
+
+---
+
+### Week One - Wednesday, Jan 12 {-}
+
+It's good to see you starting to register your WordPress sites, signing up for GitHub (BTW, don't choose a paid plan!), and submitting your first issue to the 'Learner Profiles'. [You can see others who have submitted their issues as well at this link.](https://github.com/cmadland/edci338-202201/issues) While you are there, you can click on your own issue and add a label to align yourself with a Learning Pod.
+
+![Screenshot of adding a label to a Github issue](assets/w1/gh-label-1.png)
+
+Also, in the EDCI338 repository that you created in your own account, please go to 'Settings', then 'Manage access', and click the green 'Add people' button and add me as a collaborator to your repository. My GitHub username is `cmadland`. Since the Learner Profile issues you created in the course repo are public to the course, we will use your own private repository to track your work and have assessment conversations.
+
+![Manage access to a repository in GitHub.](assets/w1/gh-access.png)
+
+```{block, type='protip'}
+#### ✨ ProTip{-}
+It is perfectly normal to feel a bit overwhelmed or intimidated at the beginning of a course. EDCI338 has a bunch of front-loaded set up in technologies, and that always takes time. Please be patient with yourself and don't hesitate to reach out if you need assistance.
+```
+
+---
+
+### Week One Mini Update - Thursday {-}
+
+```{block, type='gh'}
+#### GitHub
+
+In the spirit of learning together, I've learned that I need to add you as collaborators on the course repository in order for you to use your Learner Profile issues to organize Learning Pods. Those of you who have created your Learner Profiles in GitHub as of 4:45pm on Thursday have been invited as collaborators and should see an email in your inbox with the invitation.
+
+Once you are a collaborator, you will be able to add the Learning Pod label to your profile..
+
+```
+
+---
+
+
+
+### Weekend Update 1 {-}
 
 ...not that Weekend Update.
 
@@ -43,68 +118,33 @@ Have a good weekend!
 
 ---
 
+## Week Two (Jan 17-23) {-}
+ 
 
+Thank you all for your work over this first week to get started with both WordPress and GitHub, and a bit of hypothes.is. Over the next couple days, I will get your blog links and feeds set up on the course hub so that you'll be able to find each others' thoughts and reflections. I have sent invitations to everyone who has submitted a Learner Profile issue on the course repository. If you haven't yet completed that task, please do so as soon as possible this week to ensure you can join a Learning Pod.
 
+This week, we will begin looking at, thinking about, talking about and reflecting on what it means to be a participant in this "gnarly hairball", as danah boyd writes, of a digital culture we live in. We are interconnected in ways that we neither recognize nor give assent to, yet there are those who argue that we can use these same connections to derive significant relational value with other people. Social media is evolving tremendously rapidly (TikTok is only 5 years old and is already forcing YouTube and Instagram to change their approaches), and in many ways, careful thought about the implications of all this has not been at the forefront.
 
-## Week one mini update - Thursday {-}
+We will think a bit about the importance of both building a network of allies and also the challenges of TMI (too much information).
 
-```{block, type='gh'}
-#### GitHub
+To get started, here are four articles and blog posts you should read:
 
-In the spirit of learning together, I've learned that I need to add you as collaborators on the course repository in order for you to use your Learner Profile issues to organize Learning Pods. Those of you who have created your Learner Profiles in GitHub as of 4:45pm on Thursday have been invited as collaborators and should see an email in your inbox with the invitation.
+- [What is a Personal Learning Network?](https://www.futurelearn.com/courses/learning-network-age/0/steps/24644)
+- [What are Personal Learning Networks?](https://www.shiftelearning.com/blog/personal-learning-networks)
+- [Understanding Personal Learning Networks](https://firstmonday.org/ojs/index.php/fm/article/view/3559/3131)
+- [Networked Privacy](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/networked)
 
-Once you are a collaborator, you will be able to add the Learning Pod label to your profile..
-
-```
-
----
-
-## Week One - Wednesday, Jan 12 {-}
-
-It's good to see you starting to register your WordPress sites, signing up for GitHub (BTW, don't choose a paid plan!), and submitting your first issue to the 'Learner Profiles'. [You can see others who have submitted their issues as well at this link.](https://github.com/cmadland/edci338-202201/issues) While you are there, you can click on your own issue and add a label to align yourself with a Learning Pod.
-
-![Screenshot of adding a label to a Github issue](assets/w1/gh-label-1.png)
-
-Also, in the EDCI338 repository that you created in your own account, please go to 'Settings', then 'Manage access', and click the green 'Add people' button and add me as a collaborator to your repository. My GitHub username is `cmadland`. Since the Learner Profile issues you created in the course repo are public to the course, we will use your own private repository to track your work and have assessment conversations.
-
-![Manage access to a repository in GitHub.](assets/w1/gh-access.png)
-
-```{block, type='protip'}
-#### ✨ ProTip{-}
-It is perfectly normal to feel a bit overwhelmed or intimidated at the beginning of a course. EDCI338 has a bunch of front-loaded set up in technologies, and that always takes time. Please be patient with yourself and don't hesitate to reach out if you need assistance.
-```
-
----
-
-## Week One (Jan 10-16) {-}
-
-Hello everyone and thank you for joining this course! 
-
-My name is Colin Madland and I will be your instructor for this Spring 2022 cohort of EDCI 338, *Social Media and Personalized Learning*. I am a PhD candidate in the Educational Technology area of the Faculty of Education, where I am researching assessment in higher education. You can learn more about me and my research on my [personal website](https://cmad.land) and follow me on [Twitter](https://twitter.com/colinmadland). I live and work in West Kelowna, BC, on the [traditional, unceded, ancestral lands of the `syilx` people](https://wfn.ca) and I am grateful to be a guest here.
-
-When I am not working on my reasearch, or my day-job at another BC university, I really enjoy riding my bicycle, cooking all sorts of deliciousness on my grill, and hanging out with my family, which includes my wife, 2 two sons, 1 daughter-in-law, 1 daughter, 1 son-in-law, and 1 grandson. Some people might include the fur-bearing beasts (a dog and a cat) in the 'family' category, I know they certainly do!
-
-I'm going to be honest with you (hopefully that isn't surprising...) and perhaps a bit vulnerable. I'm teaching EDCI338 for the first time this spring, and the course requires a significant investment in learning to use some technologies that you and I both may not be entirely familiar with. There aren't really any good ways to think deeply about social media without actually engaging in social media. That can be really challenging, especially in the midst of the ongoing dispruption of our lives due to COVID-19. Disruption can take many forms, from being physically sick with COVID, to having family members and friends being affected, to losing jobs, and on and on. As a result, it can be really hard to focus on learning. So, I want you to understand from the very beginning that it is my *responsibility* in this course to do whatever it is that I can to support your success.
-
-```{block, type='reflect'}
-#### 💯 My commitment to you...
-**I am committed to helping you achieve success in this course, and I trust you to contact me if you have questions or concerns.**
-
-```
-I hope you will find that you are welcome to approach me through whatever media I've published. Admittedly, sometimes I miss notifcations, but that is not on you. I encourage you to be persistent if you haven't heard a reply after a day or so.
-
-### Getting Going {-}
-
-During this first week, it will be important to start getting comfortable with a couple of the tools we will use for the course. There is a [WordPress Setup](https://cmadland.github.io/edci338-202201/wordpress-setup) and a [GitHub Setup](https://cmadland.github.io/edci338-202201/github-setup) page with instructions for how to get started with those two tools. It will be important for you to get started with these tools as they will be critical to your work in the course.
-
-I have created a poll to help us decide on a weekly meeting time, but for this week, let's meet at 9:00am Pacific time in Zoom at the link that I sent in the announcement from Brightspace
+Please read these articles and then engage in some thinking in light of them during the following activities:
 
 ```{block, type='todo'}
 #### Things To Do This Week
-✔️ Read the syllabus, which will be [posted in Brightspace](https://bright.uvic.ca/) early this week.  
-✔️ Sign up for a [WordPress site](https://cmadland.github.io/edci338-202201/wordpress-setup).  
-✔️ Register for a [GitHub account](https://cmadland.github.io/edci338-202201/github-setup).  
-✔️ Visit the [course repo on Github](https://github.com/cmadland/edci338-202201) and create a `Learner Profile` issue (click `Issues` to get going...).  
-✔️ Sign up for [hypothes.is](https://hypothes.is) and [join the `edci338` private group](https://hypothes.is/groups/KPPbMpdo/edci338).  
-✔️ Annotate the [Course Details](https://cmadland.github.io/edci338-202201/course-details.html) and [Assessment](https://cmadland.github.io/edci338-202201/course-assessment) pages with your questions, comments, concerns, or other observations.
+✔️ Read the four articles above.  
+✔️ Individually, [use this Canva template](https://www.canva.com/design/DAEo_K9K5q4/e6I7IJotSwXu2X7JFwtOHw/view?utm_content=DAEo_K9K5q4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview), (or download the Venn Diagram image below, or draw your own) to think about how and why you participate in networked public spaces (the bottom-left circle), and how those ideas interact with your offline life (bottom-right circle), and with some other sphere of your life (top circle). You do not need to publish this, although you are welcome to, so the intent is to get you thinking about how the various circles of influence in your life interact, overlap, or maybe conflict.  
+✔️ Meet with your learning pod, ideally before the class meeting on Friday (1:00 Pacific Time) to discuss any questions you had about the readings or the Venn diagram activity. Feel free also to connect with each other about what social media tools you are particularly interested in.  
+✔️ Publish your first [Wow and Wonder post](https://cmadland.github.io/edci338-202201/course-assessment.html#community-contributions-and-connections-30) on your WordPress blog. Make sure that your blog link is in your [Learner Profile issue on the course repo](https://github.com/cmadland/edci338-202201/issues) and that you use the category `edci338`.  
+✔️ Meet in the course Zoom link (published in Brightspace) on [Friday at 1:00 pm, Pacific time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Course+Meeting+Time+%28Weekly%29&iso=20220121T13&p1=1091).  
+
 ```
+
+
+![Downloadable Venn Diagram Template](assets/w2/venn-diagram.png)
