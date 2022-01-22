@@ -127,12 +127,13 @@ This week, we will begin looking at, thinking about, talking about and reflectin
 
 We will think a bit about the importance of both building a network of allies and also the challenges of TMI (too much information).
 
+#### Week 2 Readings {-} 
 To get started, here are four articles and blog posts you should read:
 
-- [What is a Personal Learning Network?](https://www.futurelearn.com/courses/learning-network-age/0/steps/24644)
-- [What are Personal Learning Networks?](https://www.shiftelearning.com/blog/personal-learning-networks)
-- [Understanding Personal Learning Networks](https://firstmonday.org/ojs/index.php/fm/article/view/3559/3131)
-- [Networked Privacy](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/networked)
+- [What is a Personal Learning Network?](https://www.futurelearn.com/courses/learning-network-age/0/steps/24644)  
+- [What are Personal Learning Networks?](https://www.shiftelearning.com/blog/personal-learning-networks)  
+- [Understanding Personal Learning Networks](https://firstmonday.org/ojs/index.php/fm/article/view/3559/3131)  
+- [Networked Privacy](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/networked)  
 
 Please read these articles and then engage in some thinking in light of them during the following activities:
 
@@ -151,8 +152,19 @@ Please read these articles and then engage in some thinking in light of them dur
 
 ### Weekend Update 2 {-}
 
-Welcome to the weekend! I trust that you will be productive, unplugged, connected to support, rested, or whatever is needed in whatever measure you require.
+Welcome to the weekend! I trust that you will be productive, unplugged, connected to support, rested, or whatever you need in whatever measure you require.
 
 It was good to meet with about a third of you on Friday at 1:00 Pacific time. We were able to connect on some questions and get some more detail about using GitHub to manage your work in this course. Fortunately, I remembered to record the shareable parts of the meeting and [post the recording to Brightspace under 'Zoom Recordings'](https://bright.uvic.ca/d2l/le/content/152781/viewContent/1565567/View). Feel free to have a look.
 
-There are a few of you who have joined from the waitlist in the last few days, so welcome to you!
+There are a few of you who have joined from the waitlist in the last few days, so welcome to you! [It will be important for you to review the updates from Week 1](https://cmadland.github.io/edci338-202201/updates.html#week-one-jan-10-16) in order to catch up to others in the class. Please let me know if you have questions!
+
+Hopefully, by the end of tomorrow (Sunday) you will have read the four articles listed under [Week 2 Readings](https://cmadland.github.io/edci338-202201/updates.html#week-2-readings) and met with your Learning Pod to discuss the readings, the Venn diagram activity, or any technical questions you might have so far.
+
+```{block, type='protip'}
+#### 💭 Remember
+
+It is critical for you to stay in contact with either me or your Learning Pod or both if you are having difficulties! I recognize that there is a heavy technology lift at the beginning of this course, but I am confident that you can learn the workflow.
+
+It will be important for all of you to have completed all of the technology set-up tasks in GitHub and WordPress as we will be using GitHub more next week.
+
+```
