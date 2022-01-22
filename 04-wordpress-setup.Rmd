@@ -40,7 +40,7 @@ For EDCI 338, we will be using the Open and Educational Technology Collective, h
 <div id="attachment_271" style="width: 686px" class="wp-caption aligncenter"><a href="https://edtechuvic.ca/edci335/creating-a-blog-on-the-openetc/screen-shot-2020-05-03-at-2-03-47-pm/" rel="attachment wp-att-271"><img aria-describedby="caption-attachment-271" loading="lazy" class="size-large wp-image-271" src="https://edtechuvic.ca/edci335/wp-content/uploads/sites/8/2020/05/Screen-Shot-2020-05-03-at-2.03.47-PM-1024x143.png" alt="Empty Dashboard." width="676" height="94" srcset="https://edtechuvic.ca/edci335/wp-content/uploads/sites/8/2020/05/Screen-Shot-2020-05-03-at-2.03.47-PM-1024x143.png 1024w, https://edtechuvic.ca/edci335/wp-content/uploads/sites/8/2020/05/Screen-Shot-2020-05-03-at-2.03.47-PM-300x42.png 300w, https://edtechuvic.ca/edci335/wp-content/uploads/sites/8/2020/05/Screen-Shot-2020-05-03-at-2.03.47-PM-768x108.png 768w, https://edtechuvic.ca/edci335/wp-content/uploads/sites/8/2020/05/Screen-Shot-2020-05-03-at-2.03.47-PM-600x84.png 600w, https://edtechuvic.ca/edci335/wp-content/uploads/sites/8/2020/05/Screen-Shot-2020-05-03-at-2.03.47-PM-945x132.png 945w, https://edtechuvic.ca/edci335/wp-content/uploads/sites/8/2020/05/Screen-Shot-2020-05-03-at-2.03.47-PM.png 1221w" sizes="(max-width: 676px) 100vw, 676px" /></a><p id="caption-attachment-271" class="wp-caption-text">Empty Dashboard.</p></div>
 <h4>Stay logged in and <a href="https://opened.ca/wp-signup.php">visit this link</a>.</h4>
 <ul>
-<li>Make sure &#8216;EDCI 338: UVic Social Media & Personalized Learning - Learner Template&#8217; is selected.</li>
+<li>Make sure &#8216;EDCI 338: UVic Social Media & Personalized Learning - Learner Template&#8217; is selected. Note that this step may be missing as of Jan 11.</li>
 <li>Create a URL domain for your site, which will be ______.opened.ca, where you fill in the blank.
 <ul>
 <li>The URL can contain only lowercase letters (a-z), numbers, and hyphens (no spaces allowed)</li>
@@ -58,7 +58,7 @@ For EDCI 338, we will be using the Open and Educational Technology Collective, h
 <li><strong>The bottom three options, as described above, will prevent your posts from being syndicated to the course site, so please contact your instructor if you choose one of these options.</strong></li>
 </ul>
 </li>
-<li>Double check the EDCI 336 template is selected, then click <strong>Create Site</strong></li>
+<li>Double check the EDCI 338 template is selected, then click <strong>Create Site</strong></li>
 </ul>
 <div class="p-file_image_thumbnail__tiny_thumb_wrapper">
 <h4>Site Confirmation.</h4>

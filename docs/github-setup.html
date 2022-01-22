@@ -27,6 +27,7 @@ The HTML output format for this example is bookdown::gitbook,
 set in the _output.yml file.</p>" />
   
 
+<meta name="author" content="" />
 
 
 
@@ -88,7 +89,11 @@ set in the _output.yml file.</p>" />
 <li class="chapter" data-level="" data-path="updates.html"><a href="updates.html#week-one-jan-10-16"><i class="fa fa-check"></i>Week One (Jan 10-16)</a>
 <ul>
 <li class="chapter" data-level="" data-path="updates.html"><a href="updates.html#getting-going"><i class="fa fa-check"></i>Getting Going</a></li>
+<li class="chapter" data-level="" data-path="updates.html"><a href="updates.html#week-one---wednesday-jan-12"><i class="fa fa-check"></i>Week One - Wednesday, Jan 12</a></li>
+<li class="chapter" data-level="" data-path="updates.html"><a href="updates.html#week-one-mini-update---thursday"><i class="fa fa-check"></i>Week One Mini Update - Thursday</a></li>
+<li class="chapter" data-level="" data-path="updates.html"><a href="updates.html#weekend-update-1"><i class="fa fa-check"></i>Weekend Update 1</a></li>
 </ul></li>
+<li class="chapter" data-level="" data-path="updates.html"><a href="updates.html#week-two-jan-17-23"><i class="fa fa-check"></i>Week Two (Jan 17-23)</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="course-details.html"><a href="course-details.html"><i class="fa fa-check"></i>Course Details</a>
 <ul>
@@ -135,13 +140,15 @@ set in the _output.yml file.</p>" />
 <ul>
 <li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html#markdown"><i class="fa fa-check"></i>Markdown</a>
 <ul>
+<li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html#heading-levels"><i class="fa fa-check"></i>Heading levels</a></li>
 <li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html#styling-text"><i class="fa fa-check"></i>Styling text</a></li>
-<li class="chapter" data-level="0.0.1" data-path="github-setup.html"><a href="github-setup.html#lists"><i class="fa fa-check"></i><b>0.0.1</b> Lists</a></li>
+<li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html#lists"><i class="fa fa-check"></i>Lists</a></li>
 <li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html#hyperlinks"><i class="fa fa-check"></i>Hyperlinks</a></li>
 <li class="chapter" data-level="" data-path="github-setup.html"><a href="github-setup.html#images"><i class="fa fa-check"></i>Images</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="1" data-path="major-project-template.html"><a href="major-project-template.html"><i class="fa fa-check"></i><b>1</b> Major Project Template</a></li>
+<li><a href="blog-list.html#blog-list"><span>Blog List</span></a></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/cmadland/edci338-202201" target="blank">Published with bookdown</a></li>
@@ -172,20 +179,22 @@ set in the _output.yml file.</p>" />
 <p>Which shows up on the page like this…</p>
 <div id="markdown" class="section level2 unnumbered">
 <h2>Markdown</h2>
-<p>Each heading level uses the corresponding number of hashtags.
-### Heading levels {-}</p>
+<p>Each heading level uses the corresponding number of hashtags.</p>
+<div id="heading-levels" class="section level3 unnumbered">
+<h3>Heading levels</h3>
 <pre><code># Heading 1
 ## Heading 2
 ### Heading 3
 #### Heading 4
 ##### Heading 5
 ###### Heading 6</code></pre>
+</div>
 <div id="styling-text" class="section level3 unnumbered">
 <h3>Styling text</h3>
 <p>You can also style text as <em>italics</em> <code>*italics*</code>, or <strong>bold</strong> <code>**bold**</code>, and you can also stack codes so <strong><em>bold italics</em></strong> <code>***bold italics***</code>.</p>
 </div>
-<div id="lists" class="section level3" number="0.0.1">
-<h3><span class="header-section-number">0.0.1</span> Lists</h3>
+<div id="lists" class="section level3 unnumbered">
+<h3>Lists</h3>
 <p>You can quickly and easily create an unordered list (bullets) with either a <code>*</code>, or a <code>-</code> followed by a space…</p>
 <pre><code>- berries
 - fruit
@@ -213,23 +222,30 @@ set in the _output.yml file.</p>" />
 <div id="images" class="section level3 unnumbered">
 <h3>Images</h3>
 <p>Images use the same syntax as hyperlinks, except they use an <code>!</code> at the beginning, so…</p>
-<p><code>![Ellie with a cactus in her nose](_assets/poor-ellie.jpg)</code> renders to</p>
+<p><code>![Ellie with a cactus in her nose](assets/w1/poor-ellie.jpg)</code> renders to</p>
 <div class="figure">
-<img src="_assets/poor-ellie.jpg" alt="" />
+<img src="assets/w1/poor-ellie.jpg" alt="" />
 <p class="caption">Ellie with a cactus in her nose</p>
 </div>
-<p>The difference with images is that you need to make sure the image is physically in the same repository that you are working in. In this case, the image is in the <code>docs/_assets</code> folder.</p>
+<p>The difference with images is that you need to make sure the image is physically in the same repository that you are working in. In this case, the image is in the <code>assets/w1/</code> folder.</p>
 <div class="todo">
 <h4 id="things-to-do-in-github">
 Things To Do in GitHub
 </h4>
 <p>
 ✔️ Register for an account.<br />
-✔️ <a href="https://docs.github.com/en/get-started/quickstart/create-a-repo">Create a new repository</a> called <code>EDCI338</code><br />
+✔️ <a
+href="https://docs.github.com/en/get-started/quickstart/create-a-repo">Create
+a new repository</a> called <code>EDCI338</code><br />
 ✔️ choose ‘Private’ in the visibility settings (step 4, above)<br />
-✔️ Go to the <a href="https://github.com/cmadland/edci338-202201">course repository</a><br />
-✔️ Click <code>Issues</code>, then <code>New Issue</code>, then <code>Get Started</code> to create a Learner Profile for yourself.<br />
-✔️ If you know who will be in your learning pod, please add the <code>Label</code> to your issue that corresponds with your Learning Pod, otherwise, you can just add a label that has fewer than 4 members already.
+✔️ Go to the <a href="https://github.com/cmadland/edci338-202201">course
+repository</a><br />
+✔️ Click <code>Issues</code>, then <code>New Issue</code>, then
+<code>Get Started</code> to create a Learner Profile for yourself.<br />
+✔️ If you know who will be in your learning pod, please add the
+<code>Label</code> to your issue that corresponds with your Learning
+Pod, otherwise, you can just add a label that has fewer than 4 members
+already.
 </p>
 </div>
 
