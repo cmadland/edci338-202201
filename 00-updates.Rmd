@@ -169,7 +169,7 @@ It will be important for all of you to have completed all of the technology set-
 
 ```
 
-<!--
+
 ## Week Three (Jan 24 - 30) {-}
 
 In Week 3, we are going to dive a bit more deeply into thinking about how you choose to present yourself in digital spaces, where you have control over that, and what you might do to regain control where it is lacking. Hopefully you recall the goals of the course, which include you being able to `explain personalized learning and its relation to learning theory`, and `recognize that the Internet is not a neutral or equal space for everyone`. You also should recall that your culminating post for this course, your [Celebration of Learning](https://cmadland.github.io/edci338-202201/course-assessment.html#celebration-of-learning-30), will require you to demonstrate how you have met each of the outcomes for the course. As such, it's not too early to get started on your Celebration of Learning post as a draft on your site.
@@ -197,8 +197,52 @@ In GitHub, you can go to the 'Insights' tab, and then choose 'Network', where yo
 
 ![Github Network Graph](assets/w3/gh-graph.png)
 
-In the graph, you can see that there are two 'branches' in the repository. A repository begins with only one branch, called 'main', but users can create branches, or copies, of the main branch in order to test features in the software, or ideas in the course, as it may be. You can see that thise repository has two branches, the main branch (white, on the top), and a second branch called `dev` (green, on the bottom). The white line that drops down from `main` to `dev` on Jan 22 is when I merged the two branches by pushing changes I had made in `main` (the white dots) to `dev` so that the two branches were the same. I did this through a process called a `pull request`, or `PR`.
+In the graph, you can see that there are two 'branches' in the repository. A repository begins with only one branch, called `main`, but users can create branches, or copies, of the main branch in order to test features in the software, or ideas in the course, as it may be. You can see that this repository has two branches, the main branch (white, on the top), and a second branch called `dev` (green, on the bottom). The white line that drops down from `main` to `dev` on Jan 22 is when I merged the two branches by pushing changes I had made in `main` (the white dots) to `dev` so that the two branches were the same. I did this through a process called a `pull request`, or `PR`.
 
-By the time, you see these instructions, I will have pushed changes from `main` to `dev` again, but `dev` will be ahead of `main` because I will have made changes on `dev` and started a pull request. The pull request is a suggested addition of a Code of Conduct. The Code of Conduct I am suggesting is based on (or forked from) other open source codes, but it doesn't quite fit for application in a course (I think).
+By the time you see these instructions, I will have pushed changes from `main` to `dev` again, but `dev` will be ahead of `main` because I will have made changes on `dev` and started a pull request. The PR is the suggested addition of a Code of Conduct. The Code of Conduct I am suggesting is based on (or forked from) other open source codes, but it doesn't quite fit for application in a course (I think).
 
--->
+Our primary task for this week will be to review the pull request and come to a decision (maybe a consensus, maybe not) about how to proceed. We might choose to revise the code, accept it as is, or create a completely new one...but we shouldn't proceed without one.
+
+To see the pull request, sign in to Github and click the 'Pull requests' tab in the menu just below the title of the repository.
+
+You will see that there will be one open pull request for you to click on. Once in the PR interface, you will be able to scroll down the page to see an overview of the proposed changes. You can get a more detailed view if you click 'Files changed', which will show you a split view of the old file on the left, with deletions in red, and the new file on the right, with additions in green.
+
+![GitHub Split Screen View of Proposed Changes](assets/w3/gh-split.png)
+
+In the split view, you can hover over one of the lines in the view to see a blue square with a white + sign. Clicking this plus sign will allow you to make a comment about that particular line.
+
+On the 'Conversation' tab, there is space for a discussion of the PR as a whole at the bottom of the page.
+
+```{block, type='caution'}
+#### Caution
+
+The course book at cmadland.github.io/edci338-202201 is being served to the web from the `main` branch, so it will be important that you follow the instructions below carefully!
+
+```
+
+```{block, type='gh'}
+#### GitHub
+
+##### Sign in to GitHub.
+
+##### Click 'Pull requests' and find the `Code of Conduct` PR.
+
+##### Click `Files changed` and read through the proposed Code of Conduct.
+- Leave comments or questions at points that you think we need to clarify, delete, or maybe revise.
+- I have assigned one `Reviewer` from each Learning Pod who will act as the official approver of the code for that particular learning pod, so make sure you come to some sort of agreement.
+- Leave overall questions and comments on the discussion at the bottom of the `Conversation` tab.
+- After we have discussed any of the issues you might find, I will merge the PR into the `main` branch and the code of conduct will come into effect.
+
+```
+
+As always, please make sure you get in touch with me if you are having challenges!
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ All the things from weeks one and two.  
+✔️ Read the [Siemens article.](https://cmadland.github.io/edci338-202201/articles.html#connectivism-a-learning-theory-for-the-digital-age)  
+✔️ Read and comment on the GitHub pull request as described above.  
+✔️ Publish your second Wow and Wonder on your blog. To clarify a bit...this should be a short post that describes one thing that struck you as important (Wow), and one question that you have (Wonder). Your Wow and wonder posts are required but not graded and they should serve as conversation starters in your Learning Pod meetings.  
+✔️ If you are not yet connected with a Learning Pod or [showing on the Blog List page on the course hub](https://edtechuvic.ca/edci338/a01-blog-list/), please contact me as soon as possible!  
+
+```
