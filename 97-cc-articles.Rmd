@@ -1,0 +1,199 @@
+# Articles {-}
+
+The following articles are reproduced here under their respective Creative Commons licenses.
+
+## Connectivism: A Learning Theory for the Digital Age {-}
+
+```{block, type='reflect'}
+#### Reference
+
+Siemens, G. (2005). [Connectivism: A Learning Theory for the Digital Age.](https://www.itdl.org/Journal/Jan_05/article01.htm)  *International Journal of Instructional Technology and Distance Learning, 2*(1). 
+
+
+```
+
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.itdl.org/Journal/Jan_05/article01.htm">Connectivism: A Learning Theory for the Digital Age</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/gsiemens">George Siemens</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
+
+
+### Introduction {-}
+
+Behaviorism, cognitivism, and constructivism are the three broad learning theories most often utilized in the creation of instructional environments. These theories, however, were developed in a time when learning was not impacted through technology. Over the last twenty years, technology has reorganized how we live, how we communicate, and how we learn. Learning needs and theories that describe learning principles and processes, should be reflective of underlying social environments. Vaill emphasizes that “learning must be a way of being – an ongoing set of attitudes and actions by individuals and groups that they employ to try to keep abreast of the surprising, novel, messy, obtrusive, recurring events…” (1996, p.42).
+
+Learners as little as forty years ago would complete the required schooling and enter a career that would often last a lifetime. Information development was slow. The life of knowledge was measured in decades. Today, these foundational principles have been altered. Knowledge is growing exponentially. In many fields the life of knowledge is now measured in months and years. Gonzalez (2004) describes the challenges of rapidly diminishing knowledge life:
+
+“One of the most persuasive factors is the shrinking half-life of knowledge. The “half-life of knowledge” is the time span from when knowledge is gained to when it becomes obsolete. Half of what is known today was not known 10 years ago. The amount of knowledge in the world has doubled in the past 10 years and is doubling every 18 months according to the American Society of Training and Documentation (ASTD). To combat the shrinking half-life of knowledge, organizations have been forced to develop new methods of deploying instruction.”
+
+Some significant trends in learning:
+
+- Many learners will move into a variety of different, possibly unrelated fields over the course of their lifetime.
+
+- Informal learning is a significant aspect of our learning experience. Formal education no longer comprises the majority of our learning. Learning now occurs in a variety of ways – through communities of practice, personal networks, and through completion of work-related tasks.
+
+- Learning is a continual process, lasting for a lifetime. Learning and work related activities are no longer separate. In many situations, they are the same.
+
+- Technology is altering (rewiring) our brains. The tools we use define and shape our thinking.
+
+- The organization and the individual are both learning organisms. Increased attention to knowledge management highlights the need for a theory that attempts to explain the link between individual and organizational learning.
+
+- Many of the processes previously handled by learning theories (especially in cognitive information processing) can now be off-loaded to, or supported by, technology.
+
+- Know-how and know-what is being supplemented with know-where (the understanding of where to find knowledge needed). 
+
+### Background {-}
+
+Driscoll (2000) defines learning as “a persisting change in human performance or performance potential…[which] must come about as a result of the learner’s experience and interaction with the world” (p.11). This definition encompasses many of the attributes commonly associated with behaviorism, cognitivism, and constructivism – namely, learning as a lasting changed state (emotional, mental, physiological (i.e. skills)) brought about as a result of experiences and interactions with content or other people.
+
+Driscoll (2000, p14-17) explores some of the complexities of defining learning. Debate centers on:
+
+- Valid sources of knowledge - Do we gain knowledge through experiences? Is it innate (present at birth)? Do we acquire it through thinking and reasoning?
+
+- Content of knowledge – Is knowledge actually knowable? Is it directly knowable through human experience?
+
+- The final consideration focuses on three epistemological traditions in relation to learning: Objectivism, Pragmatism, and Interpretivism
+
+  - Objectivism (similar to behaviorism) states that reality is external and is objective, and knowledge is gained through experiences.
+
+  - Pragmatism (similar to cognitivism) states that reality is interpreted, and knowledge is negotiated through experience and thinking.
+
+  - Interpretivism (similar to constructivism) states that reality is internal, and knowledge is constructed.
+
+All of these learning theories hold the notion that knowledge is an objective (or a state) that is attainable (if not already innate) through either reasoning or experiences. Behaviorism, cognitivism, and constructivism (built on the epistemological traditions) attempt to address how it is that a person learns.
+
+Behaviorism states that learning is largely unknowable, that is, we can’t possibly understand what goes on inside a person (the “black box theory”). Gredler (2001) expresses behaviorism as being comprised of several theories that make three assumptions about learning:
+
+- Observable behaviour is more important than understanding internal activities
+
+- Behaviour should be focused on simple elements: specific stimuli and responses
+
+- Learning is about behaviour change 
+
+Cognitivism often takes a computer information processing model. Learning is viewed as a process of inputs, managed in short term memory, and coded for long-term recall. Cindy Buell details this process: “In cognitive theories, knowledge is viewed as symbolic mental constructs in the learner's mind, and the learning process is the means by which these symbolic representations are committed to memory.”
+
+Constructivism suggests that learners create knowledge as they attempt to understand their experiences (Driscoll, 2000, p. 376). Behaviorism and cognitivism view knowledge as external to the learner and the learning process as the act of internalizing knowledge. Constructivism assumes that learners are not empty vessels to be filled with knowledge. Instead, learners are actively attempting to create meaning. Learners often select and pursue their own learning. Constructivist principles acknowledge that real-life learning is messy and complex. Classrooms which emulate the “fuzziness” of this learning will be more effective in preparing learners for life-long learning.
+Limitations of Behaviorism, Cognitivism, and Constructivism
+
+A central tenet of most learning theories is that learning occurs inside a person. Even social constructivist views, which hold that learning is a socially enacted process, promotes the principality of the individual (and her/his physical presence – i.e. brain-based) in learning. These theories do not address learning that occurs outside of people (i.e. learning that is stored and manipulated by technology). They also fail to describe how learning happens within organizations
+
+Learning theories are concerned with the actual process of learning, not with the value of what is being learned. In a networked world, the very manner of information that we acquire is worth exploring. The need to evaluate the worthiness of learning something is a meta-skill that is applied before learning itself begins. When knowledge is subject to paucity, the process of assessing worthiness is assumed to be intrinsic to learning. When knowledge is abundant, the rapid evaluation of knowledge is important. Additional concerns arise from the rapid increase in information. In today’s environment, action is often needed without personal learning – that is, we need to act by drawing information outside of our primary knowledge. The ability to synthesize and recognize connections and patterns is a valuable skill.
+
+Many important questions are raised when established learning theories are seen through technology. The natural attempt of theorists is to continue to revise and evolve theories as conditions change. At some point, however, the underlying conditions have altered so significantly, that further modification is no longer sensible. An entirely new approach is needed.
+
+Some questions to explore in relation to learning theories and the impact of technology and new sciences (chaos and networks) on learning:
+
+- How are learning theories impacted when knowledge is no longer acquired in the linear manner?
+
+- What adjustments need to made with learning theories when technology performs many of the cognitive operations previously performed by learners (information storage and retrieval).
+
+- How can we continue to stay current in a rapidly evolving information ecology?
+
+- How do learning theories address moments where performance is needed in the absence of complete understanding?
+
+- What is the impact of networks and complexity theories on learning?
+
+- What is the impact of chaos as a complex pattern recognition process on learning?
+
+- With increased recognition of interconnections in differing fields of knowledge, how are systems and ecology theories perceived in light of learning tasks? 
+
+### An Alternative Theory {-}
+
+Including technology and connection making as learning activities begins to move learning theories into a digital age. We can no longer personally experience and acquire learning that we need to act. We derive our competence from forming connections. Karen Stephenson states:
+
+“Experience has long been considered the best teacher of knowledge. Since we cannot experience everything, other people’s experiences, and hence other people, become the surrogate for knowledge. ‘I store my knowledge in my friends’ is an axiom for collecting knowledge through collecting people (undated).”
+
+Chaos is a new reality for knowledge workers. ScienceWeek (2004) quotes Nigel Calder's definition that chaos is “a cryptic form of order”. Chaos is the breakdown of predictability, evidenced in complicated arrangements that initially defy order. Unlike constructivism, which states that learners attempt to foster understanding by meaning making tasks, chaos states that the meaning exists – the learner's challenge is to recognize the patterns which appear to be hidden. Meaning-making and forming connections between specialized communities are important activities.
+
+Chaos, as a science, recognizes the connection of everything to everything. Gleick (1987) states: “In weather, for example, this translates into what is only half-jokingly known as the Butterfly Effect – the notion that a butterfly stirring the air today in Peking can transform storm systems next month in New York” (p. 8). This analogy highlights a real challenge: “sensitive dependence on initial conditions” profoundly impacts what we learn and how we act based on our learning. Decision making is indicative of this. If the underlying conditions used to make decisions change, the decision itself is no longer as correct as it was at the time it was made. The ability to recognize and adjust to pattern shifts is a key learning task.
+
+Luis Mateus Rocha (1998) defines self-organization as the “spontaneous formation of well organized structures, patterns, or behaviors, from random initial conditions.” (p.3). Learning, as a self-organizing process requires that the system (personal or organizational learning systems) “be informationally open, that is, for it to be able to classify its own interaction with an environment, it must be able to change its structure…” (p.4). Wiley and Edwards acknowledge the importance of self-organization as a learning process: “Jacobs argues that communities self-organize is a manner similar to social insects: instead of thousands of ants crossing each other’s pheromone trails and changing their behavior accordingly, thousands of humans pass each other on the sidewalk and change their behavior accordingly.”. Self-organization on a personal level is a micro-process of the larger self-organizing knowledge constructs created within corporate or institutional environments. The capacity to form connections between sources of information, and thereby create useful information patterns, is required to learn in our knowledge economy.
+Networks, Small Worlds, Weak Ties
+
+A network can simply be defined as connections between entities. Computer networks, power grids, and social networks all function on the simple principle that people, groups, systems, nodes, entities can be connected to create an integrated whole. Alterations within the network have ripple effects on the whole.
+
+Albert-László Barabási states that “nodes always compete for connections because links represent survival in an interconnected world” (2002, p.106). This competition is largely dulled within a personal learning network, but the placing of value on certain nodes over others is a reality. Nodes that successfully acquire greater profile will be more successful at acquiring additional connections. In a learning sense, the likelihood that a concept of learning will be linked depends on how well it is currently linked. Nodes (can be fields, ideas, communities) that specialize and gain recognition for their expertise have greater chances of recognition, thus resulting in cross-pollination of learning communities.
+
+Weak ties are links or bridges that allow short connections between information. Our small world networks are generally populated with people whose interests and knowledge are similar to ours. Finding a new job, as an example, often occurs through weak ties. This principle has great merit in the notion of serendipity, innovation, and creativity. Connections between disparate ideas and fields can create new innovations.
+Connectivism
+
+Connectivism is the integration of principles explored by chaos, network, and complexity and self-organization theories. Learning is a process that occurs within nebulous environments of shifting core elements – not entirely under the control of the individual. Learning (defined as actionable knowledge) can reside outside of ourselves (within an organization or a database), is focused on connecting specialized information sets, and the connections that enable us to learn more are more important than our current state of knowing.
+
+Connectivism is driven by the understanding that decisions are based on rapidly altering foundations. New information is continually being acquired. The ability to draw distinctions between important and unimportant information is vital. The ability to recognize when new information alters the landscape based on decisions made yesterday is also critical.
+Principles of connectivism:
+
+- Learning and knowledge rests in diversity of opinions.
+
+- Learning is a process of connecting specialized nodes or information sources.
+
+- Learning may reside in non-human appliances.
+
+- Capacity to know more is more critical than what is currently known
+
+- Nurturing and maintaining connections is needed to facilitate continual learning.
+
+- Ability to see connections between fields, ideas, and concepts is a core skill.
+
+- Currency (accurate, up-to-date knowledge) is the intent of all connectivist learning activities.
+
+- Decision-making is itself a learning process. Choosing what to learn and the meaning of incoming information is seen through the lens of a shifting reality. While there is a right answer now, it may be wrong tomorrow due to alterations in the information climate affecting the decision. 
+
+Connectivism also addresses the challenges that many corporations face in knowledge management activities. Knowledge that resides in a database needs to be connected with the right people in the right context in order to be classified as learning. Behaviorism, cognitivism, and constructivism do not attempt to address the challenges of organizational knowledge and transference.
+
+Information flow within an organization is an important element in organizational effectiveness. In a knowledge economy, the flow of information is the equivalent of the oil pipe in an industrial economy. Creating, preserving, and utilizing information flow should be a key organizational activity. Knowledge flow can be likened to a river that meanders through the ecology of an organization. In certain areas, the river pools and in other areas it ebbs. The health of the learning ecology of the organization depends on effective nurturing of information flow.
+
+Social network analysis is an additional element in understanding learning models in a digital era. Art Kleiner (2002) explores Karen Stephenson’s “quantum theory of trust” which “explains not just how to recognize the collective cognitive capability of an organization, but how to cultivate and increase it”. Within social networks, hubs are well-connected people who are able to foster and maintain knowledge flow. Their interdependence results in effective knowledge flow, enabling the personal understanding of the state of activities organizationally.
+
+The starting point of connectivism is the individual. Personal knowledge is comprised of a network, which feeds into organizations and institutions, which in turn feed back into the network, and then continue to provide learning to individual. This cycle of knowledge development (personal to network to organization) allows learners to remain current in their field through the connections they have formed.
+
+Landauer and Dumais (1997) explore the phenomenon that “people have much more knowledge than appears to be present in the information to which they have been exposed”. They provide a connectivist focus in stating “the simple notion that some domains of knowledge contain vast numbers of weak interrelations that, if properly exploited, can greatly amplify learning by a process of inference”. The value of pattern recognition and connecting our own “small worlds of knowledge” are apparent in the exponential impact provided to our personal learning.
+
+John Seely Brown presents an interesting notion that the internet leverages the small efforts of many with the large efforts of few. The central premise is that connections created with unusual nodes supports and intensifies existing large effort activities. Brown provides the example of a Maricopa County Community College system project that links senior citizens with elementary school students in a mentor program. The children “listen to these “grandparents” better than they do their own parents, the mentoring really helps the teachers…the small efforts of the many- the seniors – complement the large efforts of the few – the teachers.” (2002). This amplification of learning, knowledge and understanding through the extension of a personal network is the epitome of connectivism.
+ 
+### Implications {-}
+
+The notion of connectivism has implications in all aspects of life. This paper largely focuses on its impact on learning, but the following aspects are also impacted:
+
+- Management and leadership. The management and marshalling of resources to achieve desired outcomes is a significant challenge. Realizing that complete knowledge cannot exist in the mind of one person requires a different approach to creating an overview of the situation. Diverse teams of varying viewpoints are a critical structure for completely exploring ideas. Innovation is also an additional challenge. Most of the revolutionary ideas of today at one time existed as a fringe element. An organizations ability to foster, nurture, and synthesize the impacts of varying views of information is critical to knowledge economy survival. Speed of “idea to implementation” is also improved in a systems view of learning.
+
+- Media, news, information. This trend is well under way. Mainstream media organizations are being challenged by the open, real-time, two-way information flow of blogging.
+
+- Personal knowledge management in relation to organizational knowledge management
+
+- Design of learning environments
+
+
+### Conclusion {-}
+
+The pipe is more important than the content within the pipe. Our ability to learn what we need for tomorrow is more important than what we know today. A real challenge for any learning theory is to actuate known knowledge at the point of application. When knowledge, however, is needed, but not known, the ability to plug into sources to meet the requirements becomes a vital skill. As knowledge continues to grow and evolve, access to what is needed is more important than what the learner currently possesses.
+
+Connectivism presents a model of learning that acknowledges the tectonic shifts in society where learning is no longer an internal, individualistic activity. How people work and function is altered when new tools are utilized. The field of education has been slow to recognize both the impact of new learning tools and the environmental changes in what it means to learn. Connectivism provides insight into learning skills and tasks needed for learners to flourish in a digital era.
+ 
+### References {-}
+
+Barabási, A. L., (2002) Linked: The New Science of Networks, Cambridge, MA, Perseus Publishing.
+
+Buell, C. (undated). Cognitivism. Retrieved December 10, 2004 from http://web.cocc.edu/cbuell/theories/cognitivism.htm.
+
+Brown, J. S., (2002). Growing Up Digital: How the Web Changes Work, Education, and the Ways People Learn. United States Distance Learning Association. Retrieved on December 10, 2004, from http://www.usdla.org/html/journal/FEB02_Issue/article01.html
+
+Driscoll, M. (2000). Psychology of Learning for Instruction. Needham Heights, MA, Allyn & Bacon.
+
+Gleick, J., (1987). Chaos: The Making of a New Science. New York, NY, Penguin Books.
+
+Gonzalez, C., (2004). The Role of Blended Learning in the World of Technology. Retrieved December 10, 2004 from http://www.unt.edu/benchmarks/archives/2004/september04/eis.htm.
+
+Gredler, M. E., (2005) Learning and Instruction: Theory into Practice – 5th Edition, Upper Saddle River, NJ, Pearson Education.
+
+Kleiner, A. (2002). Karen Stephenson’s Quantum Theory of Trust. Retrieved December 10, 2004 from http://www.netform.com/html/s+b%20article.pdf.
+
+Landauer, T. K., Dumais, S. T. (1997). A Solution to Plato’s Problem: The Latent Semantic Analysis Theory of Acquisition, Induction and Representation of Knowledge. Retrieved December 10, 2004 from http://lsa.colorado.edu/papers/plato/plato.annote.html.
+
+Rocha, L. M. (1998). Selected Self-Organization and the Semiotics of Evolutionary Systems. Retrieved December 10, 2004 from http://informatics.indiana.edu/rocha/ises.html.
+
+ScienceWeek (2004) Mathematics: Catastrophe Theory, Strange Attractors, Chaos. Retrieved December 10, 2004 from http://scienceweek.com/2003/sc031226-2.htm.
+
+Stephenson, K., (Internal Communication, no. 36) What Knowledge Tears Apart, Networks Make Whole. Retrieved December 10, 2004 from http://www.netform.com/html/icf.pdf.
+
+Vaill, P. B., (1996). Learning as a Way of Being. San Francisco, CA, Jossey-Blass Inc.
+
+Wiley, D. A and Edwards, E. K. (2002). Online self-organizing social systems: The decentralized future of online learning. Retrieved December 10, 2004 from http://wiley.ed.usu.edu/docs/ososs.pdf.
+ 
+This work is reproduced here under the original [Creative Commons License - CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/1.0).

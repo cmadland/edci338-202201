@@ -127,12 +127,13 @@ This week, we will begin looking at, thinking about, talking about and reflectin
 
 We will think a bit about the importance of both building a network of allies and also the challenges of TMI (too much information).
 
+#### Week 2 Readings {-} 
 To get started, here are four articles and blog posts you should read:
 
-- [What is a Personal Learning Network?](https://www.futurelearn.com/courses/learning-network-age/0/steps/24644)
-- [What are Personal Learning Networks?](https://www.shiftelearning.com/blog/personal-learning-networks)
-- [Understanding Personal Learning Networks](https://firstmonday.org/ojs/index.php/fm/article/view/3559/3131)
-- [Networked Privacy](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/networked)
+- [What is a Personal Learning Network?](https://www.futurelearn.com/courses/learning-network-age/0/steps/24644)  
+- [What are Personal Learning Networks?](https://www.shiftelearning.com/blog/personal-learning-networks)  
+- [Understanding Personal Learning Networks](https://firstmonday.org/ojs/index.php/fm/article/view/3559/3131)  
+- [Networked Privacy](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/networked)  
 
 Please read these articles and then engage in some thinking in light of them during the following activities:
 
@@ -151,8 +152,97 @@ Please read these articles and then engage in some thinking in light of them dur
 
 ### Weekend Update 2 {-}
 
-Welcome to the weekend! I trust that you will be productive, unplugged, connected to support, rested, or whatever is needed in whatever measure you require.
+Welcome to the weekend! I trust that you will be productive, unplugged, connected to support, rested, or whatever you need in whatever measure you require.
 
 It was good to meet with about a third of you on Friday at 1:00 Pacific time. We were able to connect on some questions and get some more detail about using GitHub to manage your work in this course. Fortunately, I remembered to record the shareable parts of the meeting and [post the recording to Brightspace under 'Zoom Recordings'](https://bright.uvic.ca/d2l/le/content/152781/viewContent/1565567/View). Feel free to have a look.
 
-There are a few of you who have joined from the waitlist in the last few days, so welcome to you!
+There are a few of you who have joined from the waitlist in the last few days, so welcome to you! [It will be important for you to review the updates from Week 1](https://cmadland.github.io/edci338-202201/updates.html#week-one-jan-10-16) in order to catch up to others in the class. Please let me know if you have questions!
+
+Hopefully, by the end of tomorrow (Sunday) you will have read the four articles listed under [Week 2 Readings](https://cmadland.github.io/edci338-202201/updates.html#week-2-readings) and met with your Learning Pod to discuss the readings, the Venn diagram activity, or any technical questions you might have so far.
+
+```{block, type='protip'}
+#### 💭 Remember
+
+It is critical for you to stay in contact with either me or your Learning Pod or both if you are having difficulties! I recognize that there is a heavy technology lift at the beginning of this course, but I am confident that you can learn the workflow.
+
+It will be important for all of you to have completed all of the technology set-up tasks in GitHub and WordPress as we will be using GitHub more next week.
+
+```
+
+
+## Week Three (Jan 24 - 30) {-}
+
+In Week 3, we are going to dive a bit more deeply into thinking about how you choose to present yourself in digital spaces, where you have control over that, and what you might do to regain control where it is lacking. Hopefully you recall the goals of the course, which include you being able to `explain personalized learning and its relation to learning theory`, and `recognize that the Internet is not a neutral or equal space for everyone`. You also should recall that your culminating post for this course, your [Celebration of Learning](https://cmadland.github.io/edci338-202201/course-assessment.html#celebration-of-learning-30), will require you to demonstrate how you have met each of the outcomes for the course. As such, it's not too early to get started on your Celebration of Learning post as a draft on your site.
+
+### Agency {-}
+
+When you have the freedom and ability to take some specific action, it is often said that you have `agency` in that action. Unfortunately, in life, education, and social media, we sometimes lack agency.
+
+![Compliance Tweet](assets/w3/compliance-tweet.png "Tweet by Twitter user @ilana_horn that reads "Which propels learning more –– compliance or curiosity?
+An inescapable conundrum of schooling as an institution is that it asks students to exhibit the former much more than the latter, and, in doing so, actually inhibits meaningful learning."")
+
+[Link to Tweet](https://twitter.com/ilana_horn/status/1485328016301559817?s=20)
+
+Part of what I hope you will gain or develop in this course is a greater sense of agency over your interactions in digital spaces, whether they be networked and public, or not, and especially with respect to the technologies you might want or be required to use for your university education. Networked learning spaces have presented challenges for traditional models of university education, which has grown out of a long and very stable tradition that prioritizes lectures and the `transmission` of knowledge from the expert to the novice. Contrary to the transmission model, a networked model prioritizes the interactions between nodes in the network as the work of learning happens.
+
+In 2005, George Siemens wrote an influential article in which he outlined a vision of a learning theory for a networked time, which he called `connectivism`. One key argument in the theory of connectivism is that knowledge resides not only in individuals, but in the connections between individuals and that knowledge can be accessed through interactions between them. This is why this course is structured the way it is. By having you work in Learning Pods, rather than as individuals, and having you reference each other's posts, it is intended that you will begin to realize the creation of a networked community. Further, by using GitHub and WordPress, which are both designed with features that enable and encourage lasting connections, rather than Brightspace, which is designed for short-term connections (at best), I hope that you, as a collective, will build a productive and supportive community of learners. 
+
+### Safety and Equity {-}
+
+As a cis-gendered straight white male, I recognize that, if life were a video game (it's not, and I don't mean to trivialize the very real challenges we all face), I would be playing the game on the easiest level. I would have all the cheat codes, my challenges would be eminently attainable, and I would be able to breeze through the game with relative ease and comfort. Others, however, such as members of the LGBTQ+ community, Black or Indigenous people, disabled people, women and especially people who live at the intersection of more than one of those communities are all 'playing' under far more challenging conditions, especially online. As such, many open source software communities have adopted community codes of conduct to ensure that all people have equitable opportunities to participate and contribute to the knowledge of the community. As the open education community has emerged from the open source software community, we too have adopted this practice.
+
+In the context of EDCI338, we are going to use this week to consider our own Code of Conduct. To do so, we will start to use the capabilities of GitHub a little more deeply.
+
+In GitHub, you can go to the 'Insights' tab, and then choose 'Network', where you will see a Network graph, as below (it will be a bit different when you see it as I will have committed changes since then).
+
+![Github Network Graph](assets/w3/gh-graph.png)
+
+In the graph, you can see that there are two 'branches' in the repository. A repository begins with only one branch, called `main`, but users can create branches, or copies, of the main branch in order to test features in the software, or ideas in the course, as it may be. You can see that this repository has two branches, the main branch (white, on the top), and a second branch called `dev` (green, on the bottom). The white line that drops down from `main` to `dev` on Jan 22 is when I merged the two branches by pushing changes I had made in `main` (the white dots) to `dev` so that the two branches were the same. I did this through a process called a `pull request`, or `PR`.
+
+By the time you see these instructions, I will have pushed changes from `main` to `dev` again, but `dev` will be ahead of `main` because I will have made changes on `dev` and started a pull request. The PR is the suggested addition of a Code of Conduct. The Code of Conduct I am suggesting is based on (or forked from) other open source codes, but it doesn't quite fit for application in a course (I think).
+
+Our primary task for this week will be to review the pull request and come to a decision (maybe a consensus, maybe not) about how to proceed. We might choose to revise the code, accept it as is, or create a completely new one...but we shouldn't proceed without one.
+
+To see the pull request, sign in to Github and click the 'Pull requests' tab in the menu just below the title of the repository.
+
+You will see that there will be one open pull request for you to click on. Once in the PR interface, you will be able to scroll down the page to see an overview of the proposed changes. You can get a more detailed view if you click 'Files changed', which will show you a split view of the old file on the left, with deletions in red, and the new file on the right, with additions in green.
+
+![GitHub Split Screen View of Proposed Changes](assets/w3/gh-split.png)
+
+In the split view, you can hover over one of the lines in the view to see a blue square with a white + sign. Clicking this plus sign will allow you to make a comment about that particular line.
+
+On the 'Conversation' tab, there is space for a discussion of the PR as a whole at the bottom of the page.
+
+```{block, type='caution'}
+#### Caution
+
+The course book at cmadland.github.io/edci338-202201 is being served to the web from the `main` branch, so it will be important that you follow the instructions below carefully!
+
+```
+
+```{block, type='gh'}
+#### GitHub
+
+##### Sign in to GitHub.
+
+##### Click 'Pull requests' and find the `Code of Conduct` PR.
+
+##### Click `Files changed` and read through the proposed Code of Conduct.
+- Leave comments or questions at points that you think we need to clarify, delete, or maybe revise.
+- I have assigned one `Reviewer` from each Learning Pod who will act as the official approver of the code for that particular learning pod, so make sure you come to some sort of agreement.
+- Leave overall questions and comments on the discussion at the bottom of the `Conversation` tab.
+- After we have discussed any of the issues you might find, I will merge the PR into the `main` branch and the code of conduct will come into effect.
+
+```
+
+As always, please make sure you get in touch with me if you are having challenges!
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ All the things from weeks one and two.  
+✔️ Read the [Siemens article.](https://cmadland.github.io/edci338-202201/articles.html#connectivism-a-learning-theory-for-the-digital-age)  
+✔️ Read and comment on the GitHub pull request as described above.  
+✔️ Publish your second Wow and Wonder on your blog. To clarify a bit...this should be a short post that describes one thing that struck you as important (Wow), and one question that you have (Wonder). Your Wow and wonder posts are required but not graded and they should serve as conversation starters in your Learning Pod meetings.  
+✔️ If you are not yet connected with a Learning Pod or [showing on the Blog List page on the course hub](https://edtechuvic.ca/edci338/a01-blog-list/), please contact me as soon as possible!  
+
+```
