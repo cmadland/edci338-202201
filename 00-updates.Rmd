@@ -274,7 +274,7 @@ Additional resources can be found here:
 
 [MediaSmarts: Canada’s Centre for Digital and Media Literacy](http://mediasmarts.ca/)
 
-##### FIPPA, Privacy, and Consent Competencies
+##### FIPPA, Privacy, and Consent Competencies {-}
 
 Learners should ensure that they:
 - Are aware of the OIPC, FIPPA, and the Cloud Computing Guidelines and follow them
@@ -306,13 +306,18 @@ I've shared my VR Diagram below...keep in mind that this diagram represents a se
 ![Visitor-Resident Diagram](assets/w4/vr-diagram-2.png )
 
 
-If you don't already, I encourage you to subscribe to this excellent podcast called *Teaching in Higher Ed* by [Bonni Stachowiak](https://twitter.com/bonni208), or, just take 47 minutes to listen to this episode in which Bonni interviews Dave White about the idea of visitors and residents.
+[OPTIONAL] If you don't already, I encourage you to subscribe to this excellent podcast called *Teaching in Higher Ed* by [Bonni Stachowiak](https://twitter.com/bonni208), or, just take 47 minutes to listen to this episode in which Bonni interviews Dave White about the idea of visitors and residents.
 
 <a class="embedly-card" data-card-controls="0" href="https://teachinginhighered.com/podcast/digital-visitors-and-residents/">Digital Visitors and Residents, with David White - Teaching in Higher Ed</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ```{block, type='todo'}
 #### Things To Do This Week
-✔️ Complete the [Privacy, Ethics & Security in Digital Spaces Developing Awareness of Privacy](https://digitaltattoo.ubc.ca/quizzes/privacy-and-surveillance) quiz (not that kind of quiz...).
-✔️ 
+✔️ Complete the [Privacy, Ethics & Security in Digital Spaces Developing Awareness of Privacy](https://digitaltattoo.ubc.ca/quizzes/privacy-and-surveillance) quiz (not that kind of quiz...).  
+✔️ Read [Visitors and Residents: A new typology for online engagement](https://cmadland.github.io/edci338-202201/articles.html#visitors-and-residents-a-new-typology-for-online-engagement)  
+✔️ Complete your own ***Visitor/Resident*** map and share and discuss it with your Learning Pod. You can use the [tool that is provided here (DON'T forget to screenshot it, or you'll lose it!)](https://experimental.worldcat.org/vandrmapping/editMap), or use a different tool like [Canva.com](https://canva.com)  
+✔️ Publish your third Wow and Wonder post based on your Visitor/Resident map and what you learned about privacy.  
+✔️ [Optional] Consider in your Wow and Wonder post what a potential employer might find based on your map if you applied for a job with them.   
+✔️ Set up a time with your Learning Pod to meet with me sometime this week. Please use the link published in BrightSpace, or submit an issue in Github.  
+✔️ Looking forward, your first [Showcase post](https://cmadland.github.io/edci338-202201/course-assessment.html#showcase-posts-2-15-each), based on one of your Wow and Wonder posts, is due at the end of next week (February 13).  
 ```
