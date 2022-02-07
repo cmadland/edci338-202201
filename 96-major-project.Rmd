@@ -16,7 +16,7 @@ The first thing we need to do is to have each Learning Pod 'sign up' to a partic
     - me as an assignee
     - your Learning Pod label
     - a new label identifying the social media platform you are signing up for (make sure it isn't already taken).
-    - the 'EDCI338 Major Project' project.
+    - ~~the 'EDCI338 Major Project' project.~~ Looks like I will have to do that bit.
 ```
 
 There are obviously many social network platforms to choose from, some of which are more popular than others. If another pod claims a platform that your pod was hoping to claim, in addition to adding a new label for your second-choice platform, add a comment in your issue and a link to the issue that has already claimed your first-choice platform. We *might* be able to differentiate your projects enough to allow two groups to explore a single platform. No promises.
