@@ -321,3 +321,12 @@ I've shared my VR Diagram below...keep in mind that this diagram represents a se
 ✔️ Set up a time with your Learning Pod to meet with me sometime this week. Please use the link published in BrightSpace, or submit an issue in Github.  
 ✔️ Looking forward, your first [Showcase post](https://cmadland.github.io/edci338-202201/course-assessment.html#showcase-posts-2-15-each), based on one of your Wow and Wonder posts, is due at the end of next week (February 13).  
 ```
+
+## Major Project Update {-}
+
+Good morning/afternoon/evening! I trust you are all well.
+
+This update will provide a mechanism to get you started on the [Major Project.](https://cmadland.github.io/edci338-202201/course-assessment.html#major-project-40) As a reminder, the major project is worth 40% of your final grade and will require some sustained effort over the second half of the course.
+
+I will be publishing details of the project as it unfolds on the [Major Project page](https://cmadland.github.io/edci338-202201/major-project) starting today.
+
