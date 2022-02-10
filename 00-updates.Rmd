@@ -16,7 +16,7 @@ My name is Colin Madland and I will be your instructor for this Spring 2022 coho
 
 When I am not working on my reasearch, or my day-job at another BC university, I really enjoy riding my bicycle, cooking all sorts of deliciousness on my grill, and hanging out with my family, which includes my wife, 2 two sons, 1 daughter-in-law, 1 daughter, 1 son-in-law, and 1 grandson. Some people might include the fur-bearing beasts (a dog and a cat) in the 'family' category, I know they certainly do!
 
-I'm going to be honest with you (hopefully that isn't surprising...) and perhaps a bit vulnerable. I'm teaching EDCI338 for the first time this spring, and the course requires a significant investment in learning to use some technologies that you and I both may not be entirely familiar with. There aren't really any good ways to think deeply about social media without actually engaging in social media. That can be really challenging, especially in the midst of the ongoing dispruption of our lives due to COVID-19. Disruption can take many forms, from being physically sick with COVID, to having family members and friends being affected, to losing jobs, and on and on. As a result, it can be really hard to focus on learning. So, I want you to understand from the very beginning that it is my *responsibility* in this course to do whatever it is that I can to support your success.
+I'm going to be honest with you (hopefully that isn't surprising...) and perhaps a bit vulnerable. I'm teaching EDCI338 for the first time this spring, and the course requires a significant investment in learning to use some technologies that you and I both may not be entirely familiar with. There aren't really any good ways to think deeply about social media without actually engaging in social media. That can be really challenging, especially in the midst of the ongoing dispruption of our lives due to COVID-19. Disruption can take many forms, from being physically sick with COVID, to having family members and friends being affected, to losing jobs, and on and on. As a result, it can be really hard to focus on learning. So, I want you to understand from the very beginning that it is my *responsibility- in this course to do whatever it is that I can to support your success.
 
 ```{block, type='reflect'}
 #### 💯 My commitment to you...
@@ -85,7 +85,7 @@ As of this morning, 19 of you have signed up for a GitHub account and created yo
 
 Just a reminder that you won't be able to add the learning pod label to your learner profile until after I have added you as a collaborator in the repo. So far, I have added everyone who has submitted a Learner Profile issue, but there are a few of you who have not accepted that invitation. You can see the invitation if you sign in to Github and visit the course repo. There will be a blue notice towards the top of the page.
 
-As I mentioned previously, it really is important to get a good start becoming familiar with the technologies we will be using this term. Technology is a significant part of the ***content*** of this course, not just the medium for communication. If you are having challenges, please reach out to me as soon as possible! I've published in Brightspace (look in the Content navigator) a link you can use to book an appointment. I encourage you to book as a learning pod or as an individual.
+As I mentioned previously, it really is important to get a good start becoming familiar with the technologies we will be using this term. Technology is a significant part of the ***content**- of this course, not just the medium for communication. If you are having challenges, please reach out to me as soon as possible! I've published in Brightspace (look in the Content navigator) a link you can use to book an appointment. I encourage you to book as a learning pod or as an individual.
 
 Good to see several of you annotating the course book using Hypothes.is! While you are welcome to post publicly, I have created a private group for EDCI338 if you would prefer to use that. Check out '[Things to do this week](https://cmadland.github.io/edci338-202201/updates.html#things-to-do-this-week)'. You will notice that there are several points in the course book where the text is highlighted, as below:
 
@@ -251,14 +251,14 @@ As always, please make sure you get in touch with me if you are having challenge
 
 Week four already! I trust you are finding your way in this course as we begin to dig more deeply into what it means to build and maintain a PLN and to interact well in social media environments. These first few weeks, we have been building connections in a few different ways:
 
-- **Asynchronously** as I publish and you read updates here on the course book site.
-- **Asynchronously** in Github as I provide some tasks for you and you work to complete those tasks. As of today, everyone should have an invitation to collaborate on the course repository, create a Learner Profile issue, add a label and comment on a pull request. You are welcome to use GitHub to create issues as a group and assign those to me. Doing this will allow the whole class to get answers to common questions rather than those answers being tied up in emails. I have created a 'question' label that you can add to these issues.
-- **Synchronously** as we meet in Zoom each Friday at 1:00 PM pacific time to discuss the course. Keep in mind, these meetings are optional and I (usually) record the important parts for your viewing pleasure.
-- **Synchronously** in your Learning Pods as you meet on your own time and schedule in a smaller group of people. The Learning Pods are intended to be a spot to ask questions of each other, review your wow and wonder posts, and will become your group for building the Major Project.
+- **Asynchronously*- as I publish and you read updates here on the course book site.
+- **Asynchronously*- in Github as I provide some tasks for you and you work to complete those tasks. As of today, everyone should have an invitation to collaborate on the course repository, create a Learner Profile issue, add a label and comment on a pull request. You are welcome to use GitHub to create issues as a group and assign those to me. Doing this will allow the whole class to get answers to common questions rather than those answers being tied up in emails. I have created a 'question' label that you can add to these issues.
+- **Synchronously*- as we meet in Zoom each Friday at 1:00 PM pacific time to discuss the course. Keep in mind, these meetings are optional and I (usually) record the important parts for your viewing pleasure.
+- **Synchronously*- in your Learning Pods as you meet on your own time and schedule in a smaller group of people. The Learning Pods are intended to be a spot to ask questions of each other, review your wow and wonder posts, and will become your group for building the Major Project.
 
 Hopefully, you will begin to realize the beginnings of a PLN within the community of EDCI338. I am often asked by learners who they should follow on social media, and my first recommendation is always that they should follow their classmates as building a PLN among the people you go to school with can be tremendously powerful over the years after you graduate.
 
-This week, we look at some issues related to privacy and how that might influence how you choose to share your life and world with web tools. Many people have had the experience of having to click through an End User License Agreement (EULA) in order to use a service. ***Far*** fewer people have actually read what that EULA actually says, and part of that is by design. Those *Terms of Service* or *EULA*s are loooooong and filled with legal language, and much of the most important language is in ALL CAPS, which makes the text much more difficult to read.
+This week, we look at some issues related to privacy and how that might influence how you choose to share your life and world with web tools. Many people have had the experience of having to click through an End User License Agreement (EULA) in order to use a service. ***Far**- fewer people have actually read what that EULA actually says, and part of that is by design. Those *Terms of Service- or *EULA*s are loooooong and filled with legal language, and much of the most important language is in ALL CAPS, which makes the text much more difficult to read.
 
 ### Digital Privacy {-}
 
@@ -288,12 +288,12 @@ Learners should ensure that they:
 
 ### Residents and Visitors {-}
 
-We will also explore a bit the idea of *Visitors* and *Residents* in digital spaces. You have likely heard that younger generations are ***digital natives***, while older generations are ***digital immigrants*** indicating that younger people are totally at ease with technology since they grew up with it, while oder generations have difficulty with technology. 
+We will also explore a bit the idea of *Visitors- and *Residents- in digital spaces. You have likely heard that younger generations are ***digital natives***, while older generations are ***digital immigrants**- indicating that younger people are totally at ease with technology since they grew up with it, while oder generations have difficulty with technology. 
 
 
-I'd like to introduce you to a different way to conceptualize your relationship with digital media, and that is that you may be a *visitor* in some web spaces and a *resident* in others. Places on the web where you might be a visitor are those places where you, quite literally, visit, but importantly, don't leave a public trace of your time there. You don't spend any time interacting with people, but rather, you take a rather utilitarian approach by visiting a site, doing a thing, and leaving.
+I'd like to introduce you to a different way to conceptualize your relationship with digital media, and that is that you may be a *visitor- in some web spaces and a *resident- in others. Places on the web where you might be a visitor are those places where you, quite literally, visit, but importantly, don't leave a public trace of your time there. You don't spend any time interacting with people, but rather, you take a rather utilitarian approach by visiting a site, doing a thing, and leaving.
 
-Alternately, there are places and spaces on the web, where *you* reside as a persona, where you interact, socialize, and leave traces of yourself online. For some, that may be Facebook, where you keep in touch with friends and family, or Twitter, or maybe it's any number of social sites like Instagram, TikTok, SnapChat and others. The important distinction is that these are places where you connect with other people; where you are socially *present*.
+Alternately, there are places and spaces on the web, where *you- reside as a persona, where you interact, socialize, and leave traces of yourself online. For some, that may be Facebook, where you keep in touch with friends and family, or Twitter, or maybe it's any number of social sites like Instagram, TikTok, SnapChat and others. The important distinction is that these are places where you connect with other people; where you are socially *present*.
 
 At the same time, if we can imagine the visitor <--> resident continuum on a horizontal axis, there is also a personal <--> professional (or educational) continuum on a vertical axis, leading to 4 quadrants where you might situate your technology use.
 
@@ -306,7 +306,7 @@ I've shared my VR Diagram below...keep in mind that this diagram represents a se
 ![Visitor-Resident Diagram](assets/w4/vr-diagram-2.png )
 
 
-[OPTIONAL] If you don't already, I encourage you to subscribe to this excellent podcast called *Teaching in Higher Ed* by [Bonni Stachowiak](https://twitter.com/bonni208), or, just take 47 minutes to listen to this episode in which Bonni interviews Dave White about the idea of visitors and residents.
+[OPTIONAL] If you don't already, I encourage you to subscribe to this excellent podcast called *Teaching in Higher Ed- by [Bonni Stachowiak](https://twitter.com/bonni208), or, just take 47 minutes to listen to this episode in which Bonni interviews Dave White about the idea of visitors and residents.
 
 <a class="embedly-card" data-card-controls="0" href="https://teachinginhighered.com/podcast/digital-visitors-and-residents/">Digital Visitors and Residents, with David White - Teaching in Higher Ed</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -315,7 +315,7 @@ I've shared my VR Diagram below...keep in mind that this diagram represents a se
 #### Things To Do This Week
 ✔️ Complete the [Privacy, Ethics & Security in Digital Spaces Developing Awareness of Privacy](https://digitaltattoo.ubc.ca/quizzes/privacy-and-surveillance) quiz (not that kind of quiz...).  
 ✔️ Read [Visitors and Residents: A new typology for online engagement](https://cmadland.github.io/edci338-202201/articles.html#visitors-and-residents-a-new-typology-for-online-engagement)  
-✔️ Complete your own ***Visitor/Resident*** map and share and discuss it with your Learning Pod. You can use the [tool that is provided here (DON'T forget to screenshot it, or you'll lose it!)](https://experimental.worldcat.org/vandrmapping/editMap), or use a different tool like [Canva.com](https://canva.com)  
+✔️ Complete your own ***Visitor/Resident**- map and share and discuss it with your Learning Pod. You can use the [tool that is provided here (DON'T forget to screenshot it, or you'll lose it!)](https://experimental.worldcat.org/vandrmapping/editMap), or use a different tool like [Canva.com](https://canva.com)  
 ✔️ Publish your third Wow and Wonder post based on your Visitor/Resident map and what you learned about privacy.  
 ✔️ [Optional] Consider in your Wow and Wonder post what a potential employer might find based on your map if you applied for a job with them.   
 ✔️ Set up a time with your Learning Pod to meet with me sometime this week. Please use the link published in BrightSpace, or submit an issue in Github.  
@@ -330,3 +330,34 @@ This update will provide a mechanism to get you started on the [Major Project.](
 
 I will be publishing details of the project as it unfolds on the [Major Project page](https://cmadland.github.io/edci338-202201/major-project) starting today.
 
+## Week Five (February 7-13) {-}
+
+> Proximity creates empathy. ~Joel
+
+In last Friday's class meeting (which is now posted in Brightspace), we talked about some of the forces at work in social media platforms and there was good conversation about `hegemony`, `marginalization`, and `polarization` as all being active forces, even though they are often opposing forces (hegemony means that everyone tends towards sameness, while polarization means that two or more groups of people become more and more different from the other groups). As we think about the idea of inclusion this week, I challenge you to consider who is included in your social media circles? Who do you follow or engage with? Who follows you? 
+
+If the people you follow and the people who follow you are all the same people, and you all think alike, that can be comforting, but you may not be getting a complete picture of life. It can be challenging, yet important, to intentionally engage with people who are not like you.
+
+A great example of being intentional about engaging with people who are not like you is Mr. Rogers when he invited Officer Clemmons to share his wading pool in 1969 at a time in the US when most swimming pools were still segregated. [Mr. Rogers set an example by inviting a Black man to join him in his wading pool.](https://misterrogers.org/videos/sharing-a-swimming-pool/)
+
+As you meet with your learning pod this week and talk about inclusion and diversity in your PLN, you might want to consider some of the following questions:
+
+- How diverse is your existing PLN?
+- In your PLN, are you learning from a variety of voices or are you the loudest in the room?
+- Do you participate in a silo of information sharing (similar themes or wide range of interests)?
+- How can you use a diverse PLN to broaden your views of inclusion?
+- In your professional setting of choice, do you think inclusion is actively embraced?
+- What is the learning outcome of your PLN and how are you ensuring your exposure to diversity and inclusion?
+- How has your thinking about inclusion and PLN evolved after reviewing the videos and readings?
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ **Read** Pages 6-12 of [*One without the other: Stories of unity through diversity and inclusion*](https://ebookcentral-proquest-com.ezproxy.library.uvic.ca/lib/uvic/reader.action?docID=4832579&ppg=6) by Shelley Moore and Leyton Schnellert. The link will require a UVic Library sign-in.  
+✔️ **Watch** [Shelley Moore: Transforming Inclusive Education](https://www.youtube.com/watch?v=RYtUlU8MjlY)  
+✔️ **Watch** [*The Evolution of Inclusion*](https://youtu.be/PQgXBhPh5Zo)  
+✔️ **Watch** a few more of Shelley Moore's videos (most of them are 5 mins or less) or listen to some of her podcast interview (also available in her Youtube channel). Follow your interests on this.  
+✔️ **Consider** how Shelley uses various social media platforms to share her message and engage with the public. You might want to write a Wow of Wonder about this...  
+✔️ **Publish** your Week 5 Wow and Wonder post.  
+✔️ **Publish** your first [Showcase post](https://cmadland.github.io/edci338-202201/course-assessment.html#showcase-posts-2-15-each). You can base your Showcase post on one of your own Wow and Wonder posts, someone else's Wow and Wonder post, or a combination of both. You could even post about something not covered in a Wow and Wonder post. Check the details of the requirements of the post at the link above, and try to get it finished for Sunday, Feb 13. Please let me know if you are having difficulties publishing your post.  
+✔️ **Sign Up** to claim a social media platform with your Learning Pod. Instructions are on the [Major Project](https://cmadland.github.io/edci338-202201/major-project.html) page.  
+```
