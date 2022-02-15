@@ -361,3 +361,66 @@ As you meet with your learning pod this week and talk about inclusion and divers
 ✔️ **Publish** your first [Showcase post](https://cmadland.github.io/edci338-202201/course-assessment.html#showcase-posts-2-15-each). You can base your Showcase post on one of your own Wow and Wonder posts, someone else's Wow and Wonder post, or a combination of both. You could even post about something not covered in a Wow and Wonder post. Check the details of the requirements of the post at the link above, and try to get it finished for Sunday, Feb 13. Please let me know if you are having difficulties publishing your post.  
 ✔️ **Sign Up** to claim a social media platform with your Learning Pod. Instructions are on the [Major Project](https://cmadland.github.io/edci338-202201/major-project.html) page.  
 ```
+
+## Week 6 (Feb❤️14 - 20) {-}
+
+### Showcase Posts {-}
+
+Thank you to those who have sent links to their first showcase post. You don't need to send a link, but it would be helpful if you add the 'showcase' category to your showcase posts so I can easily find them and check to ensure that your blog is linked from the [Learner Blogs](https://edtechuvic.ca/edci338/a01-blog-list/) page on the course hub. Also, please let me know if I need to update anything on that page.
+
+Some people have asked about commenting on other peoples' posts, and yes, you should comment on other peoples' posts. There are two ways that I recommend doing this.
+
+1. Include an inline link to someone's post. For example, if I was wanting to comment on [Shaafi's Wow and Wonder Post 4](https://shaafij.opened.ca/wow-and-wonder-post-4-week-5-feb-7-feb-13/), I would just select the text I want to link and click the 'hyperlink' tool to add the url of his site, `https://shaafij.opened.ca/wow-and-wonder-post-4-week-5-feb-7-feb-13/`.
+2. Paste the url for Shaafi's post on its own line and without hyperlinking it. Normally, this will create an embedded preview in your post. The url will look like this:
+
+`https://shaafij.opened.ca/wow-and-wonder-post-4-week-5-feb-7-feb-13/`
+
+And the preview will look like this in WordPress:
+
+![Embedded Preview in WordPress](assets/w6/embed.png)
+
+#### Tracking and Feedback {-}
+
+To aid in tracking your progress in the course, please complete the following steps in GitHub.
+
+1. In your own GitHub account, create a new private repository called 'EDCI338' (some of you have already done this).
+2. Add me as a collaborator to your repository (some of you have also done this).
+3. Create an issue in your repository called 'Tracking' or something similar with the following copied and pasted into the Comment area:
+```
+- [ ] Wow and Wonder 1
+- [ ] Wow and Wonder 2
+- [ ] Wow and Wonder 3
+- [ ] Wow and Wonder 4
+- [ ] Wow and Wonder 5
+- [ ] Wow and Wonder 6
+- [ ] Wow and Wonder 7
+- [ ] Wow and Wonder 8
+- [ ] Wow and Wonder 9
+- [ ] Showcase 1
+- [ ] Showcase 2
+- [ ] Major Project
+- [ ] Celebration of Learning
+```
+4. Assign me to the issue.
+
+This will create a checklist on the issue that you and I can use to track your progress through the course. Since it is a private repo, it will also be the place where you and I have assessment conversations.
+
+### Major Project {-}
+
+Thank you also to those of you who have signed up for a social media platform to explore for the major project. Just waiting on Learning Pod 6 to sign up.
+
+Next steps will be published on the [Major Project page](https://cmadland.github.io/edci338-202201/major-project.html) tomorrow.
+
+### Trust and your PLN {-}
+
+A friend mentioned to me the other day that she didn't know what was true on the internet anymore. It is hard, especially in the context of complex and highly emotionally charged issues (I'm sure you can think of something in Canada...), to sift through the massive amounts of information that you encounter, even if all that information were to be from trustworthy and reliable sources. Unfortunately, a huge amount of the information we encounter is from distinctly [unreliable and untrustworthy sources.](https://www.grid.news/story/misinformation/2022/02/11/the-canadian-freedom-convoy-is-backed-by-a-bangladeshi-marketing-firm-and-right-wing-fringe-groups/) The power of social media to connect similar people to each other is both a strength when you are building a PLN, and a hazard when used to drive polarization.
+
+[Renee DiResta on Twitter](https://twitter.com/noUpside/status/1446934702779256832) has published a good article on how misinformation campaigns are remarkably mundane in how they start and are shared. It really doesn't require a sophisticated operation when everyday people will do it all alone. As you read [DiResta's article in *The Atlantic*](https://www.theatlantic.com/ideas/archive/2021/10/disinformation-propaganda-amplification-ampliganda/620334/), consider the questions from the syllabus:
+
+- Building a reputation and trust in a connected culture can be difficult, how are you building a
+network of individuals who are dynamic, reliable, & participatory.
+- Are you leveraging healthy relationships from your PLN for growth?
+- What strategies do you use to ensure that you aren't an agent of what DiResta calls 'ampliganda'?
+- GitHub is a social platform focused around collaborating on coding or writing projects. In what ways have you connected with others in the class?
+
+***I'll publish a bit more later this evening, but need to drive home now.***
