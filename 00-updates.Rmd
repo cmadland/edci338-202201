@@ -420,7 +420,15 @@ A friend mentioned to me the other day that she didn't know what was true on the
 - Building a reputation and trust in a connected culture can be difficult, how are you building a
 network of individuals who are dynamic, reliable, & participatory.
 - Are you leveraging healthy relationships from your PLN for growth?
-- What strategies do you use to ensure that you aren't an agent of what DiResta calls 'ampliganda'?
+- What strategies do you use to ensure that you aren't an unwitting agent of what DiResta calls 'ampliganda'?
 - GitHub is a social platform focused around collaborating on coding or writing projects. In what ways have you connected with others in the class?
 
-***I'll publish a bit more later this evening, but need to drive home now.***
+```{block, type='todo'}
+#### Things To Do This Week  
+✔️ Compose and publish your first Showcase post, if you haven't already.  
+✔️ Set up a GitHub repository of your own and invite me as a collaborator.  
+✔️ Create a tracking issue in your own repository and add me as an assignee.  
+✔️ **Read** [It’s Not Misinformation. It’s Amplified Propaganda.](https://www.theatlantic.com/ideas/archive/2021/10/disinformation-propaganda-amplification-ampliganda/620334/)  
+✔️ **Publish** Wow and Wonder #6 on your blog.  
+✔️ Continue planning for your [Major Project](https://cmadland.github.io/edci338-202201/major-project.html).
+```
