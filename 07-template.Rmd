@@ -1,4 +1,4 @@
-# Major Project Template
+# Major Project Template {-}
 
 ## Overview and description of the network.
 
