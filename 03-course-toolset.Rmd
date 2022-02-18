@@ -1,11 +1,9 @@
 # Course Toolset {-}
-
 We will use a variety of tools in this course, as you might expect in a course about personal learning networks and using social media in education. One of the primary reasons for that is to allow opportunity for you to make your learning visible and to share it with the community, whatever that might look like for you. I recognize that you may be coming to this course for a variety of reasons, including as an elective for your Teacher Education program, but also as an elective in another program, for your own personal learning, or maybe because you heard about the series of courses that [edtechuvic](https://twitter.com/edtechuvic) offers. Regardless of your reason for being here, you are welcome!
 
 It is important to note that we will be using multiple tools in this course, and I am aware that this can create challenges for people. While it is up to you to ensure that you have proper access to the information that you need, please ensure that you reach out to me if you have questions. These tools are central to the course content and it is literally my job to help you with this!
 
 ## Primary Tools {-}
-
 These primary tools form the backbone of EDCI338 and are the core creation tools we will use.
 
 ```{block, type='wp'}
@@ -23,52 +21,36 @@ Additionally, you will sign up for and create your own WordPress site. It is on 
 ```{block, type='gh'}
 #### GitHub {-}
 
-
 A significant part of the work you will do for EDCI338 will be in the context of creating content using a collaborative tool. GitHub is a tool designed for the collaborative creation of software, but it can also be used for people looking to collaborate on text and multi-media documents. While GitHub may be unfamiliar to some of you, the workflow is not difficult to learn.  
 - sign up with your uvic.ca email address to get a free upgrade.
 
 ```
 
 ## Secondary Tools {-}
-
 The secondary tools are more topical in the course and will be the subjects of our explorations.
 
 ```{block, type='secondary'}
  Instructions related to secondary tools will appear inside blocks of this colour.
 
-##### An RSS Reader {-}
-
+- An RSS Reader {-}
 There are numerous feed readers available on the web, but two that I recommend are [Feedly](https://feedly.com) and, my personal choice, [Inoreader](https://inoreader.com). Both offer free plans with 'pro' upgrades, but the free plans should be more than adequate for this course. Feed readers allow users to aggregate updates, or feeds, from various sources, such as blogs or news websites. Unfortunately, the free tier of most feed readers doesn't include the ability to subscribe to social media feeds, such as Twitter or TikTok. A feed reader can help you stay in touch with others in this course as well as receive notifications on my updates.
 
 The following are some possible social networking tools that we might explore in the course, depending on your interests.
 
-##### Twitter{-}
-
-##### Meta/Metaverse{-}
-
-##### Instagram{-}
-
-##### Facebook{-}
-
-##### WhatsApp{-}
-
-##### TikTok{-}
-
-##### WeChat{-}
-
-##### MS Teams{-}
-
-##### SnapChat{-}
-
-##### Hypothes.is {-}
-
-##### Mattermost
-
-##### Discord
-
-##### Mastodon.social
-
-##### Others?
+- Twitter{-}
+- Meta/Metaverse{-}
+- Instagram{-}
+- Facebook{-}
+- WhatsApp{-}
+- TikTok{-}
+- WeChat{-}
+- MS Teams{-}
+- SnapChat{-}
+- Hypothes.is {-}
+- Mattermost {-}
+- Discord{-}
+- Mastodon.social{-}
+- Others?{-}
 
 
 

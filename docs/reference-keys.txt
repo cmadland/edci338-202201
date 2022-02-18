@@ -1,6 +1,5 @@
 tiktok
 persona
-colins-image
 facebook
 youtube
 discord
