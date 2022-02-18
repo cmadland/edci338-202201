@@ -2,3 +2,7 @@
 ## Persona
 ![Sophia Green](assets/tiktok/persona1.PNG) 
 ![Second Page](assets/tiktok/Copy of Venn Diagram Template.png) 
+
+## Colin's Image
+
+![Title of the Image](assets/some-platform/img1.png)
