@@ -143,4 +143,6 @@ Click into your new folder, and click `Add file`, then `Upload files`. You can e
 
 #### Commit your changes. {-}
 
+[Here is an instructional video highlighting this process](https://echo360.ca/media/78a94f67-7fa5-4930-924e-ae45330633cd/public?autoplay=false&automute=false)
+
 [See the instructions above for adding an image to a page.](https://cmadland.github.io/edci338-202201/github-setup.html#images)
