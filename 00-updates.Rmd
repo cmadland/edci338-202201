@@ -429,7 +429,7 @@ network of individuals who are dynamic, reliable, & participatory.
 ✔️ Set up a GitHub repository of your own and invite me as a collaborator.  
 ✔️ Create a tracking issue in your own repository and add me as an assignee.  
 ✔️ **Read** [It’s Not Misinformation. It’s Amplified Propaganda.](https://www.theatlantic.com/ideas/archive/2021/10/disinformation-propaganda-amplification-ampliganda/620334/)  
-✔️ **Publish** Wow and Wonder #6 on your blog.  
+✔️ **Publish** Wow and Wonder #~~6~~ 5 on your blog.  
 ✔️ Continue planning for your [Major Project](https://cmadland.github.io/edci338-202201/major-project.html).
 ```
 
