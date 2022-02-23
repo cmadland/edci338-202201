@@ -385,7 +385,7 @@ To aid in tracking your progress in the course, please complete the following st
 
 1. In your own GitHub account, create a new private repository called 'EDCI338' (some of you have already done this).
 2. Add me as a collaborator to your repository (some of you have also done this).
-3. Create an issue in your repository called 'Tracking' or something similar with the following copied and pasted into the Comment area:
+3. Create an issue in your repository called 'Tracking' or something similar with the following copied and pasted into the `Description` area:
 ```
 - [ ] Wow and Wonder 1
 - [ ] Wow and Wonder 2
