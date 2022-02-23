@@ -432,3 +432,14 @@ network of individuals who are dynamic, reliable, & participatory.
 ✔️ **Publish** Wow and Wonder #6 on your blog.  
 ✔️ Continue planning for your [Major Project](https://cmadland.github.io/edci338-202201/major-project.html).
 ```
+
+## Week 7 (Feb 21-27) {-}
+
+We are sliding into the back half of the course, and this week is a chance for you to recharge, catch up, get ahead, and just breathe a bit.
+
+This week, I am working my way through providing some comments on your first Showcase posts, so please make sure those are up to date and that you have [created a course tracking issue in your own repository.](https://cmadland.github.io/edci338-202201/updates.html#tracking-and-feedback)
+
+If you are hoping to do some work on your Major project, I've published some more instructions on the [GitHub Setup page](https://cmadland.github.io/edci338-202201/github-setup.html). I've described how you can work in a fork of the course repository and also how to upload and add images to your pages (useful for the persona screenshots).
+
+I'm not going to bother you further until Monday, and we will not be meeting on Friday this week, but if you'd like to book a time to meet with me, I'm happy to do so.
+
