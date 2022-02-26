@@ -1,0 +1,49 @@
+# Major Project {-}
+
+Your task in for the project will be to collaboratively create a reflective resource as you build a professional PLN in a particular social media platform. We will add to the project week-by-week and will act as each others' peer reviewers as we go so that the final result after the next 6 weeks is a user-friendly resource for others seeking information on particular social media platforms.
+
+## Step One {-}
+
+The first thing we need to do is to have each Learning Pod 'sign up' to a particular social media platform. This will be the platform that you use as the basis for your Final Project. The structure of the project is such that we can only have one group working on a particular social media platform, so it will be first-come-first-served for the sign up. GitHub will track the specific time that issues are added and will display the issues in reverse chronological order on the issues page.
+
+### How to Sign Up {-}
+
+
+```{block, type='protip'}
+#### ✨ Follow These Steps...{-}
+- Create an new issue in the [Course Repository](https://github.com/cmadland/edci338-202201) (not a learner profile, you'll have to click the 'Open a blank issue' link) and add:
+    - each of your Learning Pod members as assignees
+    - me as an assignee
+    - your Learning Pod label
+    - a new label identifying the social media platform you are signing up for (make sure it isn't already taken).
+    - ~~the 'EDCI338 Major Project' project.~~ Looks like I will have to do that bit.
+```
+
+There are obviously many social network platforms to choose from, some of which are more popular than others. If another pod claims a platform that your pod was hoping to claim, in addition to adding a new label for your second-choice platform, add a comment in your issue and a link to the issue that has already claimed your first-choice platform. We *might* be able to differentiate your projects enough to allow two groups to explore a single platform. No promises.
+
+[Let's DO this...](https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.mp4)
+
+## Step Two {-}
+
+Now that you have chosen a social media platform, it's time to get organized. The issue that you created in step 1 will become the main home for conversations about your project. Please edit your issue and add the following checklist to the Comment section...
+
+```
+- [ ] Personas  
+- [ ] Demographic Information  
+- [ ] Digital Identity  
+- [ ] Privacy and Surveillance  
+- [ ] Access and Inclusion  
+- [ ] Trust and Misinformation  
+- [ ] Public Discourse  
+- [ ] Education  
+- [ ] Media Literacy  
+- [ ] Reflections  
+```
+
+### Create Personas {-}
+
+You first task is to create as many [Personas](https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/) as there are members in your Learning Pod.
+
+The reason for this is to allow everyone the opportunity to create accounts on your platform of choice from behind the curtain of an imagined persona. There are some people who cannot and should not be public on the web, and this is a way to provide some anonymity. You need not engage in research of a typical user on your chosen platform, but simply imagine the characteristics of someone who might want to engage on the platform. I encourage you to imagine a diversity of personas with various characteristics and backgrounds. You can certainly draw from your own experiences as inspiration for your personas, but you are not required to do so. You are welcome to use [xtensio.com](https://xtensio.com/user-persona-template/) to create your personas, but other tools like [Canva.com](https://canva.com) may be useful as well.
+
+You can use an image from [generated.photos/](https://generated.photos/), which generates face images through AI, meaning you don't have to worry about having to ask someone for permission to use their photo.
