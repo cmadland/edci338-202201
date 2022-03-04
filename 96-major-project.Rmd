@@ -47,3 +47,16 @@ You first task is to create as many [Personas](https://xd.adobe.com/ideas/proces
 The reason for this is to allow everyone the opportunity to create accounts on your platform of choice from behind the curtain of an imagined persona. There are some people who cannot and should not be public on the web, and this is a way to provide some anonymity. You need not engage in research of a typical user on your chosen platform, but simply imagine the characteristics of someone who might want to engage on the platform. I encourage you to imagine a diversity of personas with various characteristics and backgrounds. You can certainly draw from your own experiences as inspiration for your personas, but you are not required to do so. You are welcome to use [xtensio.com](https://xtensio.com/user-persona-template/) to create your personas, but other tools like [Canva.com](https://canva.com) may be useful as well.
 
 You can use an image from [generated.photos/](https://generated.photos/), which generates face images through AI, meaning you don't have to worry about having to ask someone for permission to use their photo.
+
+## Demographics
+
+Describe your chosen platform in significant detail, including, as available (Wikipedia may be a good source for some of this info): 
+- target audience
+- can non-users browse or search content?
+- how are users connected (e.g., on some platforms, you request a connection which needs to be accepted, but on others, you can follow anyone without them reciprocating)
+- can content be shared privately?
+- how is content shared?
+- how does content go viral?
+- is the parent company public or private?
+- who are the major investors? 
+- how does the company generate revenue?
