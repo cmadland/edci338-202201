@@ -385,7 +385,7 @@ To aid in tracking your progress in the course, please complete the following st
 
 1. In your own GitHub account, create a new private repository called 'EDCI338' (some of you have already done this).
 2. Add me as a collaborator to your repository (some of you have also done this).
-3. Create an issue in your repository called 'Tracking' or something similar with the following copied and pasted into the Comment area:
+3. Create an issue in your repository called 'Tracking' or something similar with the following copied and pasted into the `Description` area:
 ```
 - [ ] Wow and Wonder 1
 - [ ] Wow and Wonder 2
@@ -429,6 +429,71 @@ network of individuals who are dynamic, reliable, & participatory.
 ✔️ Set up a GitHub repository of your own and invite me as a collaborator.  
 ✔️ Create a tracking issue in your own repository and add me as an assignee.  
 ✔️ **Read** [It’s Not Misinformation. It’s Amplified Propaganda.](https://www.theatlantic.com/ideas/archive/2021/10/disinformation-propaganda-amplification-ampliganda/620334/)  
-✔️ **Publish** Wow and Wonder #6 on your blog.  
+✔️ **Publish** Wow and Wonder #~~6~~ 5 on your blog.  
 ✔️ Continue planning for your [Major Project](https://cmadland.github.io/edci338-202201/major-project.html).
+```
+
+## Week 7 (Feb 21-27) {-}
+
+We are sliding into the back half of the course, and this week is a chance for you to recharge, catch up, get ahead, and just breathe a bit.
+
+This week, I am working my way through providing some comments on your first Showcase posts, so please make sure those are up to date and that you have [created a course tracking issue in your own repository.](https://cmadland.github.io/edci338-202201/updates.html#tracking-and-feedback)
+
+If you are hoping to do some work on your Major project, I've published some more instructions on the [GitHub Setup page](https://cmadland.github.io/edci338-202201/github-setup.html). I've described how you can work in a fork of the course repository and also how to upload and add images to your pages (useful for the persona screenshots).
+
+I'm not going to bother you further until Monday, and we will not be meeting on Friday this week, but if you'd like to book a time to meet with me, I'm happy to do so.
+
+## Thursday, Feb 24, 2022 🇨🇦 💔 🇺🇦 {-}
+
+Hello,
+
+I'm writing this with a heavy heart. The news out of Ukraine in the last weeks, and especially in the last 24 hours, is distressing, to say the least.
+
+As EDCI338 is a course specifically about social media and personal learning networks in education, it would be irresponsible to not mention that there will be a massive social media misinformation campaign coming out of Russia and their allies. Please take care of yourself and what you share. 
+
+<!---
+[Here is an example of how open-source tools are helping lay-people to debunk some of this misinformation as it is released,](https://twitter.com/EliotHiggins/status/1495355366141534208) and [here is another example.](https://www.vice.com/en/article/7kb75e/the-internet-is-debunking-russian-war-propaganda-in-real-time)
+--->
+
+[Please remember that there are supports available for you through the UVSS](https://cmadland.github.io/edci338-202201/course-details.html#uvic-students-society-peer-support), and you are always welcome to book a time to meet with me to chat.
+
+🇨🇦 💔 🇺🇦
+
+## Week 8 (Feb 28 - Mar 6) {-}
+
+```{block, type='protip'}
+#### ✨ Note {-}
+
+I've just noticed that the numbering in the syllabus is a bit different from this site. This is Week 8 of the course, and *Class 7* in the syllabus. Sorry for the confusion.
+
+```
+
+Prior to reading week, we read about the idea of *ampliganda*, a term coined by Renee DiResta that captures the fact that misinformation gets *amplified* in social media and that we sometimes unwittingly become  the vector by which it spreads.
+
+Little did I know that we would, in the following week, observe a misinformation campaign in such obvious clarity. The Russian embassy in Ottawa posted this tweet to their official account yesterday:
+
+![Russian Misinformation Campaign](assets/w8/russiatweet.png)
+
+I posted a screenshot here so that I'm not linking to it, which would cause it to be shared more widely. As it is, you can see the tweet was Retweeted 641 times (thie image itself was RT'd 2600 times) as I'm writing this. It is extremely difficult to stop ampliganda because of how social media works by encouraging sharing and creating more and more connections.
+
+I encourage you to read and follow the advice in [this post from Mike Caulfield](https://hapgood.us/2019/06/19/sift-the-four-moves/) that covers four 'moves' to help you sort through misinformation. You can also find tools in this [Twitter Moment](https://twitter.com/twittermoments/status/1498800033046544384?s=21).
+
+### Surveillance {-}
+
+This week, in a bit of a departure from the syllabus, I'd like you to read, discuss, think, and write about how social media tools of various different types are used to surveil us for profit. In this case, we will take a bit more expansive view of what 'social media' is in that some of the platforms that come up may not be considered *social media* by many people, but they rely on the same logic of gathering huge amounts of data from people, aggregating it, and analyzing it to draw inferences based on what the programers determine to be ***normal***.
+
+The first platform that falls into this category is [*TurnItIn* (TII)](https://turnitin.com), which you may recognize as the tool many universities use to, presumably, detect plagiarism (Note: TII ***cannot*** detect plagiarism, and it never has). TII is very much a social platform as it relies on being able to compare the work that you submit to it's platform to the work that others submit and the work that others have published on the web. In my other job, where I am the administrator for Moodle, I receive emails from instructors in other universities requesting access to student work that has been flagged as being similar (I always deny their request as that would be an invasion of student privacy and violation of their copyright.) So, the social aspect of TII is completely hidden from you, but it is the key driver of growth for TII. How does TII profit from your data? Good question. [Jim Luke, an economics prof in the US, has some thoughts on that.](https://econproph.com/2019/03/12/thats-no-plagiarism-checker/)
+
+Another similar platform is [Proctorio](https://proctorio.com), whose business model is to convince universities that they need to pay Proctorio huge sums of money to require students to install spyware on their computer in order to ~~prevent~~ catch students cheating in exams. This week, you'll watch some short films on the topic of surveillance in education and society to help you think through the impacts of what Shoshana Zuboff calls [***surveillance capitalism***](https://twitter.com/shoshanazuboff).
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ Make sure you have received my feedback on your first showcase post. Check in your GitHub repository and/or your email for a notification from GitHub. Please be in touch as soon as possible if you haven't heard from me.  
+✔️ ***Read*** the posts and articles linked above and scan through the Twitter Moment for resources that you can use. Keep in mind that some resources will be paywalled, don't worry about trying to access those, just keep scrolling.  
+✔️ ***Watch*** [#tresdancing](https://youtu.be/aUivOlVpcWA) from the [Screeing Surveillance series of short films](https://www.screeningsurveillance.com/) from Queen's University.  
+✔️ ***Watch*** at least one other of the short films from [Screening Surveillance](https://www.screeningsurveillance.com/).  
+✔️ ***Meet and Discuss*** with your learning pod the topic of surveillance in social media, both the platforms I mention above and the platform that you have chosen for your Major Project.  
+✔️ ***Publish*** Wow and Wonder 6 on your blog based on this week's activities.  
+✔️ Begin ***collaboratively composing and publishing*** information about your chosen social media platform for the Major Project. You should have one person in your learning pod who has forked the course repository, and the rest of the people in your learning pod who have forked the fork (fork-ception). You should have published your personas, and this week you can start gathering descriptive data about your platform. I'll publish more specific details about what to publish today or tomorrow.  
+
 ```

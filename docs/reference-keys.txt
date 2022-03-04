@@ -1,10 +1,11 @@
 tiktok
+persona
 facebook
 youtube
 discord
 weibo
 linkedin
-github
+snapchat
 instagram
 zenly
 red
