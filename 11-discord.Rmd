@@ -1,1 +1,3 @@
 # Discord
+## Persona
+![Persona Example 1](assets/Discord/persona1.jpg)
