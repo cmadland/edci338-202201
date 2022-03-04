@@ -3,6 +3,7 @@ persona
 facebook
 youtube
 discord
+persona-1
 weibo
 linkedin
 snapchat
