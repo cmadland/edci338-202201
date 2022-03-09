@@ -1,3 +1,3 @@
 # Zenly
 ## Persona
-![Persona 1](assets/zenly-personas/Persona 1.jpg)
+![Persona 1](assets/zenly/Persona 1.jpg)
