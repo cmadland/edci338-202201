@@ -1,1 +1,4 @@
 # Facebook
+![Example 1-1](assets/facebook/persona-1-1.png)
+![Example 1-2](assets/facebook/persona-1-2.png)
+![Example 2](assets/facebook/persona-2.jpeg)

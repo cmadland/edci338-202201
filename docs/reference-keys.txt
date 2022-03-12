@@ -9,4 +9,5 @@ linkedin
 snapchat
 instagram
 zenly
+persona-2
 red

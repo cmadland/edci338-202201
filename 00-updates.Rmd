@@ -362,7 +362,7 @@ As you meet with your learning pod this week and talk about inclusion and divers
 ✔️ **Sign Up** to claim a social media platform with your Learning Pod. Instructions are on the [Major Project](https://cmadland.github.io/edci338-202201/major-project.html) page.  
 ```
 
-## Week 6 (Feb❤️14 - 20) {-}
+## Week Six (Feb❤️14 - 20) {-}
 
 ### Showcase Posts {-}
 
@@ -433,7 +433,7 @@ network of individuals who are dynamic, reliable, & participatory.
 ✔️ Continue planning for your [Major Project](https://cmadland.github.io/edci338-202201/major-project.html).
 ```
 
-## Week 7 (Feb 21-27) {-}
+## Week Seven (Feb 21-27) {-}
 
 We are sliding into the back half of the course, and this week is a chance for you to recharge, catch up, get ahead, and just breathe a bit.
 
@@ -459,7 +459,7 @@ As EDCI338 is a course specifically about social media and personal learning net
 
 🇨🇦 💔 🇺🇦
 
-## Week 8 (Feb 28 - Mar 6) {-}
+## Week Eight (Feb 28 - Mar 6) {-}
 
 ```{block, type='protip'}
 #### ✨ Note {-}
@@ -496,4 +496,31 @@ Another similar platform is [Proctorio](https://proctorio.com), whose business m
 ✔️ ***Publish*** Wow and Wonder 6 on your blog based on this week's activities.  
 ✔️ Begin ***collaboratively composing and publishing*** information about your chosen social media platform for the Major Project. You should have one person in your learning pod who has forked the course repository, and the rest of the people in your learning pod who have forked the fork (fork-ception). You should have published your personas, and this week you can start gathering descriptive data about your platform. I'll publish more specific details about what to publish today or tomorrow.  
 
+```
+
+## Week Nine (Mar 7-13) {-}
+
+And just like that, we have 4 weeks left in the course!
+
+Just a reminder that week nine here corresponds to class 8 on the syllabus ***HOWEVER*** we are going to skip class 8 for now and jump to class 9, *PLN in Education*. 
+
+I'm looking at the syllabus and thinking that things have piled up here at the end of the course, so I'd like to propose that we make an adjustment by dropping the Showcase Post #2 and moving the weight of that assignment to the first showcase, the Major Project, and the Celebration of Learning post. I have created an [issue in the course repository where we can discuss this proposal.](https://github.com/cmadland/edci338-202201/issues/123) Please add your voice there.
+
+For the remaining four weeks of the course, there will be less of an emphasis on new content and a greater emphasis on you building your components of the Major Project. With that in mind, we turn to one last major topic in the course, and that is thinking about your PLN in the context of education, either formally, such as in EDCI338 or another accredited course experience, or informally, as in when you need to learn how to drive a manual transmission car, or juggle, or cook.
+
+[Alec Couros](https://twitter.com/courosa) is a professor at the University of Regina in Saskatchewan and he is one of the pioneers of the type of open course that EDCI338 emulates in some ways. Couros wrote a book chapter called *Developing Personal Learning Networks for Open and Social Learning* in which he describes a graduate course he taught in 2008. EC&I 831 had 20 registered participants, but over 200 participants who followed along simply to engage in the community and connect with each other. As you read Couros' account, there are some things that you may be interested to notice. First are the similarities between the requirements for EDCI338 and EC&I831 in terms of reflective practice combined with collaborative work and using technology. Also, please notice that many of the technological tools Couros writes about are no longer even in existence. Their main course site, wikispaces.com, went out of business several years ago, leaving users very much in a lurch to find alternate homes for their content. Elluminate used to be one of the premiere web conferencing tools, but was purchased by Blackboard, the LMS company, and is now deprecated in favour of Blackboard Collaborate Ultra. Ning.com used to be free, but is now a paid service, so no longer popular for educators. The list goes on.
+
+One significant idea that I want you to remember in this, and a reason that I am using GitHub, is that tech platforms come and go, and with them, go their proprietary formats. If a proprietary format can no longer be read, then it is useless. If the platform disappears, your content disappears. Contrary to that, with GitHub, since it reads plain text files, you can take your content with you and deploy it in another platform with only some relatively minor modifications. This idea of being able to take your content with you and deploy it in a different system is called `inter-operability`, and it is a major concern in the social media landscape today. Think about how challenging it is to download an image from Instagram, or a clip from TikTok without one of those third-party apps (it's not just me, is it?). This is evidence that these platforms are not inter-operable; you can't easily use content from one platform in a different platform.
+
+Also, as you read Couros' chapter, consider whether or not you have experienced a PLN either within your Learning Pod, or within the course. Have you been able to build trusting relationships within the class? Why or why not?
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ **Read** chapter 6, [*Developing Personal Learning Networks for Open and Social Learning* (PDF download, sorry)](https://www.aupress.ca/app/uploads/120177_99Z_Veletsianos_2010-Emerging_Technologies_in_Distance_Education.pdf) in *Emerging Technologies in Distance Education*.  
+✔️ **Publish** your seventh Wow and Wonder post and discuss your posts in your Learning Pods.  
+✔️ **Follow** several educators in your chosen social media platform (whatever that looks like in your platform). Then, to find more educators, see who they follow and follow them. Feel free to use your persona's accounts as well as, or instead of, your own.  
+✔️ Begin **drafting and composing** your [*Celebration of Learning*](https://cmadland.github.io/edci338-202201/course-assessment.html#celebration-of-learning-30) post so it isn't a panic in the last week.  
+✔️ Continue **Building** your [Major Project page.](https://cmadland.github.io/edci338-202201/major-project-1.html) By the end of this week (Mar 13), you should have a substantial pull request to send your work from your Learning Pod's repo to the main course repo.  
+
+***Please be in touch if you are confused about how to do this!! Do not wait! It is up to you to reach out for assistance.***  
 ```
