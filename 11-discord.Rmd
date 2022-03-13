@@ -3,7 +3,6 @@
 ![Persona Example 1](assets/Discord/persona1.jpg)
 ![Persona Example 2](assets/Discord/13221646371410_.pic_hd.jpg)
 ![Persona Example 3](assets/Discord/persona2.png)
-![Persona Example 4](assets/Discord/Persona4.png)
 ## 4.2 Demographics
 ### 4.2.1 Target Audience and Users
 Discord states that the minimum age to access the platform is between 13 and 17 (depending on the country of the user and local guidelines), however these restrictions do not prevent these younger users from accessing the platform. Though there are no official statistics on the average age of Discord users, one site estimates that majority of users are adults between 30-33 years of age [1]. Though the creators of Discord made the platform with no targeted users in mind, the platform continues to be widely used by people who play video games as an efficient way to message and chat to others. Discord servers may also be created to connect users with similar interest or hobbies, chats with friends and family, and for educational or professional purposes [2]. Political leaning of users is varied, and there are many existing servers and communities for users of all positions of the political spectrum.
