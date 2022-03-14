@@ -3,9 +3,6 @@ persona
 facebook
 youtube
 discord
-persona-1
-content
-references
 weibo
 linkedin
 persona-2
