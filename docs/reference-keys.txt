@@ -4,10 +4,13 @@ facebook
 youtube
 discord
 persona-1
+content
+references
 weibo
 linkedin
+persona-2
 snapchat
 instagram
 zenly
-persona-2
+persona-3
 red
