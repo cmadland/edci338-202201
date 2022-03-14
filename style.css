@@ -15,7 +15,7 @@ pre code {
 
 /* Styling for all custom environments: */
 div.secondary, div.reflect, div.wp, div.gh, div.todo, div.caution, div.feedback, div.protip{
-  padding: 0.1em 0.0em 0.5em 1.0em;
+  padding: 0.1em 0.5em 0.5em 1.0em;
   margin-bottom: 0.5em;
   position:relative;
   border-style: solid;

@@ -13,7 +13,7 @@ assignees: cmadland
 
 [Your Blog Title](https://____.opened.ca)
 
-- [ ]  Check this box if you are willing to have your blog URL published on the course website.
+- [ ]  Check this box (put an 'x' between the square brackets) if you are willing to have your blog URL published on the course website.
 - [ ]  Check this box if you agree to have your blog posts syndicated so that they are displayed on the course site.
 
 #### What is your preferred email address?

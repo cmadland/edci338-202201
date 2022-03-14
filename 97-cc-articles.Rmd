@@ -1,0 +1,428 @@
+# Articles {-}
+
+The following articles are reproduced here under their respective Creative Commons licenses.
+
+## Connectivism: A Learning Theory for the Digital Age {-}
+
+```{block, type='reflect'}
+#### Reference
+
+Siemens, G. (2005). [Connectivism: A Learning Theory for the Digital Age.](https://www.itdl.org/Journal/Jan_05/article01.htm)  *International Journal of Instructional Technology and Distance Learning, 2*(1). 
+
+
+```
+
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://www.itdl.org/Journal/Jan_05/article01.htm">Connectivism: A Learning Theory for the Digital Age</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/gsiemens">George Siemens</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
+
+
+### Introduction {-}
+
+Behaviorism, cognitivism, and constructivism are the three broad learning theories most often utilized in the creation of instructional environments. These theories, however, were developed in a time when learning was not impacted through technology. Over the last twenty years, technology has reorganized how we live, how we communicate, and how we learn. Learning needs and theories that describe learning principles and processes, should be reflective of underlying social environments. Vaill emphasizes that “learning must be a way of being – an ongoing set of attitudes and actions by individuals and groups that they employ to try to keep abreast of the surprising, novel, messy, obtrusive, recurring events…” (1996, p.42).
+
+Learners as little as forty years ago would complete the required schooling and enter a career that would often last a lifetime. Information development was slow. The life of knowledge was measured in decades. Today, these foundational principles have been altered. Knowledge is growing exponentially. In many fields the life of knowledge is now measured in months and years. Gonzalez (2004) describes the challenges of rapidly diminishing knowledge life:
+
+“One of the most persuasive factors is the shrinking half-life of knowledge. The “half-life of knowledge” is the time span from when knowledge is gained to when it becomes obsolete. Half of what is known today was not known 10 years ago. The amount of knowledge in the world has doubled in the past 10 years and is doubling every 18 months according to the American Society of Training and Documentation (ASTD). To combat the shrinking half-life of knowledge, organizations have been forced to develop new methods of deploying instruction.”
+
+Some significant trends in learning:
+
+- Many learners will move into a variety of different, possibly unrelated fields over the course of their lifetime.
+
+- Informal learning is a significant aspect of our learning experience. Formal education no longer comprises the majority of our learning. Learning now occurs in a variety of ways – through communities of practice, personal networks, and through completion of work-related tasks.
+
+- Learning is a continual process, lasting for a lifetime. Learning and work related activities are no longer separate. In many situations, they are the same.
+
+- Technology is altering (rewiring) our brains. The tools we use define and shape our thinking.
+
+- The organization and the individual are both learning organisms. Increased attention to knowledge management highlights the need for a theory that attempts to explain the link between individual and organizational learning.
+
+- Many of the processes previously handled by learning theories (especially in cognitive information processing) can now be off-loaded to, or supported by, technology.
+
+- Know-how and know-what is being supplemented with know-where (the understanding of where to find knowledge needed). 
+
+### Background {-}
+
+Driscoll (2000) defines learning as “a persisting change in human performance or performance potential…[which] must come about as a result of the learner’s experience and interaction with the world” (p.11). This definition encompasses many of the attributes commonly associated with behaviorism, cognitivism, and constructivism – namely, learning as a lasting changed state (emotional, mental, physiological (i.e. skills)) brought about as a result of experiences and interactions with content or other people.
+
+Driscoll (2000, p14-17) explores some of the complexities of defining learning. Debate centers on:
+
+- Valid sources of knowledge - Do we gain knowledge through experiences? Is it innate (present at birth)? Do we acquire it through thinking and reasoning?
+
+- Content of knowledge – Is knowledge actually knowable? Is it directly knowable through human experience?
+
+- The final consideration focuses on three epistemological traditions in relation to learning: Objectivism, Pragmatism, and Interpretivism
+
+  - Objectivism (similar to behaviorism) states that reality is external and is objective, and knowledge is gained through experiences.
+
+  - Pragmatism (similar to cognitivism) states that reality is interpreted, and knowledge is negotiated through experience and thinking.
+
+  - Interpretivism (similar to constructivism) states that reality is internal, and knowledge is constructed.
+
+All of these learning theories hold the notion that knowledge is an objective (or a state) that is attainable (if not already innate) through either reasoning or experiences. Behaviorism, cognitivism, and constructivism (built on the epistemological traditions) attempt to address how it is that a person learns.
+
+Behaviorism states that learning is largely unknowable, that is, we can’t possibly understand what goes on inside a person (the “black box theory”). Gredler (2001) expresses behaviorism as being comprised of several theories that make three assumptions about learning:
+
+- Observable behaviour is more important than understanding internal activities
+
+- Behaviour should be focused on simple elements: specific stimuli and responses
+
+- Learning is about behaviour change 
+
+Cognitivism often takes a computer information processing model. Learning is viewed as a process of inputs, managed in short term memory, and coded for long-term recall. Cindy Buell details this process: “In cognitive theories, knowledge is viewed as symbolic mental constructs in the learner's mind, and the learning process is the means by which these symbolic representations are committed to memory.”
+
+Constructivism suggests that learners create knowledge as they attempt to understand their experiences (Driscoll, 2000, p. 376). Behaviorism and cognitivism view knowledge as external to the learner and the learning process as the act of internalizing knowledge. Constructivism assumes that learners are not empty vessels to be filled with knowledge. Instead, learners are actively attempting to create meaning. Learners often select and pursue their own learning. Constructivist principles acknowledge that real-life learning is messy and complex. Classrooms which emulate the “fuzziness” of this learning will be more effective in preparing learners for life-long learning.
+Limitations of Behaviorism, Cognitivism, and Constructivism
+
+A central tenet of most learning theories is that learning occurs inside a person. Even social constructivist views, which hold that learning is a socially enacted process, promotes the principality of the individual (and her/his physical presence – i.e. brain-based) in learning. These theories do not address learning that occurs outside of people (i.e. learning that is stored and manipulated by technology). They also fail to describe how learning happens within organizations
+
+Learning theories are concerned with the actual process of learning, not with the value of what is being learned. In a networked world, the very manner of information that we acquire is worth exploring. The need to evaluate the worthiness of learning something is a meta-skill that is applied before learning itself begins. When knowledge is subject to paucity, the process of assessing worthiness is assumed to be intrinsic to learning. When knowledge is abundant, the rapid evaluation of knowledge is important. Additional concerns arise from the rapid increase in information. In today’s environment, action is often needed without personal learning – that is, we need to act by drawing information outside of our primary knowledge. The ability to synthesize and recognize connections and patterns is a valuable skill.
+
+Many important questions are raised when established learning theories are seen through technology. The natural attempt of theorists is to continue to revise and evolve theories as conditions change. At some point, however, the underlying conditions have altered so significantly, that further modification is no longer sensible. An entirely new approach is needed.
+
+Some questions to explore in relation to learning theories and the impact of technology and new sciences (chaos and networks) on learning:
+
+- How are learning theories impacted when knowledge is no longer acquired in the linear manner?
+
+- What adjustments need to made with learning theories when technology performs many of the cognitive operations previously performed by learners (information storage and retrieval).
+
+- How can we continue to stay current in a rapidly evolving information ecology?
+
+- How do learning theories address moments where performance is needed in the absence of complete understanding?
+
+- What is the impact of networks and complexity theories on learning?
+
+- What is the impact of chaos as a complex pattern recognition process on learning?
+
+- With increased recognition of interconnections in differing fields of knowledge, how are systems and ecology theories perceived in light of learning tasks? 
+
+### An Alternative Theory {-}
+
+Including technology and connection making as learning activities begins to move learning theories into a digital age. We can no longer personally experience and acquire learning that we need to act. We derive our competence from forming connections. Karen Stephenson states:
+
+“Experience has long been considered the best teacher of knowledge. Since we cannot experience everything, other people’s experiences, and hence other people, become the surrogate for knowledge. ‘I store my knowledge in my friends’ is an axiom for collecting knowledge through collecting people (undated).”
+
+Chaos is a new reality for knowledge workers. ScienceWeek (2004) quotes Nigel Calder's definition that chaos is “a cryptic form of order”. Chaos is the breakdown of predictability, evidenced in complicated arrangements that initially defy order. Unlike constructivism, which states that learners attempt to foster understanding by meaning making tasks, chaos states that the meaning exists – the learner's challenge is to recognize the patterns which appear to be hidden. Meaning-making and forming connections between specialized communities are important activities.
+
+Chaos, as a science, recognizes the connection of everything to everything. Gleick (1987) states: “In weather, for example, this translates into what is only half-jokingly known as the Butterfly Effect – the notion that a butterfly stirring the air today in Peking can transform storm systems next month in New York” (p. 8). This analogy highlights a real challenge: “sensitive dependence on initial conditions” profoundly impacts what we learn and how we act based on our learning. Decision making is indicative of this. If the underlying conditions used to make decisions change, the decision itself is no longer as correct as it was at the time it was made. The ability to recognize and adjust to pattern shifts is a key learning task.
+
+Luis Mateus Rocha (1998) defines self-organization as the “spontaneous formation of well organized structures, patterns, or behaviors, from random initial conditions.” (p.3). Learning, as a self-organizing process requires that the system (personal or organizational learning systems) “be informationally open, that is, for it to be able to classify its own interaction with an environment, it must be able to change its structure…” (p.4). Wiley and Edwards acknowledge the importance of self-organization as a learning process: “Jacobs argues that communities self-organize is a manner similar to social insects: instead of thousands of ants crossing each other’s pheromone trails and changing their behavior accordingly, thousands of humans pass each other on the sidewalk and change their behavior accordingly.”. Self-organization on a personal level is a micro-process of the larger self-organizing knowledge constructs created within corporate or institutional environments. The capacity to form connections between sources of information, and thereby create useful information patterns, is required to learn in our knowledge economy.
+Networks, Small Worlds, Weak Ties
+
+A network can simply be defined as connections between entities. Computer networks, power grids, and social networks all function on the simple principle that people, groups, systems, nodes, entities can be connected to create an integrated whole. Alterations within the network have ripple effects on the whole.
+
+Albert-László Barabási states that “nodes always compete for connections because links represent survival in an interconnected world” (2002, p.106). This competition is largely dulled within a personal learning network, but the placing of value on certain nodes over others is a reality. Nodes that successfully acquire greater profile will be more successful at acquiring additional connections. In a learning sense, the likelihood that a concept of learning will be linked depends on how well it is currently linked. Nodes (can be fields, ideas, communities) that specialize and gain recognition for their expertise have greater chances of recognition, thus resulting in cross-pollination of learning communities.
+
+Weak ties are links or bridges that allow short connections between information. Our small world networks are generally populated with people whose interests and knowledge are similar to ours. Finding a new job, as an example, often occurs through weak ties. This principle has great merit in the notion of serendipity, innovation, and creativity. Connections between disparate ideas and fields can create new innovations.
+Connectivism
+
+Connectivism is the integration of principles explored by chaos, network, and complexity and self-organization theories. Learning is a process that occurs within nebulous environments of shifting core elements – not entirely under the control of the individual. Learning (defined as actionable knowledge) can reside outside of ourselves (within an organization or a database), is focused on connecting specialized information sets, and the connections that enable us to learn more are more important than our current state of knowing.
+
+Connectivism is driven by the understanding that decisions are based on rapidly altering foundations. New information is continually being acquired. The ability to draw distinctions between important and unimportant information is vital. The ability to recognize when new information alters the landscape based on decisions made yesterday is also critical.
+Principles of connectivism:
+
+- Learning and knowledge rests in diversity of opinions.
+
+- Learning is a process of connecting specialized nodes or information sources.
+
+- Learning may reside in non-human appliances.
+
+- Capacity to know more is more critical than what is currently known
+
+- Nurturing and maintaining connections is needed to facilitate continual learning.
+
+- Ability to see connections between fields, ideas, and concepts is a core skill.
+
+- Currency (accurate, up-to-date knowledge) is the intent of all connectivist learning activities.
+
+- Decision-making is itself a learning process. Choosing what to learn and the meaning of incoming information is seen through the lens of a shifting reality. While there is a right answer now, it may be wrong tomorrow due to alterations in the information climate affecting the decision. 
+
+Connectivism also addresses the challenges that many corporations face in knowledge management activities. Knowledge that resides in a database needs to be connected with the right people in the right context in order to be classified as learning. Behaviorism, cognitivism, and constructivism do not attempt to address the challenges of organizational knowledge and transference.
+
+Information flow within an organization is an important element in organizational effectiveness. In a knowledge economy, the flow of information is the equivalent of the oil pipe in an industrial economy. Creating, preserving, and utilizing information flow should be a key organizational activity. Knowledge flow can be likened to a river that meanders through the ecology of an organization. In certain areas, the river pools and in other areas it ebbs. The health of the learning ecology of the organization depends on effective nurturing of information flow.
+
+Social network analysis is an additional element in understanding learning models in a digital era. Art Kleiner (2002) explores Karen Stephenson’s “quantum theory of trust” which “explains not just how to recognize the collective cognitive capability of an organization, but how to cultivate and increase it”. Within social networks, hubs are well-connected people who are able to foster and maintain knowledge flow. Their interdependence results in effective knowledge flow, enabling the personal understanding of the state of activities organizationally.
+
+The starting point of connectivism is the individual. Personal knowledge is comprised of a network, which feeds into organizations and institutions, which in turn feed back into the network, and then continue to provide learning to individual. This cycle of knowledge development (personal to network to organization) allows learners to remain current in their field through the connections they have formed.
+
+Landauer and Dumais (1997) explore the phenomenon that “people have much more knowledge than appears to be present in the information to which they have been exposed”. They provide a connectivist focus in stating “the simple notion that some domains of knowledge contain vast numbers of weak interrelations that, if properly exploited, can greatly amplify learning by a process of inference”. The value of pattern recognition and connecting our own “small worlds of knowledge” are apparent in the exponential impact provided to our personal learning.
+
+John Seely Brown presents an interesting notion that the internet leverages the small efforts of many with the large efforts of few. The central premise is that connections created with unusual nodes supports and intensifies existing large effort activities. Brown provides the example of a Maricopa County Community College system project that links senior citizens with elementary school students in a mentor program. The children “listen to these “grandparents” better than they do their own parents, the mentoring really helps the teachers…the small efforts of the many- the seniors – complement the large efforts of the few – the teachers.” (2002). This amplification of learning, knowledge and understanding through the extension of a personal network is the epitome of connectivism.
+ 
+### Implications {-}
+
+The notion of connectivism has implications in all aspects of life. This paper largely focuses on its impact on learning, but the following aspects are also impacted:
+
+- Management and leadership. The management and marshalling of resources to achieve desired outcomes is a significant challenge. Realizing that complete knowledge cannot exist in the mind of one person requires a different approach to creating an overview of the situation. Diverse teams of varying viewpoints are a critical structure for completely exploring ideas. Innovation is also an additional challenge. Most of the revolutionary ideas of today at one time existed as a fringe element. An organizations ability to foster, nurture, and synthesize the impacts of varying views of information is critical to knowledge economy survival. Speed of “idea to implementation” is also improved in a systems view of learning.
+
+- Media, news, information. This trend is well under way. Mainstream media organizations are being challenged by the open, real-time, two-way information flow of blogging.
+
+- Personal knowledge management in relation to organizational knowledge management
+
+- Design of learning environments
+
+
+### Conclusion {-}
+
+The pipe is more important than the content within the pipe. Our ability to learn what we need for tomorrow is more important than what we know today. A real challenge for any learning theory is to actuate known knowledge at the point of application. When knowledge, however, is needed, but not known, the ability to plug into sources to meet the requirements becomes a vital skill. As knowledge continues to grow and evolve, access to what is needed is more important than what the learner currently possesses.
+
+Connectivism presents a model of learning that acknowledges the tectonic shifts in society where learning is no longer an internal, individualistic activity. How people work and function is altered when new tools are utilized. The field of education has been slow to recognize both the impact of new learning tools and the environmental changes in what it means to learn. Connectivism provides insight into learning skills and tasks needed for learners to flourish in a digital era.
+ 
+### References {-}
+
+Barabási, A. L., (2002) Linked: The New Science of Networks, Cambridge, MA, Perseus Publishing.
+
+Buell, C. (undated). Cognitivism. Retrieved December 10, 2004 from http://web.cocc.edu/cbuell/theories/cognitivism.htm.
+
+Brown, J. S., (2002). Growing Up Digital: How the Web Changes Work, Education, and the Ways People Learn. United States Distance Learning Association. Retrieved on December 10, 2004, from http://www.usdla.org/html/journal/FEB02_Issue/article01.html
+
+Driscoll, M. (2000). Psychology of Learning for Instruction. Needham Heights, MA, Allyn & Bacon.
+
+Gleick, J., (1987). Chaos: The Making of a New Science. New York, NY, Penguin Books.
+
+Gonzalez, C., (2004). The Role of Blended Learning in the World of Technology. Retrieved December 10, 2004 from http://www.unt.edu/benchmarks/archives/2004/september04/eis.htm.
+
+Gredler, M. E., (2005) Learning and Instruction: Theory into Practice – 5th Edition, Upper Saddle River, NJ, Pearson Education.
+
+Kleiner, A. (2002). Karen Stephenson’s Quantum Theory of Trust. Retrieved December 10, 2004 from http://www.netform.com/html/s+b%20article.pdf.
+
+Landauer, T. K., Dumais, S. T. (1997). A Solution to Plato’s Problem: The Latent Semantic Analysis Theory of Acquisition, Induction and Representation of Knowledge. Retrieved December 10, 2004 from http://lsa.colorado.edu/papers/plato/plato.annote.html.
+
+Rocha, L. M. (1998). Selected Self-Organization and the Semiotics of Evolutionary Systems. Retrieved December 10, 2004 from http://informatics.indiana.edu/rocha/ises.html.
+
+ScienceWeek (2004) Mathematics: Catastrophe Theory, Strange Attractors, Chaos. Retrieved December 10, 2004 from http://scienceweek.com/2003/sc031226-2.htm.
+
+Stephenson, K., (Internal Communication, no. 36) What Knowledge Tears Apart, Networks Make Whole. Retrieved December 10, 2004 from http://www.netform.com/html/icf.pdf.
+
+Vaill, P. B., (1996). Learning as a Way of Being. San Francisco, CA, Jossey-Blass Inc.
+
+Wiley, D. A and Edwards, E. K. (2002). Online self-organizing social systems: The decentralized future of online learning. Retrieved December 10, 2004 from http://wiley.ed.usu.edu/docs/ososs.pdf.
+ 
+This work is reproduced here under the original [Creative Commons License - CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/1.0).
+
+## Visitors and Residents: A new typology for online engagement {-}
+
+```{block, type='reflect'}
+#### Reference
+White, D. S., & Cornu, A. L. (2011). [Visitors and Residents: A new typology for online engagement.](https://doi.org/10.5210/fm.v16i9.3171) *First Monday.* 
+
+```
+
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://firstmonday.org/article/view/3171/3049">Visitors and Residents: A new typology for online engagement</a> by <span property="cc:attributionName">Dave S. White and Alison Le Cornu</span> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p> 
+
+### Abstract  {-}
+This article proposes a continuum of ‘Visitors’ and ‘Residents’ as a replacement for Prensky’s much‐criticised Digital Natives and Digital Immigrants. Challenging the basic premises upon which Prensky constructed his typology, Visitors and Residents fulfil a similar purpose in mapping individuals’ engagement with the Web. We argue that the metaphors of ‘place’ and ‘tool’ most appropriately represent the use of technology in contemporary society, especially given the advent of social media. The Visitors and Residents continuum accounts for people behaving in different ways when using technology, depending on their motivation and context, without categorising them according to age or background. A wider and more accurate representation of online behaviour is therefore established.
+
+
+### Introduction {-}
+
+‘The digital natives/digital immigrants distinction is dead or at least dying’. So proclaims Doug Holton in his blogpost. He continues: ‘Unfortunately, the idea is still uncritically accepted even in some journal articles, and perhaps used as an excuse or crutch too often for poor or ineffective teaching practices’. Holton is not alone in his criticism. McKenzie (2007) writes strongly against Prensky’s (2001a, b) typology identifying a number of ‘thinly supported claims’, while Kennedy, et al. (2010) demonstrate through an empirical research project that Prensky’s age–related hypothesis is very much less clear–cut than the Natives and Immigrants dichotomy implies.
+
+Our intention in this article is to propose an alternative, which we have termed ‘Visitors and Residents’.
+
+Prensky’s distinction between people who are entirely at ease within a digital environment and those who manage to learn to exist but who (in his view) will never be fully competent, has gained enormous currency and, until recently, widespread acceptance. Similarly, his linked assertion that the differentiation also signals the need for an educational revolution, requiring a new approach which accommodates the up–and–coming Natives, has not only been largely believed but has provoked a sense of panic among ‘Immigrant educators’ who now perceive themselves wrong–footed and unable to step up to the plate.
+
+Prensky himself has expressed doubts over the validity of his thinking (Prensky, 2009). Nor is he the first to try and analyse perceived behaviours of learners by categorising them into types. The benefits of so doing, as well as the disadvantages, are well recognised: benefits are that these categories allow others to use this new knowledge to augment the learning experience; disadvantages focus principally on the inflexibility of types, as well as the tendency to box individuals into one type or another, overlooking contradictory evidence. Theories of learning styles favour typologies of this sort, as do certain theories of human development, and many struggle to allow individuals the space simultaneously to exhibit traits characteristic of different types.
+
+Why, then, would we want to propose an alternative to Prensky’s Natives and Immigrants? Firstly, we recognise the usefulness of these typologies, despite their drawbacks. Secondly, we feel that although many criticisms of Prensky are valid, he initiated an important dialogue and offered a framework which those concerned with the quality and effectiveness of education delivered electronically could use. He was one of the first to do this in a fast–moving domain and this contribution should be acknowledged. His Natives and Immigrants were hypothetical children of their time, however, and we believe that as our understanding has developed, it is appropriate to re–evaluate what was previously accepted and to change it to suit the purposes of today. Not only so, but there are many instances — to the point, perhaps, of being a general and widespread habit — where Prensky’s ideas on Natives and Immigrants have been inappropriately transported into a social media context, paradoxically finding themselves as ‘immigrants’ in a new land.
+
+We introduce our discussion in section II by critiquing Prensky’s Natives and Immigrants with a specific focus on the nature of the metaphor. The section also suggests that in the ten years since Prensky published his Digital Natives, Digital Immigrants (2001), technology, computer applications, and hence the way in which education takes place, have moved on to the point that the Native/Immigrant dichotomy is now redundant. In section III we explore new metaphors of tool, place and space, and, in section IV, therefore, we present our alternative which builds on yet replaces one of the underdeveloped strengths in Prensky’s typology using in particular, the metaphor of place. We make the assumption of familiarity with Prenky’s work and for that reason do not summarise it here [1].
+
+ 
+
+
+### Prensky’s Digital Natives, Digital Immigrants: A critique  {-}
+
+#### Metaphors: Language and age {-}
+
+Key to Prensky’s typology is the connection he made between computing competence and age. In his original paper, he writes:
+
+> What should we call these “new” students of today? Some refer to them as the N–[for Net]–gen or D–[for digital]–gen. But the most useful designation I have found for them is Digital Natives. Our students today are all “native speakers” of the digital language of computers, video games and the Internet.
+
+> So what does that make the rest of us? Those of us who were not born into the digital world but have, at some later point in our lives, become fascinated by and adopted many or most aspects of the new technology are, and always will be compared to them, Digital Immigrants
+
+> The importance of the distinction is this: As Digital Immigrants learn — like all immigrants, some better than others — to adapt to their environment, they always retain, to some degree, their “accent,” that is, their foot in the past. The “digital immigrant accent” can be seen in such things as turning to the Internet for information second rather than first, or in reading the manual for a program rather than assuming that the program itself will teach us to use it. Today’s older folk were “socialized” differently from their kids, and are now in the process of learning a new language. And a language learned later in life, scientists tell us, goes into a different part of the brain. [2]
+
+Prensky’s language–based analogy is compelling and it is easy to see why it quickly commanded attention. Recently, however, challenges have been mounted that separate the two dimensions and call into question, in particular, whether it is genuinely the case firstly that older learners are really as handicapped as Prensky suggests, and secondly that younger learners are as privileged as he understands them to be. Ten years on, evidence and logic challenge both positions, with, for example, comments such as the following from Bennett, et al. (2008):
+
+> Though limited in scope and focus, the research evidence to date indicates that a proportion of young people are highly adept with technology and rely on it for a range of information gathering and communication activities. However, there also appears to be a significant proportion of young people who do not have the levels of access or technology skills predicted by proponents of the digital native idea. Such generalisations about a whole generation of young people thereby focus attention on technically adept students. With this comes the danger that those less interested and less able will be neglected, and that the potential impact of socio–economic and cultural factors will be overlooked. It may be that there is as much variation within the digital native generation as between the generations. [3]
+
+Similarly, Margaryan and Littlejohn write:
+
+> Many young students are far from being the epitomic global, connected, socially networked technologically–fluent digital native who has little patience for passive and linear forms of learning. While the use of technologies is limited in terms of the range and the nature, there is some evidence that younger students use some tools more actively than the older students, but neither of these two groups uses these technologies to support their learning effectively. Educators therefore cannot presume that all young students are “digital natives” who understand how to use technology to support and enhance their learning. [4]
+
+It is increasingly clear that, just as is the case for almost every subject discipline and expertise, some learners will acquire the requisite skills quickly, while others will struggle, regardless of age. It is also significant that formal bodies which regularly survey Internet use, such as Oxford Internet Surveys (OxIS), do not use specifically age–related categories for their data collection, but rather life–stage categories. The majority of OxIS 2009 surveys on The Internet in Britain focus on students, employed and retired people, making no inferences about any commensurate age–related dimensions. The implication is that each category is equally technologically competent, but their respective life–stage leads them to different types of use.
+
+For the purposes of this paper our goal is not to disprove Prensky’s thesis *per se*, but instead to challenge the underlying metaphor of language– and second–language–learning which he builds his case on, and then to offer an alternative. We want to ask questions such as: Can learning technological skills be likened to that of language learning? Is the analogy appropriate? If not, can another more appropriate metaphor be identified? It is undoubtedly significant that there has been a move towards speaking of digital literacies (rather than, for example, digital languages) in recent years. Lankshear and Knobel (2008) draw attention to the move from the singular ‘literacy’ to the plural ‘literacies’, a move of which they approve on account of, amongst other things, &rlsquo;the sheer diversity of specific accounts of “digital literacy” that exist, and consequent implications of that for digital literacy policies’ [5]. They also provide a useful summary of the ways in which ‘digital literacy’ has been interpreted and used. These include:
+
+- Mastering ideas, not keystrokes (Bawden, 2008, citing Gilster, 1997)
+- Conceptual definitions as distinct from standardized operational definitions (Lankshear and Knobel, 2006)
+- Individuals’ ability to participate in a multimodal culture (Jenkins, et al., 2006)
+
+Lankshear and Knobel conclude [6]:
+
+> This sheer variety means that digital literacy can be seen as “a framework for integrating various other literacies and skill–sets” without “the need to encompass them all” or to serve as “one literacy to rule them all” (Martin cited in Bawden, Chapter 1 here; Martin, 2006). Equally, however, it reminds us that any attempt to constitute an umbrella definition or overarching frame of digital literacy will necessarily involve reconciling the claims of myriad concepts of digital literacy, a veritable legion of digital literacies.
+
+There are undoubtedly similarities between mastering this range of literacies and learning a second language, although research about precisely how people learn a new language in adulthood constitutes a complete field in its own right and cannot be explored here. Yet this still seems not to be Prensky’s principal focus. Instead, he targets the foreign accent which remains and which will always be the giveaway of someone’s background and origins. For him, the accent is a matter of habit or of first course of action. So, as the above quote demonstrates, the instinct not to go to the Internet (presumably in favour of using a paper–based encyclopedia) when searching for information, or the tendency to read an instruction manual (also paper–based) rather than work out how something functions by trial and error, are both recognisable ‘accents’.
+
+Once again, it is easy to challenge these assertions. Now that the Internet has been in widespread use in educational establishments for around 15 years, it has clearly become the source of information chosen first by seekers, regardless of age [7]. In many cases the Internet is now the sole up-to-date source of information, and certainly the sole source which offers much free–of–charge. Secondly, reading an instruction manual for other tasks (assembling flat–packed furniture, using a new piece of machinery for the first time, getting to know a new smart phone, etc.) is often a last resort once again for people of all ages.
+
+In this paper we demonstrate that that Prensky was: a) over hasty in appropriating an analogy which cannot bear the weight required of it; and, b) imprecise in his combination of diverse elements (second–language learning, accent, habit and age, linking all these to brain development) which cannot be legitimately combined to make his case. We seek to propose an alternative, highlighting how the advent of social media has dramatically changed the terrain of computer–mediated education, which in turn has enabled us to place a different metaphor, that of ‘place’, at centre stage and offer the analogy of Visitors and Residents as alternatives to Digital Natives and Immigrants.
+
+
+### Towards a new metaphor of engagement with online technology {-}
+
+Prensky’s Natives and Immigrants pre–date the launching of what are now commonly known as social media applications. The social bookmarking site Delicious, for example, was launched in 2003 as was MySpace. Both Facebook and World of Warcraft [8] launched in 2004; Bebo and YouTube in 2005; and, Twitter in 2006. Prior to 2003, the Internet was used primarily as a means of finding information with Google leading the way since 1997 in offering an effective means of searching for and gathering information. A key distinction between information–gathering versus social–networking sites is that the latter invite individuals to project their personas online as a ‘digital identity’ via text, image and video. Furthermore, social media platforms facilitate the construction, by the individual, of complex social networks not constrained by physical geography. These are critical shifts in the use of the internet which we suggest are transforming the nature of relationships, citizenship and learning.
+
+In response to these changes the metaphors which we suggest best represent the engagement with online technology now widely experienced are those of ‘tool’ and ‘place/space’. This section looks at both. Certain platforms on the Web fit quite neatly under the metaphor of ‘tool’, while others are more closely aligned to the metaphor of ‘place’. ‘Tool’ is functional and may provide a bridge between Prensky’s understanding of how people used computer technology and that which we propose. ‘Place’, on the other hand, is social. Increasingly, the two overlap.
+
+#### The metaphors of tool, place and space {-}
+
+Until recently, with the exception of gaming, computing was almost solely linked to ideas of efficiency and goal–orientated functionality. Only now are we witnessing the social appropriation of new computing technologies. Microsoft’s Office suite is an excellent example of this, as well as of the skills that people needed to use the applications effectively. Each application had — and has — a specific purpose that enabled users to do something. It functioned as a tool, a means to an end; users learned and practised skills, developing varying degrees of competence and confidence in achieving their desired ends. Despite numerous iterations of these platforms and of computing operating systems, a set of generally–accepted principles of good practice emerged relating to what users needed and how they could access this most effectively, with the result that users could develop a set of transferable skills applicable across a range of platforms and become computer literate.
+
+In the abrupt cultural shift towards the construction of social networks, we argue that the analogies of language and age cease to function and believe that a metaphor of place is more fit for the purpose of understanding different behaviours and potentially aptitudes. The use of ‘place’ as a metaphor to conceptualise the ‘virtual’ nature of the Web is not new (see Johnston, 2009; Wenger, et al., 2009). However, our definition of place does not make a hard distinction between the virtual and the physical; on the contrary, we are proposing that place is primarily a sense of being present with others. A sense of social presence (White and Le Cornu, 2010) is something those who spend time on social media platforms experience to a high level, with the effect of foregrounding a broad sense of digital identity. This in turn results in a type of personification within social media spaces as people project aspects of their identity to an imagined audience (see Marwick and boyd, 2010). The social dimension of computing has brought about a paradigm shift in many individuals’ experience of computer use as well as influenced their attitude and motivation towards the use and purpose of connected digital technologies.
+
+The metaphor of ‘place’ is therefore one which lends itself very easily to the experience people have when they are engaged and interacting socially with others via a computer. It is not uncommon to hear people asking each other if they have ‘been’ ‘in’ to Facebook today, for example. One of the key features is the fact that people can still meet in an area common to all of them, and for that reason an impression of location and of social space is created. Just as physical, geographical places have architectural characteristics and town planners can make a real–life city more, or less, user–friendly to navigate, so software designers are responsible for the navigability of platforms, and Facebook users are familiar with the frustration of suddenly ‘losing their way’ when the platform is upgraded and changed. In all of these experiences, the metaphors of space and place are used to describe what is going on.
+
+The distinction between and shift from people’s appropriation of computer programmes as tools to thinking of platforms as social spaces is clearly identifiable in an application such as Google Docs. In its original basic form, Google Docs offers a functional tool whereby users can create documents and make them available to others. While this is happening at an individual level, the application remains a tool. As soon as another person, or people, join in and participate in editing and sharing in the creation of the document, a social place is created. Users can reconsider their actions in a kind of social context, discussing with each other aspects of the document and experiencing a social dimension as well as functional.
+
+We therefore argue that tools, places and spaces are the three key metaphors that most aptly describe the experience of computer users in a world where social media are becoming more and more prevalent. We suggest that Prenksy’s understanding of ‘place’ was limited and tagged to his principal metaphor of language; we are now suggesting that this metaphor should be appropriately contextualised and to occupy centre stage in any discussion about how people interact with each other and with content when both are electronically mediated, and be linked to the metaphor of tool. This then allows the formulation of a new typology, that of Visitors and Residents. These are explored in the next section.
+
+ 
+
+
+### Visitors and Residents {-}
+
+#### Visitors {-}
+
+We propose that Visitors understand the Web as akin to an untidy garden tool shed. They have defined a goal or task and go into the shed to select an appropriate tool which they use to attain their goal. Task over, the tool is returned to the shed. It may not have been perfect for the task, but they are happy to make do so long as some progress is made. This is important, since Visitors need to see some concrete benefit resulting from their use of the platform. Significantly, Visitors are unlikely to have any form of persistent profile online which projects their identity into the digital space. They are anonymous, their activity invisible to all but the databases running the Web sites they use. Individuals who most closely fit the Visitor approach give a number of reasons for not wanting a ‘digital identity’ which would persist in some form even when they were not online. Issues of privacy and fear of identity theft are paramount [9] but there is also a sense that social networking activities are banal and egotistical. Implicit in this is the idea that if you have a ‘real’ social life and network of friends then you wouldn’t choose to socialise online in a visible manner. It is this visibility, or the ‘broadcast’ nature of the visibility, which is key; Visitors are not averse to using e–mail or Skype to maintain relationships but they are wary of creating a Facebook profile.
+
+Visitors then see the Web as primarily a set of tools which deliver or manipulate content (this can include the content of a conversation because, as mentioned, they are happy to accept the Web as a useful conduit for interpersonal communication). This content is often distanced as far as possible from personal opinion (unless a competent authority is in evidence or a pre–existing off–line relationship). In effect, the ‘non–referenced’ or non–expert opinion and notions such as the wisdom of the crowd are avoided. Ultimately to Visitors the Web is simply one of many tools they can use to achieve certain goals; it is categorised alongside the telephone, books, pen and paper and off–line software. It is not a ‘place’ to think or to develop ideas and to put it crudely, and at its most extreme, Visitors do their thinking off–line. So Visitors are users, not members, of the Web and place little value in belonging online.
+
+#### Residents {-}
+
+Residents, on the other hand, see the Web as a place, perhaps like a park or a building in which there are clusters of friends and colleagues whom they can approach and with whom they can share information about their life and work. A proportion of their lives is actually lived out online where the distinction between online and off–line is increasingly blurred. Residents are happy to go online simply to spend time with others and they are likely to consider that they ‘belong’ to a community which is located in the virtual. They have a profile in social networking platforms such as Facebook or Twitter and are comfortable expressing their persona in these online spaces. To Residents, the Web is a place to express opinions, a place in which relationships can be formed and extended. While they use ‘tools’ such as online banking and shopping systems they also use the Web to maintain and develop a digital identity. Since they also undertake many of the activities that Visitors do, their residency is an additional layer of interaction and activity. When Residents log off, an aspect of their persona remains. This could be in many forms ranging from status updates to social networking platforms, to artefacts in media sharing sites or opinions expressed in blog posts or blog comments.
+
+Residents see the Web primarily as a network of individuals or clusters of individuals who in turn generate content. Value online is assessed in terms of relationships as well as knowledge. Residents do not make a clear distinction between concepts of content and of persona. A blog post is as much an expression of identity as it is a discussion of particular ideas. The fact that Wikipedia has been authored collectively is not a concern, what is important is how relevant the information they find is to their particular needs.
+
+ 
+
+
+### Discussion {-}
+
+Our Visitors and Residents typology should be understood as a continuum and not a binary opposition. Individuals may be able to place themselves at a particular point along this continuum rather than in one of two boxes. Nor is a predominantly Visitor approach necessarily any less effective or of less value than a predominantly Resident approach since the value of either has to be set against a given context and set of goals. Similarly, we do not consider the Visitor to be necessarily any less technically adept than the Resident. The concept of ‘technical’ aptitude should be viewed as more than simply an ability to manipulate hardware and software. It is more useful to think of the ‘technical’ as extending into skill sets required by a given discipline, such as the ability to research a given topic. This definition of the technical then intersects with the notion of digital literacy which is a more useful framework to assess the value of given approaches, the relative merits of which are discussed in reports such as Beetham, et al.’s (2009) LLiDA project and Gillen and Barton’s (2010) [Digital literacies (PDF)](http://www.tlrp.org/docs/DigitalLiteracies.pdf).
+
+A simple reading of this typology might lead one to believe that the category of Visitor is somehow a subset of that of Resident or that the goal of Visitors should be to extend their skills towards the Resident end of the continuum. Stoerger (2009) introduces this idea in her ‘digital melting pot’ analogy by suggesting that Web users with a range of competencies can simply learn from each other by mingling in shared spaces on the Web. This does not take into account the motivation behind a type of engagement with the Web, however, and assumes, again, that technical aptitude is directly linked to being ‘successful’ in the online environment. Nevertheless, it is often much more efficient to research a particular topic in such a way that meets the needs of traditional educational requirements (essays, exams) if a Visitor approach is taken. Visitors’ technical and intellectual skills in the pursuit of specific content may well be significantly more sophisticated than Residents’, regardless of their age (and here we specifically challenge Prensky’s belief that older people will never achieve as high a degree of technical aptitude as younger people). Similarly it has been suggested that aptitude in social media platforms often does not translate into other online spaces or tools (Stoerger, 2009), although this is difficult to quantify. Residents’ ability to engage with ‘new’ platforms in ways in which appear culturally novel or radical does not equip them to negotiate Wikipedia or an online library catalogue successfully either in terms of functionality or the literacy skills required. The literacy required is not simply one of off–line/online or gamer/non–gamer; online literacies differ between platforms, although to an outsider the skills required may seem equivalent and there is a certain commonality in the acquisition of transferable skills. However, the notion of social networking platforms masks the fact that for many ‘expert’ Facebook users Twitter is relatively undecipherable. At one level this can be accounted for by the difference in functionality, but it also relates to the literacies required for the respective platforms, together with the motivation. The two platforms serve quite different purposes.
+
+It would be easy simply to categorise individuals at a particular point along the Visitor/Resident continuum with some indication of their potential direction of travel. This labelling of individuals as a single type or as representing a single form of behaviour is where, as mentioned earlier, the nature of a typology can fall down. As Wenger (1998) has highlighted, we are all members of multiple communities and have to negotiate our roles and identities as we navigate the ‘nexus’ of communities we belong to. In a similar manner an individual’s approach to the Web is likely to change dependent on context. For example, an individual might take a Resident approach in their private life but a Visitor approach in their role as a professional. Similarly it is not unusual for someone in a leadership role in a special interest group to manage that responsibility in a Resident style online while in a personal or professional context they choose to act as a Visitor. Individuals are generally very good at managing their differing approaches across contexts and have much experience of similar shifts in attitude and motivation as they move between roles played out in physical spaces. However, the ubiquity of the Web across these traditional physical boundaries is beginning to pose challenges, blurring the boundaries of traditional contexts, which Marwick and boyd (2010) describe as ‘context collapse’. A good example of this is the Visitor tutor/academic whose rather more Resident personal life is discovered by their students.
+
+There is growing evidence (e.g., boyd, 2008; Helsper and Eynon, 2009; Tenopir and Rowlands, 2007; CiBER, 2007) that while age may be less of a factor in technology use than Prensky envisaged, factors such as conceptions of privacy and the notions of friendship may be shifting generationally. In fact the cultural effects of the social hyperconnectivity brought about by social media and mobile devices are often masked by shallow assessments of technological functionality and the apparent capability of specific groups in consuming ‘new’ technology.
+
+ 
+
+
+### Conclusion {-}
+
+We propose that our Visitors and Residents paradigm not only describes the lived experience and practice of technological engagement in a more accurate way than Prensky’s Natives and Immigrants, but it is based on a more secure foundation. Our typology of Visitors and Residents turn to the metaphor of place to provide an analytic framework, but the strength of moving away from language and accent and placing the emphasis on motivation allows for a wide variety of practices which span all age groups and does not require individuals to be boxed, inexorably, in one category or the other. Both ‘place’ and ‘tool’ have the capacity to incorporate motivation. Questions such as: ‘What am I going there for?’, ‘What am I hoping to achieve?’, ‘Which place best serves my purpose?’, ‘How long do I intend to stay?’, ‘Have I got the skills that I need?’ and ‘Am I happy to be on my own, or would I prefer to be in company?’ all fit within the Visitors and Residents paradigm and transcend issues such as age, technological ‘geekishness’, and the development of the brain, while still recognising that individuals may have a greater or less well developed natural aptitude for using technology and that some may never move (we avoid the term ‘progress’) beyond a low–level engagement of selecting a small range of tools for a limited number of purposes. Another strength of the paradigm is our understanding of it as a continuum along the lines of that depicted in Figure 1.
+
+ 
+![Figure 1. Visitors and Residents](assets/w4/dwfigure1.jpg)
+
+
+ 
+
+Clearly, some people may operate entirely as Visitors, visiting specific Web places for specific purposes, entirely on their own and never leaving a footprint behind. At the other extreme, ‘total’ Residents (equally small in number, we suggest) spend all their online time in social interaction, never using the Internet for information–gathering yet leaving behind significant evidence of their presence. More representative of the majority of Internet use is that which takes place within the central box. Individuals move around the box, sometimes functioning more as Visitors, sometimes more as Residents, according to their motivation.
+
+Prensky made a deliberate connection between his Natives and Immigrants and people’s learning styles, preferences, and ultimately, abilities. Our Visitors and Residents paradigm also has educational implications that we have been unable to explore in this paper, but which we do in a following paper. In this, we shall look at understanding and setting expectations, practical aspects to bear in mind when engaging students online (especially when dealing with a large cohort, which is often the case), and explore some of the ways in which Visitors and Residents interacts with current understandings of and calls for digital literacy. 
+
+ 
+
+### About the authors {-}
+
+David S. White is the co–manager of Technology Assisted Lifelong Learning (TALL), an elearning research and development group based at the University of Oxford. His research interests include understanding how new technologies function and impact higher education.
+E–mail: david [dot] white [at] conted [dot] ox [dot] ac [dot] uk
+
+Alison Le Cornu is a freelance educational consultant working in the HE sector throughout the U.K. She specialises in the study and practice of student–centred learning in as many forms as she can identify.
+E–mail: alison [at] alisonlecornu [dot] co [dot] uk
+
+ 
+
+Notes
+
+1. Much is available electronically, including his original papers which can be accessed here: http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf and http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part2.pdf.
+
+2. Prensky, 2001a, p. 1; emphasis in original.
+
+3. Bennett, et al., 2008, p. 777; emphases added.
+
+4. Margaryan and Littlejohn, 2008, p. 22.
+
+5. Lankshear and Knobel, 2008, p. 2.
+
+6. Lankshear and Knobel, 2008, p. 4.
+
+7. OxIS, 2009, pp. 19, 20.
+
+8. World of Warcraft is generally considered a massively multiplayer online game rather than a social media platform, although the boundaries are increasingly blurred (see later). Its significance here is that it heralded a moving away from the individualistic game playing Prensky was focusing on to something much more community–based.
+
+9. White, et al., 2009; OxIS, 2009, p. 37.
+
+ 
+
+### References {-}
+
+David Bawden, 2008. “Origins and concepts of digital literacy,” In: Colin Lankshear and Michele Knobel (editors). Digital literacies: Concepts, policies and practices. New York: Peter Lang, pp. 17–32.
+
+Helen Beetham, Lou McGill and Allison Littlejohn, 2009. “Thriving in the 21st century: Learning literacies for the digital age” (LLiDA project), at http://www.academy.gcal.ac.uk/llida/LLiDAReportJune2009.pdf, accessed 18 August 2010.
+
+Sue Bennett, Karl Maton and Lisa Kervin, 2008. “The ‘digital natives’ debate: A critical review of the evidence,” British Journal of Educational Technology, volume 39, number 5, pp. 775–786.http://dx.doi.org/10.1111/j.1467-8535.2007.00793.x
+
+danah boyd, 2008. “Facebook’s privacy trainwreck: Exposure, invasion, and social convergence,” Convergence, volume 14, number 1, pp. 13–20.
+
+CiBER, 2008. “Information behaviour of the researcher of the future,” at http://www.jisc.ac.uk/media/documents/programmes/reppres/gg_final_keynote_11012008.pdf, accessed 5 September 2010.
+
+Julia Gillen and David Barton, 2010. “Digital literacies: A research briefing by the technology enhanced learning phase of the teaching and learning research programme,” London: London Knowledge Lab, at http://www.tlrp.org/docs/DigitalLiteracies.pdf, accessed 18 August 2011.
+
+Paul Gilster, 1997. Digital literacy. New York: Wiley.
+
+Ellen J. Helsper and Rebecca Eynon, 2009. “Digital natives: Where is the evidence?” British Educational Research Journal, volume 36, number 3, pp. 503–520.http://dx.doi.org/10.1080/01411920902989227
+
+Doug Holton, 2010. “The digital natives/digital immigrants distinction is dead or at least dying,” EdTechDev (19 March), at http://edtechdev.wordpress.com/2010/03/19/the-digital-natives-digital-immigrants-distinction-is-dead-or-at-least-dying/, accessed 24 May 2010.
+
+Henry Jenkins with Ravi Purushotma, Katherine Clinton, Margaret Weigel and Alice J. Robison, 2006. “Confronting the challenges of participatory culture: Media education for the 21 Century,” Chicago: MacArthur Foundation. http://www.projectnml.org/files/working/NMLWhitePaper.pdf, accessed 18 August 2011.
+
+Rebecca Johnston, 2009. “Salvation or destruction: Metaphors of the Internet,” First Monday, volume 14, number 4, at http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/2370/2158, accessed 1 September 2010.
+
+G. Kennedy, T. Judd and B. Dalgarno, 2010. “Beyond natives and immigrants: Exploring types of net generation students,” Journal of Computer Assisted Learning, volume 26, number 5, pp. 332–343.http://dx.doi.org/10.1111/j.1365-2729.2010.00371.x
+
+Colin Lankshear and Michele Knobel (editors), 2008. Digital literacies: Concepts, policies and practices. New York: Peter Lang.
+
+Colin Lankshear and Michele Knobel, 2006. New literacies: Everyday practices and classroom learning. Second edition. Maidenhead: Open University Press.
+
+Anoush Margaryan and Allison Littlejohn, 2008. “Are digital natives a myth or reality?: Students’ use of technologies for learning,” at http://www.academy.gcal.ac.uk/anoush/documents/DigitalNativesMythOrReality-MargaryanAndLittlejohn-draft-111208.pdf, accessed 15 August 2010.
+
+Allan Martin, 2006. “Literacies for the digital age,” In: Allan Martin and Dan Madigan (editors). Digital literacies for learning. London: Facet, pp. 3–25.
+
+Alice E. Marwick and danah boyd, 2010. “I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience,” New Media & Society (7 July), at http://nms.sagepub.com/content/early/2010/06/22/1461444810365313, accessed 15 September 2010.
+
+Jamie McKenzie, 2007. “Digital nativism, digital delusions, and digital deprivation,” From Now On: the educational technology journal, volume 17, number 2, at http://www.fno.org/nov07/nativism.html, accessed 29 August 2010.
+
+Oxford Internet Surveys (OxIS), 2009. “The Internet in Britain,” Oxford Internet Surveys (OxIS). Oxford: Oxford Internet Institute, University of Oxford, at http://microsites.oii.ox.ac.uk/oxis/, accessed 18 August 2011.
+
+Marc Prensky, 2009. “H. sapiens digital: From digital immigrants and digital natives to digital wisdom,” Innovate, volume 5, number 3, at http://innovateonline.info/, accessed 1 May 2010.
+
+Marc Prensky, 2001a, “Digital natives, digital immigrants,” On the Horizon, volume 9, number 5, at http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf, accessed 1 May 2010.
+
+Marc Prensky, 2001b. “Do they really think differently?” On the Horizon, volume 9, number 5, at http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part2.pdf, accessed 1 May 2010.
+
+Sharon Stoerger, 2009. “The digital melting pot: Bridging the digital native–immigrant divide,” First Monday, volume 14, number 7, at http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2474/2243, accessed 3 September 2010.
+
+Carol Tenopir and Ian Rowlands, 2007. “Age–related information behaviour: Work package III,” British Library/JISC (21 September), at http://www.jisc.ac.uk/media/documents/programmes/reppres/ggworkpackageiii.pdf, accessed 15 September 2010.
+
+Etienne Wenger, 1998. Communities of practice: Learning, meaning, and identity. Cambridge: Cambridge University Press.
+
+Etienne Wenger, Nancy White, and John D. Smith, 2009. Digital habitats; Stewarding technology for communities. Portland, Ore.: CPsquare.
+
+David White and Allison Le Cornu, 2010. “Eventedness and disjuncture in virtual worlds,” Educational Research, volume 52, number 2, pp. 183–196.http://dx.doi.org/10.1080/00131881.2010.482755
+
+David White, Marion Manton and Allison Le Cornu, 2009. “The Isthmus Project: Headline Findings Report” (31 March), at http://isthmus.conted.ox.ac.uk/raw-attachment/wiki/ProjectDocumentation/IsthmusHeadlines.doc, accessed 18 August 2011.
+
+ 

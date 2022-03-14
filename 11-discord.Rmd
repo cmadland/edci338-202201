@@ -1,0 +1,85 @@
+# Discord
+## 4.1 Persona
+![Persona Example 1](assets/Discord/persona1.jpg)
+![Persona Example 2](assets/Discord/13221646371410_.pic_hd.jpg)
+![Persona Example 3](assets/Discord/persona2.png)
+![Persona Example 4](assets/Discord/persona4.png)
+## 4.2 Demographics
+### 4.2.1 Target Audience and Users
+Discord states that the minimum age to access the platform is between 13 and 17 (depending on the country of the user and local guidelines), however these restrictions do not prevent these younger users from accessing the platform. Though there are no official statistics on the average age of Discord users, one site estimates that majority of users are adults between 30-33 years of age [1]. Though the creators of Discord made the platform with no targeted users in mind, the platform continues to be widely used by people who play video games as an efficient way to message and chat to others. Discord servers may also be created to connect users with similar interest or hobbies, chats with friends and family, and for educational or professional purposes [2]. Political leaning of users is varied, and there are many existing servers and communities for users of all positions of the political spectrum.
+
+Individuals do not necessarily need an account to use Discord. One can access servers or communities through a shared link, and are only asked to create a username and agree to Discord’s terms of service. However, if one does not create an account in that session their activity will not be saved [3].
+
+Discord contains both public and private servers. Private servers are accessed only by an invitation from a member of the group, and are typically used to chat with friends or family members. On the other hand, public servers may be accessed by anyone and are typically larger communities for those with similar interests. Discord also has a friend request feature, where one can accept or reject friend requests.
+
+### 4.2.2 Content
+#### 4.2.2.1 Content Sharing
+One of the best-known abilities of Discord is group-chatting, which allows content to be shared among individuals in multiple ways.
+* Server
+The primary way of how discord organizes group chats is through establishing servers, which are chat rooms where users can join to engage each other. Servers can be created for any purpose and can hold up to 500,000 members [5]. While some servers are public for anyone to join, most servers created are private and can only be joined through invitations. Within a created server, content can be shared under two types of channels: text and voice. Text channels enable the sharing of textual information as well as images, emojis, and files. Voice channels are like phone booths where members can engage in voice or video conversations. 
+* Group direct messages (DMs)
+Another way of how content can be shared on discord is through direct messages. Similar to DM between individuals, group DMs can be used to communicate between multiple members. This content stays only between the members in the group, and both text and voice messages can be delivered within an established group. 
+
+#### 4.2.2.2 Private Sharing
+* Direct Messages (DMs)
+On Discord, DMs can be sent between different users and allow users to engage in one-on-one conversations. These conversations will not be seen on a public chat server or any members that are not part of the conversation [4].  
+* Private server channels
+Both text and voice channels within a server can be created as private. This means that only those with permission can access the content within the channel. This can be an effective way to establish conversations between group leaders or administrative personnel.  
+
+#### 4.2.2.3 Viral Content
+There are essentially two ways for content to go viral or gain more attention. 
+* Discord Nitro
+Although discord is a software that is free to download and use, the software offers a subscription service with Discord Nitro. This paid service offers a range of extended features, such as better customizable emojis and upload size for file sharing, but more importantly, it allows a server to be boosted. A boosted server will have both ​​performance and cosmetic improvements such as more emoji slots and better audio and screen sharing quality [6]. These features can help to create high quality and outstanding servers on discord and can largely improve the user experience within the server, which in turn helps to promote any content that is being distributed on the server and attract 
+* Expanding/advertising the server
+Another way of spreading the content or the server is through advertising the server itself. This is a very straightforward way of promoting the popularity or awareness of any content on a server. Spreading the server invitation on other social media platforms can be an effective way. Websites, such as top.gg and Discord.me, ranks servers based on different categories or popularity and allows the public to join the server directly. Another way that can help attract more users is diversifying the members within the server community. Attracting people from various backgrounds can promote a higher level of networking across different fields and the potential for the content to spread across wider areas.
+
+### 4.2.3 Company/Business Details
+Co-founders, Jason Citron and Stan Vishnevskiy developed Discord in 2012 and finally launched it in 2015. Since then, Discord has remained a private company, as it is not listed on any stock exchanges. As a result of Discord being a private company, it is not clearly known what sized stake each investor has. However, from when the company first launched, overall ownership has been split between the two co-founders and several other venture capitalist firms [9]. Some of the major investors that helped to finance Discord include [10]:
+
+* Dragoneer Investment Group - Led the most recent funding round of $500 million in Semptember 2021. 
+* Sony Interactive Entertainment - Lead investor during secondary market funding in 2021
+* Greenoaks - Lead investor for a $100 million Series H funding round in 2020 and one in 2018 with $150 million funding.
+* Index Ventures - Led funding rounds in 2020 with $100 million and 2018 with $150 million in funding.
+* Greylock - Lead investor for the earliest funding rounds in 2016
+* Spark Capital - Partnered with Greylock as lead investors in 2016, funding $20 million. 
+
+Discord collected various rounds of funding over the years and has had many investors to help contribute to the success of the company. Discord over the last two years has been valued at $3.5 billion in the year 2020 and $7 billion in 2021 [12]. Today, Discord’s estimated value currently stands at approximately $15 billion as a result of the funding by Dragoneer Investment Group [11]. 
+
+As Discord does not use ads like many other social platforms, there begs the question of how does Discord bring in revenue?
+Discord earns revenue in various ways. Firstly, their main source of revenue comes from the subscription packages that they offer. The premium subscription, Discord Nitro, costs a user $9.99 a month or $99.99 a year, whereas their lower price subscription, Nitro Classic, costs $4.99 a month and $49.99 a year [7]. According to Discords metrics, there are about 150 million active monthly users monthly [8]. Following this they also make money through a 10% cut of titles that game developers sell through verified servers [7]. Notably, Discord also generates a minor amount of profit from the stickers and merchandise they sell, such as branded tee-shirts, hoodies, socks, and more. While there has been no revenue report for 2021, their 2020 revenue was reported to be approximately $130 million [12]. 
+
+## 4.3 Privacy and Surveillance
+### 4.3.1 Discord’s ToS and Privacy Policy
+Discord ToS: https://discord.com/terms 
+Discord’s Privacy Policy: https://discord.com/privacy   
+Terms of Service, Didn’t Read overview: https://tosdr.org/en/service/536 
+
+### 4.3.2 Key takeaways from examining Discord’s Privacy Policy
+Key points from ToS:
+* Discord can read your private messages
+* Discord can delete specific content with no prior notice and without reason
+* Tracks users even if they use the Do Not Track (DNT) header
+* No right to a class action
+* Can sell or transfer your personal data as part of a bankruptcy proceeding or other type of financial transaction
+* Uses your personal data for targeted 3rd party advertising
+* Discord has a license on user-generated content even once your account is closed
+* Provides info about how they are using your data
+
+Key takeaways:
+Discord is given a grade of E by ToSDR. Discord does track you and can read your messages. You have no right to a class action lawsuit against them, and in the case of a dispute, you are forced into binding arbitration. Discord can license user content to third parties. Benefits in Discord’s ToS include that it requires specific consent to share your information with third parties, you can request to access and have your personal data deleted, and they provide information regarding how they will use your data. Overall, by using Discord you relinquish your right to privacy regarding anything you say or do when using the service.
+
+## 4.4 Social Media and PLN in Education
+
+## References
+[1] https://levvvel.com/discord-statistics-and-facts/#:~:text=The%20app%20is%20primarily%20targeting,was%20around%2020%20year%20old. 
+[2] https://discord.com/why-discord-is-different 
+[3] https://support.discord.com/hc/en-us/community/posts/360059214312-Use-Invite-Link-Without-Discord-Account 
+[4] https://www.alphr.com/discord-dm-someone/#:%7E:text=Discord%27s%20direct%20messages%20allow%20you,you%27re%20all%20currently%20engaged
+[5] https://www.pcmag.com/how-to/what-is-discord-and-how-do-you-use-it
+[6] https://www.wepc.com/tips/what-is-discord-server-boost/
+[7] https://www.cbinsights.com/research/report/how-discord-makes-money/
+[8] https://discord.com/company
+[9] https://www.wepc.com/tips/who-owns-discord/ 
+[10] https://pcstrike.com/who-owns-discord/ 
+[11] https://www.bnnbloomberg.ca/chat-app-discord-is-worth-15-billion-after-new-funding-1.1652842] 
+[12] https://www.businessofapps.com/data/discord-statistics/
