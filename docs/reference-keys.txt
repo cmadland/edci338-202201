@@ -1,5 +1,4 @@
 tiktok
-persona
 facebook
 youtube
 discord
@@ -8,6 +7,7 @@ linkedin
 persona-2
 snapchat
 instagram
+personas-1
 zenly
 persona-3
 red
