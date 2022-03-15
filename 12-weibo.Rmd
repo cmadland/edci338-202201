@@ -1,1 +1,6 @@
 # Weibo
+
+## Persona {-}
+![Jack Chen](assets/weibo/Jack persona.pgn)
+
+## Demographics {-}
