@@ -1,5 +1,148 @@
 # TikTok
-## Persona
+
+## Persona {-}
 ![Sophia Green](assets/tiktok/persona1.PNG) 
 ![Second Page](assets/tiktok/Copy of Venn Diagram Template.png) 
+![Emily's Persona](assets/tiktok/emily-persona.jpeg)
 
+## Demographics {-} 
+ target audience (age, demographics, political leaning, interests, hobbies, etc)
+
+Tik Tok is available in over 150 countries and has over 1 billion users. An estimated 120 million of these users are from the US, 87 million from Indonesia and 72 million from Brazil. Surprisingly, Canada is not even in the top 10 countries with the largest number of Tik Tok users. The app is firmly considered to be Gen Z’s territory with it being the largest demographic of consumers. An estimated 60% of users fall within the Gen z age group (those born between the years of 1997-2012. Making the majority of Tik Toks users between the ages of 10- 25. However, the minimum age for Tik Tok users is 13 years old. That being said, an unlikely subset of users can be seen on the app, seniors. Those in the older generations have become quite popular on the app with users such as the @oldgays who are a hilarious group of old men just sharing their thoughts on life or @cooking with Lynja who shows her followers how to make both simple and complex meals. The percentage of female Tik Tok users is higher with 60% of users identifying as female, 39% male and 2% being other. Tik Tok targets individuals with interests and hobbies of all sorts. You are guaranteed to find a user who aligns with your hobbies and interest ranging from fashion to baking, dance and travel. Each user is able to create their own target audience, Tik Tok allows its users who have a business account to access their own analytics. From the analytics page on their account, they are able to access an abundance of data about their followers ranging from their gender to the types of videos they have liked. Based on the type of viewers who are viewing your content, you may adapt what you create in order to please your following as well as expand it. 
+
+### Can Non-users Browse or Search Content? {-}
+
+You are not required to have a Tik Tok account in order to browse the platform. There are a variety of methods that allow you to navigate the platform of Tik Tok without actually having an account. Firstly, you are able to view videos without an account if you follow three simple steps. 
+Go to TikTok.com
+Select “For you” on the left sidebar 
+Begin watching videos without logging into an account 
+
+Tik Tok videos can also be seen on other platforms. Multiple channels on youtube have dedicated their content to uploading what is currently trending on Tik Tok. These YouTubers make it possible for those without an account to view videos as well as comment on them. Lastly, you may also see videos without an account if you are sent a video or link to the video via messages, Snapchat, email, Facebook etc. From there, you are able to click on the link and see the video without actually having an account. That said, there are a variety of features that can not be accessed if you do not have an account. Without an account, you are unable to follow creators, you can not like videos, cannot see or write comments on the videos, you are not able to upload or share content and you are also not able to join creators ‘lives’.
+
+### How are Users Connected {-}
+
+Tik Tok users are connected by following other users and content creators. Any creator you wish to see, you can simply go onto their account and click to follow them. Unless they have a private account, they do not have to accept your follow request in order for you to see their content. Whoever you follow also does not have to follow you back, you may still access and see their content even if there is not a mutual following. On Tik Tok, there are two types of pages you can look at to see videos. The ‘for you page’ showcases viral Tik Toks and creators of all sorts. From the for you page, you may discover creators who you wish to connect with and follow. Once you have followed people, their Tik Toks may show up on a separate browsing page. When you go onto the Tik Tok app, there are two sections of videos you can browse, those who you follow who will appear on the ‘following’ page, while other creators will appear on the for you page. All of the creators you follow will appear on the following page as a means to make sure the videos of the people you follow are not lost amongst the for you page. You may also connect with other Tik Tok users by ‘lives’. Users may choose to go live and show what they are doing, answer questions or just hang out with their followers on a live stream. Creators may also go live with other creators. On lives, users can comment and ask questions in real-time in order to connect with other creators. 
+
+### Can Content be Shared Privately? {-}
+
+When a user initially creates a TikTok account, the videos and comments are set to public. This means any TikTok user can access the content and follow the account. However, TikTok has Privacy settings that allow the account to be changed to private. When the account is set to private, the account holder can approve or deny follow requests and only the approved followers can view the content. 
+
+Even if the account is set to public, the account holder may edit the privacy settings on individual videos. This includes allowing everyone to view the video, only the followers that you follow back to view the video, or only the account holder can view the video.
+
+
+
+✔️ how is content shared?
+
+TikTok users can share a video by clicking on the share button and choosing to copy the link or share it on another social media platform such as Snapchat, Facebook messenger, and Instagram.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+✔️ how does content go viral?
+
+When a user creates and uploads a public video on TikTok, it is shared onto the user’s profile. 
+If the content a user creates gets picked up by the TikTok algorithm, it will share the user’s video onto the “For You” page. Based on the user's interests and past interactions with TikTok videos, TikTok's algorithm curates a "For You" page of video content from creators the user may not follow. The algorithm utilizes users’ data on interactions with videos such as the screen time of watching a video, liking the video, and/or sharing it. 
+
+
+Content goes viral when it makes it onto the “For You” page. As a video gets more comments, likes, shares, and duets, the greater its chances of being picked up by the algorithm. The completion rate of your videos is an additional factor that influences ranking. In general, the more viewers watch a TikTok video to the end, the more likely it is to be shared.
+
+✔️ is the parent company public or private?
+✔️ who are the major investors?
+✔️ how does the company generate revenue?
+✔️ any other pertinent information…
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy and Surveillance
+Download a copy of the platform’s Terms of Service (ToS) and Privacy Policy and see how the platform uses your data and/or tracks your movements. This will not be the most fun you’ve had. Here are some resources to help you comb through the documents:
+
+Terms of Service: https://www.tiktok.com/legal/terms-of-service?lang=en
+Privacy Policy: https://www.tiktok.com/legal/privacy-policy-row?lang=en 
+Privacy Policy for Younger Users: https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en 
+
+I was not surprised about the tenacity of the Terms of Service (ToS) and Privacy Policy (PP) of TikTok. Much like all the other social media apps, it is impossibly long, and from what I did attempt to read, I did not understand a single word of it. If you were to try and attempt to read and understand the ToS, I would applaud you and give you all of my life's savings because it would take me a week, maybe a month to read and re-read to understand just the ToS. The PP and PP for younger users were easier to understand and were significantly shorter than the ToS. I took your advice and used ctrl+f to do a keyword search and I used specific words such as 'Privacy', 'Access' for the general PP, and 'Collect' for the Younger Users PP. Because the keyword search searches all words regarding 'Privacy', 'Access', and 'Collect', I excluded the times it was mentioned in titles, headings, or weblinks to narrow down the search results. Below are the takeaways of what I experienced while reading.
+
+For the general Privacy Policy, I searched the keywords, 'Privacy' and 'Access' as this page was a significant size with many drop-down pages. Excluding the few mentions in titles or other non-crucial locations, 9 out of the 14 mentions of 'Privacy' was TikTok stating that they are not responsible, or in some way do not describe how they protect your privacy. When looking at mentions and relations to 'Access', 9 out of 12 excluding titles or other non-crucial locations, were about TikTok collecting, using, or sharing your personal information with third-party businesses or partnerships. The following points are ones that I personally felt were invasive, irrelevant, or unethical.
+
+According to TikTok, they are not responsible for the privacy policy of third-party partnerships and advertisements that are provided in the app via Cookies (TikTok. June 2, 2021. Para 20). They also notice that if a user follows a link outside or from a Third-party source, TikTok is again not responsible or liable for their PP (TikTok. June 2, 2021. Para 37). I found one single point that seems to be not as invasive, but still not entirely ethical. This single point is under the 'Your Choices' section stating that if there are any questions, how to use, or want to know if you have any rights in your country, to contact them via email again (TikTok. June 2, 2021. Para 34). I would not consider this to be a positive point thinking more about it as I write, it seems like they added this in just to say that they mentioned you have rights without actually caring about your rights or you as a person.
+
+Under the section 'User Content and Behavioural Information' TikTok could collect information such as identifying objects and scenery that appear in the background, location, face, and body attributes from the user content (TikTok. June 2, 2021. Para 10). They may also collect and review your interests, gender, and age for the purpose of personalizing content, as well as "promoting your content to other users and exploring whether your profile presents further opportunities for collaboration" (TikTok. June 2, 2021. Para 10). Just reading these parts makes me want to delete the app. Just reading these two points from the same paragraph triggers all the alarms in my head. I really do not feel entirely safe on TikTok, or any app after reading one Privacy Policy.
+
+Comparing the GPP to the Younger Users Privacy Policy (YUPP), I was speechless and shocked at how different they were. I had found that this page was significantly shorter than the GPP. There were no drop-down pages, just one simple scroll-down page. I tried searching for 'Privacy' in the keyword search but there was almost nothing I could review so I used 'Collect' instead as it had a better outcome. According to TikTok, they collect limited information only for youth under 13 and  (TikTok. January 2020. Para. 1-2 ). They only collect the username, password, birthday, and some info about the user's device such as network activity like device ID, IP address, web browser type, location, as well as certain app activity data (TikTok. January 2020. Para. 3). These points are so simple and they personally seem less invasive and more secure than what everyone else has to consent to. I found only two points that seemed a little cautious but overall more secure than the GPP. TikTok can and may use the username and password to authenticate the user, which I do not understand how or why they do that. They also only use the information for troubleshooting and other analytical services as well as for legal and governmental reasons which not only is rare but is reasonable as it is law enforcement. (TikTok. January 2020. Para. 4 & 6).
+
+The difference between these two Policies is shocking, and the only thing I can think is, why is it riskier for anyone over the age of 14 who is still minors to use TikTok? I personally am frightened at how loosely they speak about our rights in the GPP and how much more protected users are in YUPP. I think all users of TikTok should be under the policies of the YUPP because it seems more sure about the security and integrity of the kids than it does with the bigger population.
+References: 
+TikTok. (June 2, 2021). Privacy Policy. TikTok. https://www.tiktok.com/legal/privacy-policy-row?lang=en 
+TikTok. (June 2, 2021).Privacy Policy for Younger Users. TikTok. https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en 
+
+✔️ a link to your platform’s ToS and Privacy Policy
+✔️ your key takeaways from your examination of your platform’s ToS and Privacy Policy
+
+Social Media and your PLN in Education:
+In Week Nine, you were instructed to follow some educational accounts in your chosen social media platform. You are encouraged to find a mix of more formal accounts of teachers and administrators in K-12 and faculty and instructors in higher ed (you might also find many accounts of instructional designers and people who work in faculty development), and less formal accounts of people who are sharing their knowledge on the platform outside of formal accredited educational systems. You are also encouraged to set up accounts using the characteristics of the personas that you created a few weeks ago (if you are allowed to create such accounts), and to set up your own accounts to see how different personas ‘experience’ social media differently. Feel free to interact with the educators you follow, either directly or indirectly (each platform will look different).
+
+Add the following to your platform’s page in your Learning Pod’s repo:
+
+✔️ Describe how people are able to interact on your platform. Can people leave comments on content? Is there a quick and easy way to ‘Like’ or ‘favorite’ something? Who sees that ‘like’? Do creators generally respond to comments on their content?
+✔️ How do educators use the platform? What kinds of content are they teaching? Who is their audience? Do they respond to comments or questions? Are they using the platform as a PLN, or are they only creating content?
+
+Educators use Tik Tik as a platform to reach audience members from all over the world. Tik Tok provides a platform for creators to share their voices and knowledge. Videos are created with the intent to educate viewers, answer questions and promote learning. All types of content are currently being taught on TikTok. You are able to find educators such as @Dad, how do I? who is a father educating viewers on how to do fix things, and providing life lessons for those who may not have their own Dad to teach them. You can also access content such as @Janelle Rohner who educates her viewers on Keto lifestyles and provides weight loss tips and Keto recipes. Depending on the type of content they are producing determines the type of audience members. For instance, @Dad, how do I? Has an audience of mostly young people while @Janelle Rohner’s audience is an older audience as some of the content she shares is keto drinks for those 19+. No matter what type of topic you are looking to be educated on, you are sure to find someone on Tik Tok who is producing content to educate you on that particular topic. Creators constantly are responding to and addressing questions. A vast majority of the videos they create are addressing comments or questions. When a question has been asked, educators may produce a video looking like this which shows the question being asked and them addressing it. This way, they can directly address the comments and/or questions of their viewers.  
+
+Educators on Tik Tok are able to use the platform as a PLN, for instance on Tik Tok you are sure to find teachers who are sharing and posting free resources they currently use or have found such as their favourite worksheets or learning activities. Tik Tok is much like a virtual team with which you can share and swap ideas with. Tik Tok can be used by teachers to expand their personal learning networks. Creators do much more than just creating content. 
+
+✔️ In your Learning Pod, plan and publish more than one *SHORT educational ‘post’ (whatever that looks like on your platform). Don’t put huge amounts of effort into your post. A simple ‘ProTip’ or ‘LifeHack’ type of post, or a ‘Did you know…[something you know about…]’. Publish your posts on a few of your Learning Pod’s accounts. How do people respond to your post? Do they respond to the same post differently depending on the persona of the account?
+All
+✔️ Are there any concerns that educators should be aware of regarding your platform (privacy, age-inappropriate content, disinformation, misinformation, offensive or illegal content)?
+
+
+As with any social media platform, educators should be aware of the age-inappropriate content that can be accessed on the app. The most obvious sources of adult content on TikTok are profanity and suggestive clothing. Although the minimum age for a TikTok user is 13 years old, the app does not use any age verification tools when users are creating an account. With the ability to search any hashtag or key words in the app, users can access any content created by another user. Although TikTok has strict guidelines on nudity and graphic content, since any user can upload their opinions on any topic, offensive content may be shared on the app. Due to the nature of the social media app, when a video becomes viral millions of people can be impacted by ampliganda. According to DiRestas, amplignda is the new word for misinformation in the digital age. On TikTok, any user can now shape perceptions and realities by having their ideology amplified through shares, likes, and comments of a mass audience. 
+ 
+
+✔️ Make note of other things you notice that a curious educator might want to know about your platform.
+All
+
+✔️ By the end of the week, you should have enough content to create a pull request to send your work over to the main course blog, where I will set up some peer reviews (not for grades).
+
+GITHUB Miah fork: https://github.com/miaharmitage/edci338-202201/edit/main/08-tiktok.Rmd
+
+
+
+
+
+
+
+
+
+Is the parent company public or private? 
+
+Tiktok, a popular social media site notoriously known for the making and sharing of 15 -second videos, initially launched in 2016. The platform provided singers, dancers, influencers, comedians, and other artists accessibility to easily share, develop, and distribute their work. After receiving quick traction, the international launch followed the subsequent year. ByteDance, Tiktok's parent company, is based in Beijing, storing the information of over a billion users worldwide. As the name implies a parent company serves to control the interests of another company. The parent company is privately owned by a Chinese Tech company, with no opportunituies for other interesties parties to buy in. 
+
+
+
+
+
+How does the company generate revenue? 
+
+The business model of leading social media apps are quite similar to one another and lead to the generation of profits. While tiktoks app is free to download, the network does exceptionally well from paid advertisements and in app-purchases. Scrolling through the “for-you” page, embedded in-feed ads will begin on auto-play. Tiktok will direct ads based on the users interactiveness with certain content. This is very helpful for business to grow, network and generate profits, however, the current cost of in-feed ads start at a minimum of $10 per Cost Per thousand/ mile views (CPM). Furthermore, their also exists brand-takeover ads, which begins to play an ad from the moment the app is launched. Businesses may prefer to buy into these ads, to grab the attention of their target audience while they are most attentive. Top view ads, a more prestige form of advertising consists of longer ads up to 60 seconds that pop up during the duration of a users activity on the app. Branded hashtag challenges also exist to create brand awareness. The hashtag will then appear on the discovery page as a fun way to boost user engagement and get the message across. Lastly, branded effects offered by tiktok allows for businesses to purchase custom stickers or filters that can be used by users on tiktok for a period of 10 days. As for in-app purchases, tiktok has utilized virtual coins to be purchased and shared among it’s users. Ranging from 100 to 10,000 virtual coins, the price can vary between 99 cents- $99.99. The in-app currency allows users to show appreciation for the content they engage in and enjoy!

@@ -1,1 +1,4 @@
 # Weibo
+
+## Persona {-}
+![Persona Example 1](assets/Weibo/Jack persona.png)
