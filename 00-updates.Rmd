@@ -529,4 +529,5 @@ Also, as you read Couros' chapter, consider whether or not you have experienced 
 
 Quick shoutout to [Learning Pod 4](https://cmadland.github.io/edci338-202201/discord.html) who were the first to send a pull request with a bunch of content for their page! [I left some comments in the commit](https://github.com/cmadland/edci338-202201/commit/7190ef2a3de0358c0d4a8d0f927145348361e50c), and they may be helpful to you as you format your own page, feel free to ask questions in the commit.
 
+In keeping with the 'End of the Semester is Coming' vibe of the last week or so, I don't have a lot of new content for you, although I would like to briefly revisit the topic that was scheduled for last week on the syllabus.
 -->
