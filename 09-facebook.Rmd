@@ -3,7 +3,8 @@
 ![Example 1-1](assets/facebook/persona-1-1.png)
 ![Example 1-2](assets/facebook/persona-1-2.png)
 ![Example 2](assets/facebook/persona-2.jpeg)
-![Example 3](assets/facebook/persona-4.png)
+![Example 3](assets/facebook/person-3.png)
+![Example 4](assets/facebook/persona-4.png)
 
 ## Demographics
 ✔️ target audience (age, demographics, political leaning, interests, hobbies, etc.)
