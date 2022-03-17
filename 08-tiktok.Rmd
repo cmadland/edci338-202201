@@ -28,18 +28,21 @@ Tik Tok users are connected by following other users and content creators. Any c
 When a user initially creates a TikTok account, the videos and comments are set to public. This means any TikTok user can access the content and follow the account. However, TikTok has Privacy settings that allow the account to be changed to private. When the account is set to private, the account holder can approve or deny follow requests and only the approved followers can view the content. 
 
 Even if the account is set to public, the account holder may edit the privacy settings on individual videos. This includes allowing everyone to view the video, only the followers that you follow back to view the video, or only the account holder can view the video.
-![content](assets/tiktok/content.PNG) 
+
+![content](assets/tiktok/content.jpg) 
 
 ✔️ how is content shared?
 
 TikTok users can share a video by clicking on the share button and choosing to copy the link or share it on another social media platform such as Snapchat, Facebook messenger, and Instagram.
-![share](assets/tiktok/share.PNG) 
+
+![share](assets/tiktok/share.jpg) 
 
 ✔️ how does content go viral?
 
 When a user creates and uploads a public video on TikTok, it is shared onto the user’s profile. 
 If the content a user creates gets picked up by the TikTok algorithm, it will share the user’s video onto the “For You” page. Based on the user's interests and past interactions with TikTok videos, TikTok's algorithm curates a "For You" page of video content from creators the user may not follow. The algorithm utilizes users’ data on interactions with videos such as the screen time of watching a video, liking the video, and/or sharing it. 
-![foryou](assets/tiktok/foryou.PNG) 
+
+![foryou](assets/tiktok/foryou.jpg) 
 
 Content goes viral when it makes it onto the “For You” page. As a video gets more comments, likes, shares, and duets, the greater its chances of being picked up by the algorithm. The completion rate of your videos is an additional factor that influences ranking. In general, the more viewers watch a TikTok video to the end, the more likely it is to be shared.
 ^[Worb, B.(2022, January 14). How Does The TikTok Algorithm Work? Here's Everything You Need To Know. Later Blog.
