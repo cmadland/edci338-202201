@@ -33,7 +33,7 @@ Both text and voice channels within a server can be created as private. This mea
 #### Viral Content {-}
 There are essentially two ways for content to go viral or gain more attention. 
 * Discord Nitro
-Although discord is a software that is free to download and use, the software offers a subscription service with Discord Nitro. This paid service offers a range of extended features, such as better customizable emojis and upload size for file sharing, but more importantly, it allows a server to be boosted. A boosted server will have both ​​performance and cosmetic improvements such as more emoji slots and better audio and screen sharing quality [6]. These features can help to create high quality and outstanding servers on discord and can largely improve the user experience within the server, which in turn helps to promote any content that is being distributed on the server and attract 
+Although discord is a software that is free to download and use, the software offers a subscription service with Discord Nitro. This paid service offers a range of extended features, such as better customizable emojis and upload size for file sharing, but more importantly, it allows a server to be boosted. A boosted server will have both performance and cosmetic improvements such as more emoji slots and better audio and screen sharing quality [6]. These features can help to create high quality and outstanding servers on discord and can largely improve the user experience within the server, which in turn helps to promote any content that is being distributed on the server and attract other members.
 * Expanding/advertising the server
 Another way of spreading the content or the server is through advertising the server itself. This is a very straightforward way of promoting the popularity or awareness of any content on a server. Spreading the server invitation on other social media platforms can be an effective way. Websites, such as top.gg and Discord.me, ranks servers based on different categories or popularity and allows the public to join the server directly. Another way that can help attract more users is diversifying the members within the server community. Attracting people from various backgrounds can promote a higher level of networking across different fields and the potential for the content to spread across wider areas.
 
@@ -74,6 +74,9 @@ Key takeaways:
 Discord is given a grade of E by ToSDR. Discord does track you and can read your messages. You have no right to a class action lawsuit against them, and in the case of a dispute, you are forced into binding arbitration. Discord can license user content to third parties. Benefits in Discord’s ToS include that it requires specific consent to share your information with third parties, you can request to access and have your personal data deleted, and they provide information regarding how they will use your data. Overall, by using Discord you relinquish your right to privacy regarding anything you say or do when using the service.
 
 ## Social Media and PLN in Education {-}
+
+
+
 
 ## References {-}
 [1]   
