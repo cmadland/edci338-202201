@@ -2,3 +2,4 @@
 
 ## Persona {-}
 ![Persona Example 1](assets/Weibo/Jack persona.png)
+<img width="900" alt="Jack persona" src="https://user-images.githubusercontent.com/97947382/158738639-3dd195a7-f700-42ab-91cd-3a2688d33ec2.png">
