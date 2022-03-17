@@ -548,8 +548,8 @@ You are also encouraged to create issues in the course repository if you have th
 ```{block, type='todo'}
 #### Things To Do This Week
 ✔️ ***Read*** the [Globe and Mail article about Jody Vance](https://www.theglobeandmail.com/canada/british-columbia/article-broadcaster-jody-vance-feels-relief-after-suspect-charged-following/).  
-✔️ ***Publish*** your Wow and wonder post for this week.  
+✔️ ~~***Publish*** your Wow and wonder post for this week.~~ No...let's be done with those. Focus on your project and Celebration posts.  
 ✔️ ***Continue*** working on your [Major Project](https://cmadland.github.io/edci338-202201/major-project-1.html) ***DUE MARCH 27***  
-✔️ ***Continue*** working on your [Celebration of Learning post](https://cmadland.github.io/edci338-202201/course-assessment.html#celebration-of-learning-30). ***DUE APRIL 7***  
+✔️ ***Continue*** working on your [Celebration of Learning post](https://cmadland.github.io/edci338-202201/course-assessment.html#celebration-of-learning-30). Your Celebration post will likely end up being in the range of 1200-1500 words (150-200 words per course outcome). ***DUE APRIL 7***  
 ✔️ One last thing...please add your name, linked to your blog to the `index.Rmd` file in *your fork of the repository*. You will see that Tessa's name is already there and you should copy that syntax to ensure your link shows up properly. Then when you create a pull request I will add it to the main course site.
 ```
