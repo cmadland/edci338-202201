@@ -29,20 +29,24 @@ When a user initially creates a TikTok account, the videos and comments are set 
 
 Even if the account is set to public, the account holder may edit the privacy settings on individual videos. This includes allowing everyone to view the video, only the followers that you follow back to view the video, or only the account holder can view the video.
 
-
+![content](assets/tiktok/content.jpg) 
 
 ✔️ how is content shared?
 
 TikTok users can share a video by clicking on the share button and choosing to copy the link or share it on another social media platform such as Snapchat, Facebook messenger, and Instagram.
 
+![share](assets/tiktok/share.jpg) 
 
 ✔️ how does content go viral?
 
 When a user creates and uploads a public video on TikTok, it is shared onto the user’s profile. 
 If the content a user creates gets picked up by the TikTok algorithm, it will share the user’s video onto the “For You” page. Based on the user's interests and past interactions with TikTok videos, TikTok's algorithm curates a "For You" page of video content from creators the user may not follow. The algorithm utilizes users’ data on interactions with videos such as the screen time of watching a video, liking the video, and/or sharing it. 
 
+![foryou](assets/tiktok/foryou.jpg) 
 
 Content goes viral when it makes it onto the “For You” page. As a video gets more comments, likes, shares, and duets, the greater its chances of being picked up by the algorithm. The completion rate of your videos is an additional factor that influences ranking. In general, the more viewers watch a TikTok video to the end, the more likely it is to be shared.
+^[Worb, B.(2022, January 14). How Does The TikTok Algorithm Work? Here's Everything You Need To Know. Later Blog.
+https://later.com/blog/tiktok-algorithm/#:~:text=According%20to%20TikTok%3A%20%E2%80%9CThe%20system,not%20interested%20in%2C%20too.%E2%80%9D]
 
 ✔️ is the parent company public or private?
 ✔️ who are the major investors?
@@ -104,14 +108,13 @@ All
 
 
 As with any social media platform, educators should be aware of the age-inappropriate content that can be accessed on the app. The most obvious sources of adult content on TikTok are profanity and suggestive clothing. Although the minimum age for a TikTok user is 13 years old, the app does not use any age verification tools when users are creating an account. With the ability to search any hashtag or key words in the app, users can access any content created by another user. Although TikTok has strict guidelines on nudity and graphic content, since any user can upload their opinions on any topic, offensive content may be shared on the app. Due to the nature of the social media app, when a video becomes viral millions of people can be impacted by ampliganda. According to DiRestas, amplignda is the new word for misinformation in the digital age. On TikTok, any user can now shape perceptions and realities by having their ideology amplified through shares, likes, and comments of a mass audience. 
- 
+^[Stutzman, S. (2022). 5 Things Parents Need to Know about Tik-Tok. Kid Matters Counceling. https://kidmatterscounseling.com/blog/5-things-parents-need-to-know-about-tik-tok/#:~:text=Suggestive%20Content%20Abounds&text=With%20TikTok%20being%20mostly%20based,their%2016%2B%20rating%20would%20suggest]
 
 ✔️ Make note of other things you notice that a curious educator might want to know about your platform.
 All
 
 ✔️ By the end of the week, you should have enough content to create a pull request to send your work over to the main course blog, where I will set up some peer reviews (not for grades).
 
-GITHUB Miah fork: https://github.com/miaharmitage/edci338-202201/edit/main/08-tiktok.Rmd
 
 
 
