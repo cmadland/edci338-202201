@@ -3,7 +3,7 @@
 ## Personas {-}
 
 ![Persona 1](assets/youtube/persona1.png)
-![Persona 2](assets/youtube/FILENAME.png)
+![Persona 2](assets/youtube/Persona2.png)
 ![Persona 3](assets/youtube/FILENAME.png)
 ![Persona 4](assets/youtube/FILENAME.png)
 
