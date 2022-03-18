@@ -1,3 +1,39 @@
 # YouTube
 ## Personas {-}
 
+![Persona 1](assets/youtube/FILENAME.png)
+![Persona 2](assets/youtube/FILENAME.png)
+![Persona 3](assets/youtube/FILENAME.png)
+![Persona 4](assets/youtube/FILENAME.png)
+
+## Demographics {-}
+
+
+
+
+## Privacy and Surveillance {-}
+
+
+
+## Access and Inclusion {-}
+
+
+
+## Trust and Misinformation {-}
+
+
+
+## Public Discourse {-}
+
+
+
+## Education {-}
+
+
+
+## Media Literacy {-}
+
+
+
+## Reflections {-}
+
