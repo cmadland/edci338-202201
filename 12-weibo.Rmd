@@ -2,6 +2,7 @@
 
 ## Persona {-}
 
-![Jack Chen](assets/weibo/Jack persona.png)
+![Persona1](assets/Weibo/Jack persona.png)
 
 ## Demographics {-}
+
