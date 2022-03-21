@@ -2,7 +2,10 @@
 
 ## Persona {-}
 
-![Persona1](assets/Weibo/Jack persona.png)
+![Persona1](assets/Weibo/persona1.png)
+![Persona2](assets/Weibo/persona2.png)
+![Persona3](assets/Weibo/image1.png)
+![Persona4](assets/Weibo/jap.png)
 
 ## Demographics {-}
 
