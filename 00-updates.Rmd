@@ -553,3 +553,29 @@ You are also encouraged to create issues in the course repository if you have th
 ✔️ ***Continue*** working on your [Celebration of Learning post](https://cmadland.github.io/edci338-202201/course-assessment.html#celebration-of-learning-30). Your Celebration post will likely end up being in the range of 1200-1500 words (150-200 words per course outcome). ***DUE APRIL 7***  
 ✔️ One last thing...please add your name, linked to your blog to the `index.Rmd` file in *your fork of the repository*. You will see that Tessa's name is already there and you should copy that syntax to ensure your link shows up properly. Then when you create a pull request I will add it to the main course site.
 ```
+
+## Week Eleven (Mar 21-27) {-}
+
+Getting right into it...there are two key due dates coming up.
+
+### Sunday, March 27 {-}
+
+Your Major Project is due. I've added the last bit of what you need to do for that to the [Major Project page](https://cmadland.github.io/edci338-202201/major-project-1.html). Please have a look there.
+
+```{block, type='protip'}
+#### ✨ ProTip{-}
+Your Major Project is due on the 27th, but I will be scheduling assessment meetings to review your contributions between March 28th and April 2. You are welcome to submit updates between March 28 and our meeting.
+```
+
+### Thursday, April 7 {-}
+
+Your Celebration of Learning post is due. 
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ **Complete** your Major Project and **create a pull request** to send your work to the main repository.  
+✔️ **Schedule** a meeting between me and your Learning Pod to discuss your Major Project for sometime ***between March 28 and April 3***. The link to book a meeting with me is in [Brightspace](https://bright.uvic.ca/d2l/le/lessons/152781/topics/1550164).  
+✔️ Continue drafting your Celebration of Learning post, but focus on your Major Project if you need to budget your time.  
+```
+
+As always, feel free to book a meeting with me if you have questions!
