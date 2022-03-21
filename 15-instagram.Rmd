@@ -1,1 +1,7 @@
 # Instagram
+
+## Personas
+
+![Azaara](assets/instagram/Persona1.png)
+![Davina](assets/instagram/EDCI_Persona.PNG)
+![RSDVBSB](assets/instagram/Persona3.PNG)

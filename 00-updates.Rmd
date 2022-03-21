@@ -524,3 +524,58 @@ Also, as you read Couros' chapter, consider whether or not you have experienced 
 
 ***Please be in touch if you are confused about how to do this!! Do not wait! It is up to you to reach out for assistance.***  
 ```
+
+## Week Ten (Mar 14-20) {-}
+
+Quick shoutout to [Learning Pod 4](https://cmadland.github.io/edci338-202201/discord.html) who were the first to send a pull request with a bunch of content for their page! [I left some comments in the commit](https://github.com/cmadland/edci338-202201/commit/7190ef2a3de0358c0d4a8d0f927145348361e50c), and they may be helpful to you as you format your own page, feel free to ask questions in the commit.
+
+In keeping with the 'End of the Semester is Coming' vibe of the last week or so, I don't have a lot of new content for you, although I would like to briefly revisit the topic that was scheduled for last week on the syllabus, which is to think about what it means to be a public individual on social media. I'd like you to [read this article from the Globe and Mail](https://www.theglobeandmail.com/canada/british-columbia/article-broadcaster-jody-vance-feels-relief-after-suspect-charged-following/) about broadcaster Jody Vance and her experience as a high profile woman in BC and Canada who has a visible presence on Twitter.
+
+There are a few groups who have not been in contact with me recently and it would be very good to hear from you as the end of the semester is coming quickly and there is much work to do. If you go to the [Network page](https://github.com/cmadland/edci338-202201/network), you can get a view of what activity has happened on the main repository and all the associated forks.
+
+```{block, type='protip'}
+#### ✨ ProTip{-}
+I ***STRONGLY*** encourage you to [have a look at the work that has been added to the course book](https://cmadland.github.io/edci338-202201/) so far! The whole point of the structure of this course is to give you visibility into what other groups and individuals are doing and to learn *from* and *with* each other.  
+
+Work posted so far should be considered *work-in-progress*.
+```
+
+```{block, type='protip'}
+#### ✨ ProTip{-}
+You are also encouraged to create issues in the course repository if you have things to share with the class, need help, have questions, or maybe just want to compliment someone on their contribution. You can also interact directly with other groups by filtering the list of issues by label, then commenting on a particular group's issue.
+```
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ ***Read*** the [Globe and Mail article about Jody Vance](https://www.theglobeandmail.com/canada/british-columbia/article-broadcaster-jody-vance-feels-relief-after-suspect-charged-following/).  
+✔️ ~~***Publish*** your Wow and wonder post for this week.~~ No...let's be done with those. Focus on your project and Celebration posts.  
+✔️ ***Continue*** working on your [Major Project](https://cmadland.github.io/edci338-202201/major-project-1.html) ***DUE MARCH 27***  
+✔️ ***Continue*** working on your [Celebration of Learning post](https://cmadland.github.io/edci338-202201/course-assessment.html#celebration-of-learning-30). Your Celebration post will likely end up being in the range of 1200-1500 words (150-200 words per course outcome). ***DUE APRIL 7***  
+✔️ One last thing...please add your name, linked to your blog to the `index.Rmd` file in *your fork of the repository*. You will see that Tessa's name is already there and you should copy that syntax to ensure your link shows up properly. Then when you create a pull request I will add it to the main course site.
+```
+
+## Week Eleven (Mar 21-27) {-}
+
+Getting right into it...there are two key due dates coming up.
+
+### Sunday, March 27 {-}
+
+Your Major Project is due. I've added the last bit of what you need to do for that to the [Major Project page](https://cmadland.github.io/edci338-202201/major-project-1.html). Please have a look there.
+
+```{block, type='protip'}
+#### ✨ ProTip{-}
+Your Major Project is due on the 27th, but I will be scheduling assessment meetings to review your contributions between March 28th and April 2. You are welcome to submit updates between March 28 and our meeting.
+```
+
+### Thursday, April 7 {-}
+
+Your Celebration of Learning post is due. 
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ **Complete** your Major Project and **create a pull request** to send your work to the main repository.  
+✔️ **Schedule** a meeting between me and your Learning Pod to discuss your Major Project for sometime ***between March 28 and April 3***. The link to book a meeting with me is in [Brightspace](https://bright.uvic.ca/d2l/le/lessons/152781/topics/1550164).  
+✔️ Continue drafting your Celebration of Learning post, but focus on your Major Project if you need to budget your time.  
+```
+
+As always, feel free to book a meeting with me if you have questions!
