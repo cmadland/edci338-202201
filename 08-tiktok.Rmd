@@ -28,36 +28,39 @@ The first option consists of following three simple steps:
 
 Videos made and created on TikTok’s platform can also be viewed on other neighbouring media platforms. Multiple channels on youtube have dedicated their content to uploading what is currently trending on Tik Tok. Content creators of youtube make it possible for users without an account to gain quick and easy access to like and comment on the video on youtube. 
 TikTok videos may also be viewed without an account if they’re sent by message, Snapchat, email, Facebook etc. 
-With that being said, there are a variety of features that can not be accessed if you do not have an account. Without an account, you are unable to follow creators, like videos, see or write comments on the videos, upload or share content or join creators ‘lives’.
+With that being said, there are a variety of features that can not be accessed by users without an account. Without an account, you are unable to follow creators, like videos, see or write comments on the videos, upload or share content or join creators ‘lives’.
 
 #### How Users are Connected {-}
 
-Tik Tok users are connected by following other users and content creators. Any creator you wish to see, you can simply go onto their account and click to follow them. Unless they have a private account, they do not have to accept your follow request in order for you to see their content. Whoever you follow also does not have to follow you back, you may still access and see their content even if there is not a mutual following. On Tik Tok, there are two types of pages you can look at to see videos. The ‘for you page’ showcases viral Tik Toks and creators of all sorts. From the for you page, you may discover creators who you wish to connect with and follow. Once you have followed people, their Tik Toks may show up on a separate browsing page. When you go onto the Tik Tok app, there are two sections of videos you can browse, those who you follow who will appear on the ‘following’ page, while other creators will appear on the for you page. All of the creators you follow will appear on the following page as a means to make sure the videos of the people you follow are not lost amongst the for you page. You may also connect with other Tik Tok users by ‘lives’. Users may choose to go live and show what they are doing, answer questions or just hang out with their followers on a live stream. Creators may also go live with other creators. On lives, users can comment and ask questions in real-time in order to connect with other creators. 
+TikTok features allow users to generate communities online. Users can stay connected through the act of sharing, following, commenting or liking other creators’ posts. Simply by locating and following a creator’s account, their videos will be readily available for viewing in the “following” section of TikTok. Unless the creator’s content is made private, a user does not need to wait for access to be granted, in order to proceed in viewing the video of the account. Furthermore, there are obligations for users to follow one another back, however, access to the creator’s videos is still made available regardless of mutual following. 
+ There exists two types of pages to view content. The ‘for you page’ showcases viral Tik Toks and creators of all sorts. This side of TikTok may allow users to discover new creators they wish to connect with or follow. After the user has followed the creator, their content may now exist on the other side of TikTok. 
+ Separated into two sections, the videos published by the users following will appear on the ‘following’ page, while other creators will appear on the “for you page”. The users following page exists to serve individuals with accessible access to their favourite content creators and avoid missing out on their friend’s and families’ posts.
+ Another way to interact on TikTok is to engage in creators’ “lives”. Users may choose to go live to interact with their followers in real-time. By sharing insight into their daily living, creators find great success in expanding their followers and creating user engagement. Another unique feature allows for creators to go live with other fellow creators on the app. TikTok lives provide users with access to comment, ask questions and send or receive gifts. Although, TikTok requires users to meet a following of 1,000 and be 16 years of age in order to host a live. 
+
 
 ### Content {-}
 
 #### Content Sharing {-}
 
-TikTok users can share a video by clicking on the share button and choosing to copy the link or share it on another social media platform such as Snapchat, Facebook messenger, and Instagram.
+On TikTok, users have the ability to share any post they see on their feed. In order to share a video, users must tap the arrow located in the bottom right hand corner. Once the user has clicked the share arrow, a variety of methods to share are displayed. These options include the ability to share the video through copying the link or sharing it on another social media platform such as Snapchat, Messages, Facebook messenger or Instagram.  
 
 ![share](assets/tiktok/share.jpg)
 
 #### Privately Sharing Content {-}
 
-When a user initially creates a TikTok account, the videos and comments are set to public. This means any TikTok user can access the content and follow the account. However, TikTok has Privacy settings that allow the account to be changed to private. When the account is set to private, the account holder can approve or deny follow requests and only the approved followers can view the content. 
+When a user initially creates a TikTok account, the videos and comments are set to be public. This means any TikTok user can access the content and follow the account. However, TikTok does have Privacy settings that allow the account to be changed to private. When the account is set to private, the account holder can approve or deny follow requests and only their approved followers can view the content. 
 
-Even if the account is set to public, the account holder may edit the privacy settings on individual videos. This includes allowing everyone to view the video, only the followers that you follow back to view the video, or only the account holder can view the video.
+Even if the account is set to public, the account holder has access to edit the privacy settings on individual videos. These privacy settings allow users to allow everyone access, only the followers that users follow back, or only the account holder to view the video.
 
 ![content](assets/tiktok/content.jpg) 
 
 #### Viral Content {-} 
 
-When a user creates and uploads a public video on TikTok, it is shared onto the user’s profile. 
-If the content a user creates gets picked up by the TikTok algorithm, it will share the user’s video onto the “For You” page. Based on the user's interests and past interactions with TikTok videos, TikTok's algorithm curates a "For You" page of video content from creators the user may not follow. The algorithm utilizes users’ data on interactions with videos such as the screen time of watching a video, liking the video, and/or sharing it. 
+Content published on TikTok has the ability to go viral any time a user creates and uploads a public video onto their account. If the content a user creates gets picked up by the TikTok algorithm, it will be shared to other users via the “For You” page. Based on the user's interests and past interactions with TikTok videos, TikTok's algorithm curates a "For You" page of video content from creators the user may not follow. The algorithm utilizes users’ data on interactions with videos such as the screen time of watching a video, liking the video, and/or sharing it.
 
 ![foryou](assets/tiktok/foryou.jpg) 
 
-Content goes viral when it makes it onto the “For You” page. As a video gets more comments, likes, shares, and duets, the greater its chances of being picked up by the algorithm. The completion rate of your videos is an additional factor that influences ranking. In general, the more viewers watch a TikTok video to the end, the more likely it is to be shared.
+Once the video makes it to the “For You” page, it has the opportunity to go viral. As a video receives more comments, likes, shares, and duets, the greater its chances are of being picked up by the algorithm. The completion rate of a users’ videos is an additional factor that influences ranking. In short, the more a video is liked and fully watched, the greater it’s chances are of going viral.
 ^[Worb, B.(2022, January 14). How Does The TikTok Algorithm Work? Here's Everything You Need To Know. Later Blog.
 https://later.com/blog/tiktok-algorithm/#:~:text=According%20to%20TikTok%3A%20%E2%80%9CThe%20system,not%20interested%20in%2C%20too.%E2%80%9D]
 
@@ -79,22 +82,49 @@ https://later.com/blog/tiktok-algorithm/#:~:text=According%20to%20TikTok%3A%20%E
 
 ### Key Takeaway's from TikToks Privacy Policy {-}
 
+ The Terms of Service (ToS) and Privacy Policy (PP) serve as a legally binding contract between TikTok and its users. Confined within this document is advanced terminology which the average person would find difficult to comprehend. A crucial point stated in the document notes that Tiktok is not held accountable for the privacy policy of third-party partnerships and advertisements that are provided in the app via Cookies (TikTok. June 2, 2021. Para 20). Following that, Tiktok is also not liable if the user is to click a link outside or from a Third-party source (TikTok. June 2, 2021. Para 37). 
+
+ Under the section 'User Content and Behavioural Information' TikTok explains that by giving informed consent, the app may collect users information present in their content including their background, face, location and bodily attributes. They also disclose information may be obtained regarding your interests, gender, and age as means to “personalize” content and "[promote] your content to other users and exploring whether your profile presents further opportunities for collaboration" (TikTok. June 2, 2021. Para 10).
+
+ With reference to the Privacy Policy for Younger Users (YUPP), the document was substantially shorter that that of the General Privacy Policy (GPP). The Policy states that limited information is obtained from youth under the age of 13 residing in the United States (US).  This includes the username, password, date of birth, device ID, IP address, web browser type and some app activity (TikTok. January 2020. Para. 1-2 ). This information is only acquired for troubleshooting and other analytical services. In addtion, this is also collected for legal and governmental reasons which not only is rare, but is reasonable as it is law enforcement. (TikTok. January 2020. Para. 4 & 6). An apparent difference found between the YUPP and GPP resides in the difference of protection between users. Those who are 13 and under are subject to much less severe policies and are inclinded to more privacy. In contrast, those who are over the age of 14 are forced to forgo their privacy and grant TikTok access to a great deal of their personal information. 
+
+ Users should be encouraged to review the Policy Acts laid out by TikTok, in order to be fully made aware of and comfortable with their decision to sacrifice their privacy rights. TikTok recommends that any questions or concerns with respect to the ToS or PP be directly addressed to them via email (TikTok. June 2, 2021. Para 34).
+
+
 
 ## Social Media and TikTok in Education {-}
 
-### Interaction on TikTok {-}
+### Interactions on TikTok {-}
 
-#### How People Interact on TikTok {-}
+Tiktok serves as a great resource for individuals to interact with other content creators, comedians or those in the arts community. The platform includes a plethora of features that allow its users to comment, like, share and send gifts to their favourite content creators. 
 
 #### Leaving Comments {-}
 
+A comment can easily be made on TikTok with a few simple steps! 
+1. Select the video you plan to interact with
+2. From here, you must tap the comment icon located on the right 
+3. Tap the “add comment” box and write a message
+4. Lastly, press send when you’re ready!
+
+Pictures
+
+
 #### 'Liking" {-}
+
+Liking a video has never been easier for TikTok users. In order to like a video, one can simply tap the heart shaped icon located in the middle right side of the page. 
+
+Picture
+
+When a user likes the content produced by a content creator, the like is viewed by the person who made the video. However, it should be noted that unless you switch your privacy settings, everyone can view your video as well. Attached below are numerical steps to be followed if one wishes to switch their “like history” to not be viewed by others. 
+
+Pictures
+
 
 ### Creators {-}
 
 #### Educators on TikTik {-}
 
-Educators use Tik Tik as a platform to reach audience members from all over the world. Tik Tok provides a platform for creators to share their voices and knowledge. Videos are created with the intent to educate viewers, answer questions and promote learning. All types of content are currently being taught on TikTok. You are able to find educators such as @Dad, how do I? who is a father educating viewers on how to fix things, and providing life lessons for those who may not have their own Dad to teach them. You can also access content such as @Janelle Rohner who educates her viewers on Keto lifestyles and provides weight loss tips and Keto recipes. Depending on the type of content they are producing determines the type of audience members. For instance, @Dad, how do I? Has an audience of mostly young people while @Janelle Rohner’s audience is an older audience as some of the content she shares is keto drinks for those 19+. No matter what type of topic you are looking to be educated on, you are sure to find someone on Tik Tok who is producing content to educate you on that particular topic. 
+Educators use Tik Tik as a platform to reach audience members from all over the world. Tik Tok provides a platform for creators to share their voices and knowledge. Videos are created with the intent to educate viewers, answer questions and promote learning. All types of content are currently being taught on TikTok. Educators such as @Dad, how do I? Provides valuable life lessons and educates viewers on how to fix things. You can also access content such as @Janelle Rohner which educates viewers on Keto lifestyles and provides weight loss tips. Depending on the type of content the creators produce, this determines the type of audience members. For instance, @Dad, how do I? Has an audience of mostly young people while @Janelle Rohner’s audience is an older audience as some of the content she shares is keto drinks for those 19+. No matter the topic of interest, there is sure to be a content creator producing educational content on that particular topic.
 
 #### Educators Responses to Comments and Questions {-}
 
