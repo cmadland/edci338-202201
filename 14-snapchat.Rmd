@@ -1,4 +1,4 @@
 # Snapchat
 
 ## Persona {-}
-![Persona Example 1](assets/snapchat/persona1.jpg)
+![Persona Example 1](assets/snapchat/persona1.png)
