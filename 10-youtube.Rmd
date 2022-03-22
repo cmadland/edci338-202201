@@ -53,9 +53,13 @@ Educators should be careful of distracting, harmful, and inaccurate videos that 
 Fortunately, the platform has resources which enforces reporting and filtering of content such as the following:
 
 - [Youtube Trusted Flagger program](https://support.google.com/youtube/answer/7554338?hl=en&ref_topic=9387085)
-- [Restricted Mode](https://support.google.com/youtube/answer/174084?hl=en&co=GENIE.Platform%3DAndroid)
-- [Community-driven reporting](https://support.google.com/youtube/answer/2802027?hl=en&ref_topic=9387085)
+![flagger](assets/youtube/ytflagger.png)
 
+- [Restricted Mode](https://support.google.com/youtube/answer/174084?hl=en&co=GENIE.Platform%3DAndroid)
+![restrictedmode](assets/youtube/restrictedmode.png)
+
+- [Community-driven reporting](https://support.google.com/youtube/answer/2802027?hl=en&ref_topic=9387085)
+![reporting](assets/youtube/reporting.png)
 
 ## Media Literacy {-}
 
