@@ -9,8 +9,19 @@
 
 ## Demographics {-}
 
+### Target Audience {-}
+YouTube’s target audience is people of all ages. YouTube has created a “YouTube Kids”, so even young children have to ability to watch videos with their parents being comfortable because the videos on YouTube Kids are appropriate for young children. The gender demographics of YouTube is split very evenly, with a report demonstrating that 45.8% of YouTube’s total advertising audience is female, and 54.2% of YouTube’s total advertising audience is female ^[[Needle, F. (2021). YouTube Demographics & Data to Know in 2021 [+What Different Generations Watch on the Platform]](https://blog.hubspot.com/marketing/youtube-demographics)]. This information is collected from those who report themselves or have their gender shown on their YouTube account. Furthermore, YouTube has launched local versions of the platform in over 100 countries—this demonstrates that YouTube is used worldwide. People use YouTube for many different reasons, some of these reasons are tutorial videos, entertainment, education, mindfulness, to share personal videos, and so on! 
 
+### Searching Content {-}
+On YouTube you do not need to have an account to search the content and browse videos. There are some extra features though if you do have a YouTube account. Some of these features include, uploading your own videos, liking videos, subscribing to certain accounts, commenting on videos, more ability to control your privacy, watching videos in incognito mode, and you can create and share playlists. 
 
+### How Users are Connected {-}
+You can connect to millions of people on YouTube. The main way people connect is by subscribing to one another. This means that when they post a video it will show up in your “subscription” section. Furthermore, you can comment on and like peoples videos. 
+
+### Content {-}
+Content can be uploaded on YouTube in a variety of ways. Videos can be uploaded publicly for everyone to see, but they also can be uploaded privately. Content creators on YouTube get to choose the audience who can see their videos. If a person wants a video to be uploaded but only available for themself to watch, they can upload it privately. There is also a feature on YouTube where you can upload a video but only the people you share the link with can watch the video. 
+
+Any video can be shared through a link. If the video is public and you have access to the link you can share it on your other social media accounts which can help the video gain attraction. Videos go viral by getting a lot of views. If your YouTube account already has a lot of subscribers, it is more likely for your video to go viral, but it is very possible to go viral without having a lot of subscribers. If the video posted is interesting, trendy, and the right people see and share it, it will go viral.
 
 ## Privacy and Surveillance {-}
 
