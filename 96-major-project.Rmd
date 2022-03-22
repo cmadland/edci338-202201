@@ -137,3 +137,18 @@ It is easy in GitHub to include footnotes in your work to cite sources. Please f
 ✔️ If it is just a comment, then `^[This is a comment.]`
 
 Note that all footnotes from all pages will be published, in order, on [the `References` page in the course book](https://cmadland.github.io/edci338-202201/references-3.html).
+
+## Digital Identity, Access and Inclusion, and Media Literacy (including Trust and Disinformation) {-}
+
+This is the last section for your Major Project and you can determine within your group how to divide the work.
+
+```{block, type='gh'}
+#### Please add a reflection for each of the remaining topics in the checklist:
+
+✔️ **Digital Identity** How do you present yourself in social media? Do you have separate identities for personal and work or school use? Do you integrate your personal and professional identities? Do you use different platforms for different purposes?  
+✔️ **Access and Inclusion** How does the platform you chose for the Major Project incorporate accessibility and inclusion principles. How are disabled people treated on the platform? Are there multiple ways people can consume or produce content to meet accessibility needs? How do you include those who might otherwise be excluded?  
+✔️ **Media Literacy, Trust, and Disinformation** Does your chosen platform have content moderation policies? Does it flag disinformation, or provide links to trusted resources? How do you ensure that you don't spread disinformation as misinformation? (Hint: this last question might require you to do a bit of legwork to learn about Media Literacy. [This resource should help - but don't try to read the whole thing!](https://webliteracy.pressbooks.com/))  
+
+You are encouraged to use your Wow and Wonder posts in these reflections.
+
+```
