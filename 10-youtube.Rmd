@@ -24,8 +24,24 @@
 
 
 
-## Public Discourse {-}
+## Balancing your PLN and Public Discourse {-}
 
+### High-Profile Individuals and Social Media {-}
+High-profile individuals and their use of social media highly varies with their intent, and more broadly, their ‘branding’. In general, these people are highly looked up to. ‘Branding’, in this case, refers to a person’s reputation composed of unique skills and personality that has the ability to influence a mass of individuals ^[[What is personal branding?](https://www.digitalmarketing.org/blog/what-is-personal-branding)]. High-profile people attract a significant amount of attention online, on television, and so on. These individuals tend to have a big following and are generally scrutinized by the public eye more than the average person. This includes celebrities, musicians, politicians, etc.—depending on the individual’s intent, their platform can be utilized however they see fit, including the good and the bad.
+
+For example, there are celebrities such as [Ryan Reynolds](https://www.youtube.com/c/VancityReynolds) who utilizes his youtube channel to share lighthearted, and fun-loving videos as a form of entertainment. Despite the majority of his videos being published for movie promotions, his way of sharing online information is harmless and full of cheeky humor for everyone to enjoy. In other cases, there are politicians such as [Justin Trudeau](https://www.youtube.com/c/pmcanada) who upload daily youtube videos primarily showcasing crucial remarks on Canada’s political landscape. Through his videos, any individual around the globe who has access to the internet can be filled in on current events and strike up discussion as needed. These are a couple of notable benefits when it comes to being in the public eye and having a PLN, however, it’s important to recognize that at the cost of consuming information, users and educators are also at risk of misinformation.
+
+### Minimizing Misinformation {-}
+The best way in spotting and avoiding false information on platforms such as Youtube is to build a sense of awareness and be skeptical of the content that’s being shared or received. According to an article by [The Conversation](https://www.siliconrepublic.com/business/misinformation-social-media-how-to-avoid-spreading), this means taking the following actions:
+
+* Educate yourself - Individuals can be easily manipulated by specific tricks of misinformation. It’s best to conduct your own research and understand how these techniques are being used against you—as a result, you develop a critical eye and become less susceptible to manipulation.
+* Recognise your vulnerabilities - Biases can easily sway us. Tread carefully when critical information heavily aligns with your values and what you think is right. It’s just as important to consider other perspectives.
+* Consider the source - Be cautious of where the information is coming from. Academic articles that have been peer-reviewed are one of the most credible sources out there, whereas a news article that is not backed by a confirmed expert may not be the most trustworthy source of information.
+* Take a pause - When coming across information for the first time, do not believe what you read instantly. Take time to reflect and ask: “Is this information reasonable? Why or why not?”. Explore the content and dig deeper beyond those words.
+* Be aware of your emotions - Stay rational! Don’t let your feelings lead you to impulsive behavior that would instigate consuming misinformation
+* If you see something, say something - Be proactive in taking action against misinformation. Protect yourself and others by simply pointing out falsified statements rather than doing nothing. 
+
+Ultimately, there is no clear solution in minimizing misinformation. However, what truly matters is the effort put into rationally criticizing what we consume online for the sake of ourselves and for others.  
 
 
 ## Social Media and PLN in Education {-}
