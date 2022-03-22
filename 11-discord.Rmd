@@ -74,9 +74,22 @@ Key takeaways:
 Discord is given a grade of E by ToSDR. Discord does track you and can read your messages. You have no right to a class action lawsuit against them, and in the case of a dispute, you are forced into binding arbitration. Discord can license user content to third parties. Benefits in Discord’s ToS include that it requires specific consent to share your information with third parties, you can request to access and have your personal data deleted, and they provide information regarding how they will use your data. Overall, by using Discord you relinquish your right to privacy regarding anything you say or do when using the service.
 
 ## Social Media and PLN in Education {-}
+### Interacting on Discord {-}
+
+### Educational Accounts {-}
+One of the ways discord can help educators is through acting as a platform to encourage collaboration and discussion among learners. For members who actively engage in discussions, a well organized educational server can act as a personal learning network to engage with other learners and communicate on common topics.
+
+### Safety Concerns for Educators {-}
+To be able to access the Discord website and app, Discord requires its users to be 13 years old and up unless local legislation mandates an older age. To ensure that the age requirement is satisfied, upon creating an account, Discord will ask users to confirm their age. If a user is reported to be under the age requirement, they will be locked out until they can confirm their age with an official ID document. 
+
+Discord contains adult content and is not suitable for young children. Some servers and channels must be labeled as age-restricted for only people over 18 years old to have access.  When someone tries to enter the server, a warning will appear to confirm their age and let them know the server may contain graphic content. Servers that are not labeled- should be reported. 
+
+Discord encourages its users who are under 18 to activate their age-restricted content filter, Keep me safe. This allows Discord to scan images and videos that have been sent through direct messaging and block out any adult material or inappropriate behaviour. This filter can be accessed through the Privacy & Safety section in User Settings. Along with this, users are also able to block any users who they do not want to communicate with. 
+
+## Balancing your PLN and Public Discourse
 
 
-
+## Digital Identity, Access and Inclusion, and Media Literacy
 
 ## References {-}
 [1]   
