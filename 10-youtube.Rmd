@@ -61,6 +61,7 @@ Fortunately, the platform has resources which enforces reporting and filtering o
 - [Community-driven reporting](https://support.google.com/youtube/answer/2802027?hl=en&ref_topic=9387085)
 ![reporting](assets/youtube/reporting.png)
 
+
 ## Media Literacy {-}
 
 
