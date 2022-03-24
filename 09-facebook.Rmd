@@ -37,7 +37,8 @@ According to Investopedia, the major insider shareholders are Michael Schroepfer
 ✔️ how does the company generate revenue?  
 The company generate most of its revenue by showing digital advertisements. Facebook’s business model is explained simply by Mark Zuckerberg in the video below.   
 https://www.youtube.com/watch?v=n2H8wx1aBiQ  
-References:  
+
+### References
 https://www.investopedia.com/articles/markets/100215/twitter-vs-facebook-vs-instagram-who-target-audience.asp  
 https://blog.hootsuite.com/facebook-demographics  
 https://www.statista.com/statistics/268136/top-15-countries-based-on-number-of-facebook-users/  
@@ -59,11 +60,13 @@ For this project, our group followed 10 educators on facebook, and they are all 
 ✔️ Are there any concerns that educators should be aware of regarding your platform (privacy, age-inappropriate content, disinformation, misinformation, offensive or illegal content)?  
 They should be aware of the private message scam because as mentioned in previous section, people can directly message others on facebook without following them. Some scam would try to get one's private message by asking "Is this you?"If they reply then they may be giving more private information in order to confirm with that person "this isn't me". Also, for an account that is made public, it is best not to share personal information on that account. Some educators made their account private but they are still able to engage in their PLN. So if the account is not to spread the content to a boarder audience, one should protect one's privacy.  
 ✔️ Make note of other things you notice that a curious educator might want to know about your platform.  
- This platform allows educator to create a group for the class, if they envite students on facebook group, they could better communicate with their students. Further, facebook also allows online meeting, so if there's an emergent meeting, facebook live is always an option. Facebook also allows teachers to create polls, this could be a very good tool for teachers if they want to adjust the syllubas and ask students if they agree to these changes. Or they can make polls about course evaluations in the middle of semester, in this way, teachers could know if their teaching is working or not working. Teachers could also tag other teachers who teach on the same topic, and maybe share some experience with each other. They could also invite students in the conversation, let them also making connections with a wider educational network.    
-References:    
+ This platform allows educator to create a group for the class, if they envite students on facebook group, they could better communicate with their students. Further, facebook also allows online meeting, so if there's an emergent meeting, facebook live is always an option. Facebook also allows teachers to create polls, this could be a very good tool for teachers if they want to adjust the syllubas and ask students if they agree to these changes. Or they can make polls about course evaluations in the middle of semester, in this way, teachers could know if their teaching is working or not working. Teachers could also tag other teachers who teach on the same topic, and maybe share some experience with each other. They could also invite students in the conversation, let them also making connections with a wider educational network.   
+ 
+### References   
 https://www.youtube.com/watch?v=Bam_rXmoOs4    
 https://www.readersdigest.ca/culture/facebook-messenger-scams/    
 https://www.theedadvocate.org/10-ways-use-facebook-classroom/#:~:text=By%20encouraging%20students%20to%20interact,Create%20Facebook%20polls        
+
 ## Balancing your PLN and Public Discourse  
  How do notable, high-profile individuals use social media?
  Notable, high-profile individuals use social media mainly to distribute business content, using the platform share content and contribute to larger conversation with other notable individuals. Unless some comments attract their attention, they are unlikely to respond to the comment section. The higher the social status they own, the less likely they are going to reply to comments. However, they do tag other notable individuals, that may be considered as their PLN.
@@ -75,10 +78,12 @@ Delivering information in a connected society requires verifiable resources, how
 We think we can build a PLN based on the criteria of whether the members in the PLN respect copy rights issue, for example, they know the difference between creative commons and non creative commons. 
 How do those who are veteran story tellers minimize the risk of sharing misinformation?
 They would know how to evaluate their resources, for example, see if their resources come from a valid source, such as database, notable publications, journals. They would compare different sites' information on the same topic, and deliver their content after they done enough research about it. 
-References: 
+
+### References
 https://www.usmagazine.com/celebrity-news/pictures/the-most-influential-celebrities-on-social-media/ariana-grande-2-4/
 https://www.usmagazine.com/celebrity-news/pictures/the-most-influential-celebrities-on-social-media/ariana-grande-2-4/
 https://www.investopedia.com/terms/c/common-resource.asp#:~:text=A%20common%20resource%20(or%20the,or%20has%20exclusive%20claim%20to.
+
 ## Digital Identity, Access and Inclusion, and Media Literacy (including Trust and Disinformation)  
 How do you present yourself in social media? Do you have separate identities for personal and work or school use? Do you integrate your personal and professional identities? Do you use different platforms for different purposes?
 I (wenzhuo) present myself in social media as a visitor, I am not a resident as far as I consider. I often view sites, or do research rather than distribute content online. I mainly use Twitter for political news, and YouTube to watch professionals playing games. 
