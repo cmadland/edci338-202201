@@ -36,19 +36,19 @@ Facebook first went public in 2012 as the shares became available for selling in
 According to Investopedia, the major insider shareholders are Michael Schroepfer, David Fischer, and David Wehner. Also, the major institutional shareholders of the company are Mark Zuckerberg, Vanguard Group Inc., and BlackRock Inc.   
 ✔️ how does the company generate revenue?  
 The company generate most of its revenue by showing digital advertisements. Facebook’s business model is explained simply by Mark Zuckerberg in the video below.   
-https://www.youtube.com/watch?v=n2H8wx1aBiQ  
+[![Senator Asks How Facebook Remains Free, Mark Zuckerberg Smirks: ‘We Run Ads’ | NBC News](https://i.ytimg.com/vi/n2H8wx1aBiQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=n2H8wx1aBiQ)
 
 ### References
-https://www.investopedia.com/articles/markets/100215/twitter-vs-facebook-vs-instagram-who-target-audience.asp  
-https://blog.hootsuite.com/facebook-demographics  
-https://www.statista.com/statistics/268136/top-15-countries-based-on-number-of-facebook-users/  
-https://www.omnicoreagency.com/facebook-statistics/  
-https://www.thecoldwire.com/is-facebook-a-private-company/  
-https://qz.com/2081663/why-facebook-changed-its-name-to-meta/  
-https://www.investopedia.com/articles/insights/082216/top-9-shareholders-facebook-fb.asp  
-https://www.youtube.com/watch?v=n2H8wx1aBiQ  
-https://www.pewresearch.org/internet/2019/01/16/facebook-algorithms-and-personal-data/  
-https://www.facebook.com/help/378618582856718  
+^[[19 facebook demographics to inform your strategy in 2022](https://blog.hootsuite.com/facebook-demographics)]
+^[[Twitter vs. Facebook vs. Instagram: What's the Difference?](https://www.investopedia.com/articles/markets/100215/twitter-vs-facebook-vs-instagram-who-target-audience.asp)]
+^[[Leading countries based on Facebook audience size as of January 2022](https://www.statista.com/statistics/268136/top-15-countries-based-on-number-of-facebook-users/)]
+^[[63 Facebook Statistics You Need to Know in 2022](https://www.omnicoreagency.com/facebook-statistics/)]
+^[[Is Facebook A Private Company? (Explained)](https://www.thecoldwire.com/is-facebook-a-private-company/)]
+^[[Why Facebook changed its name](https://qz.com/2081663/why-facebook-changed-its-name-to-meta/)]
+^[[Top Facebook (Meta) Shareholders](https://www.investopedia.com/articles/insights/082216/top-9-shareholders-facebook-fb.asp)]
+^[[Senator Asks How Facebook Remains Free, Mark Zuckerberg Smirks: ‘We Run Ads’ | NBC News](https://www.youtube.com/watch?v=n2H8wx1aBiQ)]
+^[[Facebook Algorithms and Personal Data](https://www.pewresearch.org/internet/2019/01/16/facebook-algorithms-and-personal-data/)]
+^[[How do I add or remove hobbies from my Facebook profile?](https://www.facebook.com/help/378618582856718)]
 
 ## Privacy and Surveillance
 ✔️ a link to your platform’s ToS and Privacy Policy
@@ -67,9 +67,9 @@ They should be aware of the private message scam because as mentioned in previou
  This platform allows educator to create a group for the class, if they envite students on facebook group, they could better communicate with their students. Further, facebook also allows online meeting, so if there's an emergent meeting, facebook live is always an option. Facebook also allows teachers to create polls, this could be a very good tool for teachers if they want to adjust the syllubas and ask students if they agree to these changes. Or they can make polls about course evaluations in the middle of semester, in this way, teachers could know if their teaching is working or not working. Teachers could also tag other teachers who teach on the same topic, and maybe share some experience with each other. They could also invite students in the conversation, let them also making connections with a wider educational network.   
  
 ### References   
-https://www.youtube.com/watch?v=Bam_rXmoOs4    
-https://www.readersdigest.ca/culture/facebook-messenger-scams/    
-https://www.theedadvocate.org/10-ways-use-facebook-classroom/#:~:text=By%20encouraging%20students%20to%20interact,Create%20Facebook%20polls        
+^[[How to Increase Facebook Engagement in 2022](https://www.youtube.com/watch?v=Bam_rXmoOs4)]
+^[[Facebook Messenger Scams Are on the Rise—Here’s How to Protect Yourself](https://www.readersdigest.ca/culture/facebook-messenger-scams/)]
+^[[10 WAYS TO USE FACEBOOK IN THE CLASSROOM](https://www.theedadvocate.org/10-ways-use-facebook-classroom/#:~:text=By%20encouraging%20students%20to%20interact,Create%20Facebook%20polls)]
 
 ## Balancing your PLN and Public Discourse  
 ✔️ How do notable, high-profile individuals use social media?
@@ -84,8 +84,8 @@ We think we can build a PLN based on the criteria of whether the members in the 
 They would know how to evaluate their resources, for example, see if their resources come from a valid source, such as database, notable publications, journals. They would compare different sites' information on the same topic, and deliver their content after they done enough research about it. 
 
 ### References
-https://www.usmagazine.com/celebrity-news/pictures/the-most-influential-celebrities-on-social-media/ariana-grande-2-4/
-https://www.investopedia.com/terms/c/common-resource.asp#:~:text=A%20common%20resource%20(or%20the%20%22commons%22)%20is%20any%20scarce%20resource%2C%20such%20as%20water%20or%20pasture%2C%20that%20provides%20users%20with%20tangible%20benefits%20but%20which%20nobody%20in%20particular%20owns%20or%20has%20exclusive%20claim%20to.
+^[[The Most Influential Celebrities on Social Media](https://www.usmagazine.com/celebrity-news/pictures/the-most-influential-celebrities-on-social-media/ariana-grande-2-4/)]
+^[[Common Resource](https://www.investopedia.com/terms/c/common-resource.asp#:~:text=A%20common%20resource%20(or%20the%20%22commons%22)%20is%20any%20scarce%20resource%2C%20such%20as%20water%20or%20pasture%2C%20that%20provides%20users%20with%20tangible%20benefits%20but%20which%20nobody%20in%20particular%20owns%20or%20has%20exclusive%20claim%20to.)]
 
 ## Digital Identity, Access and Inclusion, and Media Literacy (including Trust and Disinformation)  
 ✔️ How do you present yourself in social media? Do you have separate identities for personal and work or school use? Do you integrate your personal and professional identities? Do you use different platforms for different purposes?
