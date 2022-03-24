@@ -2,9 +2,14 @@ tiktok
 facebook
 persona-1
 demographics-1
+privacy-and-surveillance-1
+social-media-and-your-pln-in-education
 youtube
 discord
+balancing-your-pln-and-public-discourse
+digital-identity-access-and-inclusion-and-media-literacy
 weibo
+describe-your-chosen-platform-in-significant-detail-including-as-available-wikipedia-may-be-a-good-source-for-some-of-this-info
 linkedin
 persona-4
 snapchat
@@ -12,4 +17,6 @@ instagram
 personas-1
 zenly
 persona-6
+demographic
+privacy-and-surveillance-4
 red
