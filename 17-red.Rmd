@@ -19,12 +19,12 @@ On RED, if user wants to be connected to another user, you can simply follow the
 ### Can content be shared privately and how is content shared?
 Yes, on RED, users can only the content privately use the following options: 
   1.	Directly message to user you follow
-    Users can share the content as a direct message to any user you follow
+  Users can share the content as a direct message to any user you follow
   2.	Generate a link or QR code
-    Users can also generate a link or a picture of QR code of the content they wish to share
+  Users can also generate a link or a picture of QR code of the content they wish to share
 There is also an option to share publicly:
   1.	Share via another social media platform
-    You can share the content via three Chinese social media platforms: Wechat, QQ and Weibo, RED will first get approved to connect itself to the app user     selected, then user can select if they want to share to the social media as a private message or a public post.
+  You can share the content via three Chinese social media platforms: Wechat, QQ and Weibo, RED will first get approved to connect itself to the app user     selected, then user can select if they want to share to the social media as a private message or a public post.
 ![figure 1](assets/red/RED share.jpg)
 
 ### How does content go viral?
