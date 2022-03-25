@@ -54,24 +54,6 @@ Some things I was able to find out about Instagram regarding how they use your d
 ~location of a photo, and the date a file was created.
 ~what you see through features Instagram provides,ie, camera,  
 
-## Access and Inclusion  
-Inclusive design aims to provide the user with a good experience. It is known as shifting away from the idea of “one-size-fits-all”. And moving towards creating a design for a diverse range of users. Accessibility on social media platforms is in relation to recognizing exclusion and displaying information in a clear manner. 
-Instagram provides the following to increase inclusion and accessibility:
-- Automatic captioning
-- Alt-image descriptions
-- Include descriptive captions
-- Screen reading
-- Adjust text size
-- Manage video captions 
-Following are the ways in which people can produce content to meet accessibility needs:
-- Writing in plain language
-- Adding hashtags and mentions
-- Limit emoji use
-- Avoid special characters
-- Descriptive image captions
-- Use good color contrast: Avoid color contrasts that are difficult to read
-- Promote positive inclusion 
-
 ## Trust and Misinformation 
 Instagram works with third party fact checkers to identify, review and label false information. Additionally, instagram also has multiple community guidelines for user motivation to continue being an authentic and safe platform. 
 Those guidelines include: 
@@ -115,7 +97,23 @@ As the Internet makes the educational process more interesting than ever, educat
 
 ### Digital Identity 
 Personally, I present my personal identity and school identity on Instagram as it is more casual in comparison to my work identity which is presented on LinkedIn. The reason for this is to keep my professional and work-related material and aspects of my life to demonstrate my accomplishments and present my qualifications to remain aligned with future goals and opportunities. I do keep my personal and school accounts generally proper. However, I am more relaxed about posting everyday experiences or the more social and adventurous aspects of my life. 
-### Access and Inclusion
+
+### Access and Inclusion 
+Inclusive design aims to provide the user with a good experience. It is known as shifting away from the idea of “one-size-fits-all”. And moving towards creating a design for a diverse range of users. Accessibility on social media platforms is in relation to recognizing exclusion and displaying information in a clear manner. 
+Instagram provides the following to increase inclusion and accessibility:
+- Automatic captioning
+- Alt-image descriptions
+- Include descriptive captions
+- Screen reading
+- Adjust text size
+- Manage video captions 
+Following are the ways in which people can produce content to meet accessibility needs:
+- Writing in plain language
+- Adding hashtags and mentions
+- Limit emoji use
+- Avoid special characters
+- Descriptive image captions
+- Use good color contrast: Avoid color contrasts that are difficult to read
 
 ### Media Literacy, Trust, and Disinformation 
 
