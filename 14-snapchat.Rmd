@@ -1,12 +1,35 @@
 # Snapchat
+### Snapchat is a popular messaging app that lets users exchange pictures and videos (called snaps) that are meant to disappear after they're viewed. It's advertised as a "new type of camera" because the essential function is to take a picture or video, add filters, lenses or other effects and share them with friends.
 
 ## Persona {-}
 ![Persona Example 1](assets/snapchat/persona1.png)
 
 ## Demographic Information {-}
-hello
+### ✔️ target audience (age, demographics, political leaning, interests, hobbies, etc)
+#### okay. picasso.
+
+### ✔️ can non-users browse or search content?
+
+### ✔️ how are users connected (e.g., on some platforms, you request a connection which needs to be accepted, but on others, you can follow anyone without them reciprocating)
+
+### ✔️ can content be shared privately?
+
+### ✔️ how is content shared?
+
+### ✔️ how does content go viral?
+
+### ✔️ is the parent company public or private?
+
+### ✔️ who are the major investors?
+
+### ✔️ how does the company generate revenue?
+
+### ✔️ any other pertinent information…
+
 
 ## Digital Identity {-}
+
+
 
 ## Privacy and Surveillance {-}
 
