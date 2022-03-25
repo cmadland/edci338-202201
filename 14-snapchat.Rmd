@@ -1,10 +1,12 @@
 # Snapchat
 ### Snapchat is a popular messaging app that lets users exchange pictures and videos (called snaps) that are meant to disappear after they're viewed. It's advertised as a "new type of camera" because the essential function is to take a picture or video, add filters, lenses or other effects and share them with friends.
 
-## Persona {-}
+## 1 Persona {-}
 ![Persona Example 1](assets/snapchat/persona1.png)
 
-## Demographic Information {-}
+## 2 Demographic Information {-}
+
+### 2.1
 ### ✔️ target audience (age, demographics, political leaning, interests, hobbies, etc)
 #### okay. picasso.
 
@@ -27,7 +29,7 @@
 ### ✔️ any other pertinent information…
 
 
-## Digital Identity {-}
+## 3 Digital Identity {-}
 
 
 
