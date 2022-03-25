@@ -1,4 +1,22 @@
 # Snapchat
 
 ## Persona {-}
-![Persona Example 1](assets/snapchat/persona1.jpg)
+![Persona Example 1](assets/snapchat/persona1.png)
+
+## Demographic Information {-}
+
+## Digital Identity {-}
+
+## Privacy and Surveillance {-}
+
+## Access and Inclusion {-}
+
+## Trust and Misinformation {-}
+
+## Public Discourse {-}
+
+## Education {-}
+
+## Media Literacy {-}
+
+## Reflections {-}
