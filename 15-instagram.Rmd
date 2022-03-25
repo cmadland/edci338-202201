@@ -12,11 +12,47 @@ Target audiance (age, demogrraphics, political learnings, interests, hobbies)
 
 Instagrams target group is more so directed towards a younger demographic.It is demonstrated that 75% of users are between the ages of 18 and 24 years old. 
 https://nealschaffer.com/instagram-target-audience/#:~:text=The%20Instagram%20demographic%20shows%20that,25%20and%2029%20years%20old. (add hyperlink) 
+✔️ Can non-users browse or search content?
+	A nonuser of Instagram can search up the account and browse through the content. Furthermore, a none user can also search up hashtags to find specific types of posts.
 
+✔️ How are users connected (e.g., on some platforms, you request a connection which needs to be accepted, but on others, you can follow anyone without them reciprocating)
+	For Instagram, if a user wants to connect with another, they can request to follow them. This request then has to be approved if the user has a private account. In the case the user does not have a private account, the requester will automatically begin following them once requested. When direct messaging someone, if they are not your friend the user must accept the message. If users have already become friends they will typically just receive a notification they have received a message, and then they can proceed to view it.
+
+✔️ Can content be shared privately?
+	Sharing messages directly provides users with the feature of sending private messages. Moreover, one also has the ability to select individuals from their friends to view a private story. This allows for a smaller group to view your story instead of your entire following.
+
+✔️ How is content shared?
+	On Instagram, content is shared by making a post, this will show up on one's profile. One could also post a story that can be added to your profile by making highlights at the top of your page. Content is also shared by direct messaging someone a post. The paper plane icon on every post allows one to forward it privately to whomever they wish. Additionally, one can also share a post on their story this way. 
+
+✔️ How does content go viral?
+	Content on Instagram can go viral if one account is public and the post is sent to many other individuals, what can help a post go viral is if it includes hashtags. This way anyone searching up a specific topic can find your post if it is related. Once a post is viewed many times it has the possibility of being shared by accounts with a bigger following which then increases the number of times the content is viewed in turn making it go viral. 
+
+✔️ Is the parent company public or private?
+The parent company for Instagram is Facebook and it is a public company. 
+
+✔️ Who are the major investors?
+	The major investors of Instagram are... 
+
+✔️ How does the company generate revenue?
+	The company generates revenue by advertising. In 2019  Instagram gained $20 billion in revenue.  It thrives off of the fact that it is geared around young adults. Furthermore, Instagram can get a higher number of individuals clicking on ads. Businesses have taken over on Instagram. Brands use this social media platform to advertise to a bigger audience. 
 
 ## Digital Identity 
+Personally, I present my personal identity and school identity on Instagram as it is more casual in comparison to my work identity which is presented on LinkedIn. The reason for this is to keep my professional and work-related material and aspects of my life to demonstrate my accomplishments and present my qualifications to remain aligned with future goals and opportunities. I do keep my personal and school accounts generally proper. However, I am more relaxed about posting everyday experiences or the more social and adventurous aspects of my life. 
 
-## Privacy and Sureillance 
+## Privacy and Surveillance 
+✔️ a link to your platform’s ToS and Privacy Policy
+Terms of use: https://www.instagram.com/about/legal/terms/before-january-19-2013/
+
+Privacy policy :
+https://help.instagram.com/519522125107875/?maybe_redirect_pol=0
+
+✔️ your key takeaways from your examination of your platform’s ToS and Privacy Policy
+
+Some things I was able to find out about Instagram regarding how they use your data and/or tracks your movements were.. 
+~ information is collected specifically on the user of the platform
+~messages, the information you share, communication with others. 
+~location of a photo, and the date a file was created.
+~what you see through features Instagram provides,ie, camera,  
 
 ## Access and Inclusion  
 Inclusive design aims to provide the user with a good experience. It is known as shifting away from the idea of “one-size-fits-all”. And moving towards creating a design for a diverse range of users. Accessibility on social media platforms is in relation to recognizing exclusion and displaying information in a clear manner. 
