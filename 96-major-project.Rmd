@@ -109,3 +109,46 @@ In [Week Nine](https://cmadland.github.io/edci338-202201/updates.html#week-nine-
 ✔️ Make note of  other things you notice that a curious educator might want to know about your platform.  
 ✔️ By the end of the week, you should have enough content to create a pull request to send your work over to the main course blog, where I will set up some peer reviews (not for grades).  
 ```
+
+## Balancing your PLN and Public Discourse {-}
+
+In [Week Ten](https://cmadland.github.io/edci338-202201/updates.html#week-ten-mar-14-20) you read about Jody Vance and her experience as a high profile woman on social media. Based on her account of her experiences on Twitter, explore your platform for individuals who have high profiles *outside your platform*. For example, this means Learning Pod 1 should find a few high profile people on TikTok who aren't just 'TikTok famous', but who have a high profile elsewhere. An example might be a musical artist who happens to be on TikTok, or a politician, etc.
+
+Here are some questions to guide your reflections to be added to your Major Project page (you don't necessarily need to address all of these questions):
+
+```{block, type='gh'}
+**Add the following to your platform's page in your Learning Pod's repo:**  
+
+✔️ How do notable, high-profile individuals use social media?  
+✔️ What are the benefits to being in the public eye and having a PLN?  
+✔️ Building community with online tools provided by an employer can be limiting, what are some possible restrictions and benefits?  
+✔️ Delivering information in a connected society requires verifiable resources, how can you ensure that you build a PLN you can rely on?  
+✔️ How do those who are veteran story tellers minimize the risk of sharing misinformation?  
+```
+
+
+
+#### GitHub ProTip {-}
+
+It is easy in GitHub to include footnotes in your work to cite sources. Please follow the instructions below to create footnotes.
+
+✔️ If you are creating a footnote to reference google, it would be `^[[Google.com](https://google.com)]`.   
+✔️ If you are citing an article, it would be `^[Hirst, M. (2018). The Political Economy of Fake News. In Navigating Social Journalism: A Handbook for Media Literacy and Citizen Journalism (1st ed.). Routledge. [DOI](https://doi.org/10.4324/9781315401263)]`  
+✔️ If it is just a comment, then `^[This is a comment.]`
+
+Note that all footnotes from all pages will be published, in order, on [the `References` page in the course book](https://cmadland.github.io/edci338-202201/references-3.html).
+
+## Digital Identity, Access and Inclusion, and Media Literacy (including Trust and Disinformation) {-}
+
+This is the last section for your Major Project and you can determine within your group how to divide the work.
+
+```{block, type='gh'}
+#### Please add a reflection for each of the remaining topics in the checklist:
+
+✔️ **Digital Identity** How do you present yourself in social media? Do you have separate identities for personal and work or school use? Do you integrate your personal and professional identities? Do you use different platforms for different purposes?  
+✔️ **Access and Inclusion** How does the platform you chose for the Major Project incorporate accessibility and inclusion principles. How are disabled people treated on the platform? Are there multiple ways people can consume or produce content to meet accessibility needs? How do you include those who might otherwise be excluded?  
+✔️ **Media Literacy, Trust, and Disinformation** Does your chosen platform have content moderation policies? Does it flag disinformation, or provide links to trusted resources? How do you ensure that you don't spread disinformation as misinformation? (Hint: this last question might require you to do a bit of legwork to learn about Media Literacy. [This resource should help - but don't try to read the whole thing!](https://webliteracy.pressbooks.com/))  
+
+You are encouraged to use your Wow and Wonder posts in these reflections.
+
+```

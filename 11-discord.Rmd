@@ -33,7 +33,7 @@ Both text and voice channels within a server can be created as private. This mea
 #### Viral Content {-}
 There are essentially two ways for content to go viral or gain more attention. 
 * Discord Nitro
-Although discord is a software that is free to download and use, the software offers a subscription service with Discord Nitro. This paid service offers a range of extended features, such as better customizable emojis and upload size for file sharing, but more importantly, it allows a server to be boosted. A boosted server will have both ​​performance and cosmetic improvements such as more emoji slots and better audio and screen sharing quality [6]. These features can help to create high quality and outstanding servers on discord and can largely improve the user experience within the server, which in turn helps to promote any content that is being distributed on the server and attract 
+Although discord is a software that is free to download and use, the software offers a subscription service with Discord Nitro. This paid service offers a range of extended features, such as better customizable emojis and upload size for file sharing, but more importantly, it allows a server to be boosted. A boosted server will have both performance and cosmetic improvements such as more emoji slots and better audio and screen sharing quality [6]. These features can help to create high quality and outstanding servers on discord and can largely improve the user experience within the server, which in turn helps to promote any content that is being distributed on the server and attract other members.
 * Expanding/advertising the server
 Another way of spreading the content or the server is through advertising the server itself. This is a very straightforward way of promoting the popularity or awareness of any content on a server. Spreading the server invitation on other social media platforms can be an effective way. Websites, such as top.gg and Discord.me, ranks servers based on different categories or popularity and allows the public to join the server directly. Another way that can help attract more users is diversifying the members within the server community. Attracting people from various backgrounds can promote a higher level of networking across different fields and the potential for the content to spread across wider areas.
 
@@ -74,6 +74,39 @@ Key takeaways:
 Discord is given a grade of E by ToSDR. Discord does track you and can read your messages. You have no right to a class action lawsuit against them, and in the case of a dispute, you are forced into binding arbitration. Discord can license user content to third parties. Benefits in Discord’s ToS include that it requires specific consent to share your information with third parties, you can request to access and have your personal data deleted, and they provide information regarding how they will use your data. Overall, by using Discord you relinquish your right to privacy regarding anything you say or do when using the service.
 
 ## Social Media and PLN in Education {-}
+### Interacting on Discord {-}
+Users can interact with other users using different features within Discord. A user can start Voice Calls, Video Calls, and DM other users. Users can use the “@” symbol in combination with a username to refer to other users. One may “react” to messages through the use of a large list of classic and animated emojis and memes using the Add Reaction (as depicted in the following screenshot). The platform also supports file sharing such as pdfs, Words docs, images, videos and more. 
+![Example of reacting to a message](assets/Discord/Example.png)
+One may also choose from a variety of other options using the ellipsis located in the far right corner of the message options as shown below.
+![Other message options](assets/Discord/Other.png)
+For video chats, up to 25 individuals can join one session at a time. Within a video session, one can either have their camera on or off, share their screens, and message each other.
+
+### Educational Accounts {-}
+One of the ways discord can help educators is through acting as a platform to encourage collaboration and discussion among learners. For members who actively engage in discussions, a well organized educational server can act as a personal learning network to engage with other learners and communicate on common topics.
+
+Code::together (https://discord.me/code)
+Code Together is a public educational server on the subject of programming and software development. Members of the server can range from absolute beginners to certified developers. It aims to act as a platform for sharing programming related resources and discuss specific programming problems or challenges. It also has channels for advertising personal or enterprise programming or software development projects. Just like other servers, any messages or posts can be quickly and easily responded to via emojis.Through observation, content is more likely to be responded to by others under channels with specific topics such as a programming language.
+
+The English Hub (https://discord.me/enghub)
+Leveraging the benefits of creating voice channels, discord can serve as a great platform for language learning. The English hub is a server targeted for English learning and sharing related resources. Learners at different proficiency levels can engage in discussions on a range of topics and communicate with members from various backgrounds. The text channels are designed with different discussion topics and useful English learning resources such as recommended readings and word-of-the-day. The voice channels act as chat rooms for practicing English speaking and are categorized by the level of proficiency from beginner to advanced.
+
+HINF Connect
+HINF Connect is one of the many servers under the University of Victoria server. The university server allows certified accounts users with university email to join clubs, social or study groups, and specific course or academic program servers created by members of the university. This establishes a convenient way for learners from the same program, course, or club to get together and share meaningful content to build a better and more networked university learning experience. The HINF Connect server was created by HINF students from the Class of 2021 but is joined by students from different years of study (including graduate students). Channels are organized by different HINF courses and voice channels act as a great source to conduct group studies. Other resources, including Co-op information, experience sharing from senior students, and industry news are valuable to learners studying in the HINF program.
+![Photo of UVic Server](assets/Discord/server1.png)
+![Photo of HINF Server](assets/Discord/server2.png)
+
+### Safety Concerns for Educators {-}
+To be able to access the Discord website and app, Discord requires its users to be 13 years old and up unless local legislation mandates an older age. To ensure that the age requirement is satisfied, upon creating an account, Discord will ask users to confirm their age. If a user is reported to be under the age requirement, they will be locked out until they can confirm their age with an official ID document. 
+
+Discord contains adult content and is not suitable for young children. Some servers and channels must be labeled as age-restricted for only people over 18 years old to have access.  When someone tries to enter the server, a warning will appear to confirm their age and let them know the server may contain graphic content. Servers that are not labeled- should be reported. 
+
+Discord encourages its users who are under 18 to activate their age-restricted content filter, Keep me safe. This allows Discord to scan images and videos that have been sent through direct messaging and block out any adult material or inappropriate behaviour. This filter can be accessed through the Privacy & Safety section in User Settings. Along with this, users are also able to block any users who they do not want to communicate with. 
+![Safety filter for Direct Messaging](assets/Discord/Safety.png)
+
+## Balancing your PLN and Public Discourse
+
+
+## Digital Identity, Access and Inclusion, and Media Literacy
 
 ## References {-}
 [1]   

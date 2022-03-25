@@ -1,1 +1,45 @@
 # RED 
+
+## Personas
+![Persona 1](assets/red/Persona1.png)
+![Persona 2](assets/red/Persona2.png)
+![Persona 3](assets/red/Persona 3.jpg)
+![Persona 4](assets/red/Persona 4.png)
+
+## Demographics
+Target Audience
+RED is a Chinese social media and e-commerce platform launched in 2013 with more than 300 million users and monthly active users on RED exceed 200 billion on 2021. Of RED’s 300 million users, about 80% are female and 70% are Millennials or members of Generation Z. Typically those using the app have higher than average disposable income. RED is used by Chinese people in China and around the world. We describe RED as a combination of Instagram, Pinterest and Amazon, where people can review products and share their shopping experiences with a vast community. Users post product photos with reviews and tips for other users to read, comment, and save to their boards as you would on Pinterest. Also, you can follow influencers and shop online within the RED app. 
+
+### Can non-users browse or search content?
+For non-users, if you download the app RED on your phone, you are required to create an account in order to browse and search within the platform. However, if you are using the RED’s website, you can have a quick browse of a few selected posts, but it is limited to 1 page, if you wish to browse or search more, you need to download the app. You can browse a post without creating an account only if when an existing users share the post as a link to you. 
+
+### How are users connected?
+On RED, if user wants to be connected to another user, you can simply follow them and you can follow anyone without them reciprocating. However, in terms of messaging, if the user you follow did not follow you back, you can only send three messages in total until they follow you back. 
+
+### Can content be shared privately and how is content shared?
+Yes, on RED, users can only the content privately use the following options: 
+  1.	Directly message to user you follow
+  Users can share the content as a direct message to any user you follow
+  2.	Generate a link or QR code
+  Users can also generate a link or a picture of QR code of the content they wish to share
+There is also an option to share publicly:
+  1.	Share via another social media platform
+  You can share the content via three Chinese social media platforms: Wechat, QQ and Weibo, RED will first get approved to connect itself to the app user     selected, then user can select if they want to share to the social media as a private message or a public post.
+![figure 1](assets/red/RED share.jpg)
+
+### How does content go viral?
+Content on RED can go viral if the post is in the Explore section, which means there will be more users can see the post because most of the users will only browse the Explore section. Also, including a hashtag in the post can also help content to go viral. The screenshot below is an example of the Explore section, and you can tell most of the posts went viral. 
+![figure 2](assets/red/RED Explore.jpg)
+
+### Company details
+RED is founded in Shanghai in 2013 as a user-generated content community, and RED completed Series D fundraising with a valuation of over 3 billion on 2018. The main investors are listed below: 
+![figure 3](assets/red/investors.png)
+
+### Reference
+[1] https://www.xiaohongshu.com/en
+[2] https://www.latmultilingual.com/blog/understanding-red-the-chinese-shopping-app/
+
+
+
+
+
