@@ -56,10 +56,32 @@ The company generate most of its revenue by showing digital advertisements. Face
 ^[[How do I add or remove hobbies from my Facebook profile?](https://www.facebook.com/help/378618582856718)]  
 
 ## Privacy and Surveillance  
-### A link to your platform’s ToS and Privacy Policy  
+### A link to your platform’s ToS and Privacy Policy
+fb Terms of Service: https://www.facebook.com/terms.php
+fb Privacy / Data Policy: https://www.facebook.com/about/privacy/previous
 
 ### Your key takeaways from your examination of your platform’s ToS and Privacy Policy  
+Given Facebook's history with information policy controversy, it surprised none of us to learn that the platforms's ToS and Privacy Policy allows for broad data collection and sharing as it relates to its users. Perhaps unsurprsingly, Terms of Service Didn't Read, a third-party website that assesses and ranks the ToS and Privacy Policies of major companies, gives Facebook an overall E grade. While this is not out of line for other big tech players - Amazon, Youtube, and Reddit all score similarly - the ranking is substandard and reflects little more than a superficial attempt to mask unsettling data management behaviours behind closed doors. Some of the more concerning practices include using cookies for the purpose of tracking, accessing user activity such as private messages and browser history, and sharing said information with third parties to assist targeted advertising.
 
+Although Facebook does allow users to set information as either public or private, and provides them with tools to further customize the visibility of this data, the platform assumes broad data collection and sharing positions that are carefully crafted to avoid adverse legal ramifications. Their data policy outlines the following reasons for user information collecting and sharing, all of which fall under the umbrella guise of "providing and supporting our Services":
+•	Provide, improve and develop Services
+•	Communicate with you
+•	Show and measure ads and services
+•	Promote safety and security
+
+Despite the seemingly (and perhaps in some cases, actual) innocuous nature of these justifications, our learning pod found the extent to which Facebook collects user information to be particularly disturbing. According to ToSDR, as per their data policy, Facebook collects "information about the people, pages, accounts, hashtags and groups you are connected to and how you interact with them across our products, such as people you communicate with the most or groups you are part of. We also collect contact information if you choose to upload, sync or import it from a device. [...]. We collect information about how you use our products, such as the types of content you view or engage with, the features you use, the actions you take, the people or accounts you interact with, and the time, frequency and duration of your activities." Maybe read that last sentence again. Facebook acknowledges they monitor and collect every minute detail of your online activity, from the people and material you engage with to the amount of time you spend doing so.
+
+Our concerns are shared with others, as evidenced by a DigitalTrends article titled, "Terms & Conditions: Facebook’s ‘Data Use Policy’ explained", in which the author Andrew Couts echoed similar sentiments. As it relates to Facebook's broad language on this issue, Couts found that the company will collect and use your data as long as it has either:
+•	received your permission
+•	told you it would do so (through the data policy) 
+•	or removed any personally identifiable information, such as your name
+As long as one of these three conditions has been met, Facebook reserves the right to use your information to "support our Services". That is broad and troubling language.
+
+As a learning pod, we don't have reason to believe there is some sinister plot to use our information beyond the obvious profit-driven, advertising means, however even being exploited towards that end is unsettling. With Facebook's entire business model being built around targeted marketing and advertising, the intentionally vague language of their ToS and privacy policy does little to assuage our data handling concerns.
+
+### References
+^ [[Terms of Service Didn't Read: Facebook](https://tosdr.org/en/service/182)]
+^ [[Terms & Conditions: Facebook’s ‘Data Use Policy’ explained](https://www.digitaltrends.com/social-media/terms-conditions-facebooks-data-use-policy-explained/)]
 
 ## Social Media and your PLN in Education  
 ### Describe how people are able to interact in your platform. Can people leave comments on content? Is there a quick and easy way to ‘Like’ or ‘favourite’ something? Who sees that ‘like?’ Do creators generally respond to comments on their content?    
