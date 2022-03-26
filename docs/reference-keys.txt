@@ -54,13 +54,13 @@ snapchat
 instagram
 personas-1
 demographics-6
-digital-identity-1
 privacy-and-surveillance-7
 trust-and-misinformation-1
 public-discourse-1
 education-1
+balancing-your-pln-and-public-discourse-3
 reflection
-digital-identity-2
+digital-identity-1
 access-and-inclusion-1
 media-literacy-trust-and-disinformation
 resources
@@ -69,7 +69,7 @@ persona-6
 demographic
 privacy-and-surveillance-8
 social-media-and-your-pln-in-education-2
-balancing-your-pln-and-public-discourse-3
+balancing-your-pln-and-public-discourse-4
 digital-identity-access-and-inclusion-and-media-literacy-including-trust-and-disinformation-1
 red
 personas-2
