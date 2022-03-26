@@ -44,6 +44,13 @@ As with any service, it's important to read the terms of service and privacy pol
 
 ## 6 Digital Identity {-}
 
+A digital identity is the body of information about an individual, organization or electronic device that exists online. People present themselves online and on social media differently based on the purpose of their use. For example, someone would want to look more professional on a business media, such as LinkedIn, to impress employers in comparison to posting jolly family photos on a personal media where people share more about their lifestyle, such as Facebook or Snapchat. 
+
+How do you present yourself in social media? 
+Do you have separate identities for personal and work or school use? 
+Do you integrate your personal and professional identities? 
+Do you use different platforms for different purposes?
+
 ## 7 Access and Inclusion {-}
 
 ## 8 Media Literacy (including Trust and Disinformation) {-}
@@ -52,5 +59,8 @@ As with any service, it's important to read the terms of service and privacy pol
 
 [1] https://snap.com/en-US/terms
 [2] https://snap.com/en-US/privacy/privacy-policy
+[4] https://snap.com/en-US/privacy/your-privacy
+[5] https://www.businessinsider.com/snapchat-privacy-policy-update-explained-2015-10
+[6] 
 
 
