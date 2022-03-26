@@ -25,7 +25,7 @@ Any video can be shared through a link. If the video is public and you have acce
 
 ### Major Investors {-}
 ![investors](assets/youtube/investors.png)
-Photo from: https://fourweekmba.com/who-owns-youtube/ 
+**Photo from: https://fourweekmba.com/who-owns-youtube/** 
 
 ### Revenue {-}
 There are a few ways that YouTube makes money. The first is through advertising. There are advertisements on YouTube's home page and throughout most of the videos on the site. YouTube also has a monthly subscription service called “YouTube Premium”, which gives them revenue as well. YouTube also developed tools to help eligible creators earn money in a variety of other ways, such as [Super Chat](https://support.google.com/youtube/answer/7288782), [channel memberships](https://support.google.com/youtube/answer/7636690) and [merchandise](https://support.google.com/youtube/answer/9158148). In most cases, creators and YouTube share revenue generated from these channels.
