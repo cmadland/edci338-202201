@@ -8,9 +8,8 @@
 
 ## Demographics 
 
-Target audiance (age, demogrraphics, political learnings, interests, hobbies)
-
-Instagrams target group is more so directed towards a younger demographic.It is demonstrated that 75% of users are between the ages of 18 and 24 years old. 
+✔️ Traget audiance (age, demogrraphics, political learnings, interests, hobbies)
+	Instagrams target group is more so directed towards a younger demographic. It is demonstrated that 75% of users are between the ages of 18 and 24 years old. 
  
 ✔️ Can non-users browse or search content?
 	A nonuser of Instagram can search up the account and browse through the content. Furthermore, a none user can also search up hashtags to find specific types of posts.
@@ -31,28 +30,24 @@ Instagrams target group is more so directed towards a younger demographic.It is 
 The parent company for Instagram is Facebook and it is a public company. 
 
 ✔️ Who are the major investors?
-	The major investors of Instagram are... 
-
+	Kevin Systrom and Mike Krieger founded instagram in 2010. Hoowever, Steve Anderson was the first Major investor in this platfrom as he provided the first cheque of $250,000.  	
+	
 ✔️ How does the company generate revenue?
-	The company generates revenue by advertising. In 2019  Instagram gained $20 billion in revenue.  It thrives off of the fact that it is geared around young adults. Furthermore, Instagram can get a higher number of individuals clicking on ads. Businesses have taken over on Instagram. Brands use this social media platform to advertise to a bigger audience. 
-
-## Digital Identity 
-Personally, I present my personal identity and school identity on Instagram as it is more casual in comparison to my work identity which is presented on LinkedIn. The reason for this is to keep my professional and work-related material and aspects of my life to demonstrate my accomplishments and present my qualifications to remain aligned with future goals and opportunities. I do keep my personal and school accounts generally proper. However, I am more relaxed about posting everyday experiences or the more social and adventurous aspects of my life. 
+	The company generates revenue by advertising. In 2019  Instagram gained $20 billion in revenue.  It thrives off of the fact that it is geared around young adults and these young adults enjoy finding new products to try. Furthermore, Instagram can get a higher number of individuals clicking on ads. Businesses have taken over on Instagram. Brands use this social media platform to advertise to a bigger audience they do this by partnering with celeberties or well known individuals order to advartise to the largets followings of young adults. 
 
 ## Privacy and Surveillance 
 ✔️ a link to your platform’s ToS and Privacy Policy
+
 Terms of use: https://www.instagram.com/about/legal/terms/before-january-19-2013/
 
-Privacy policy :
-https://help.instagram.com/519522125107875/?maybe_redirect_pol=0
+Privacy policy : https://help.instagram.com/519522125107875/?maybe_redirect_pol=0
 
 ✔️ your key takeaways from your examination of your platform’s ToS and Privacy Policy
-
-Some things I was able to find out about Instagram regarding how they use your data and/or tracks your movements were.. 
-~ information is collected specifically on the user of the platform
-~messages, the information you share, communication with others. 
-~location of a photo, and the date a file was created.
-~what you see through features Instagram provides,ie, camera,  
+	Some things I was able to find out about Instagram regarding how they use your data and/or tracks your movements were.. 
+~Information is collected specifically on the user of the platform. for eeexamplee, ones messages, the information you share, and communication with others. 
+~Location of a photo, and the date a file was created.
+~What you see through features Instagram provides,ie, camera, filteers etc. is all tracked and seen by those who run the platform.  
+~Much of this information is to collect data and provide you with ads related to the content you observe.
 
 ## Trust and Misinformation 
 Instagram works with third party fact checkers to identify, review and label false information. Additionally, instagram also has multiple community guidelines for user motivation to continue being an authentic and safe platform. 
@@ -97,7 +92,7 @@ Notable, high-profile individuals have a chain of social media accounts, includi
 ## Reflection 
 
 ### Digital Identity 
-Personally, I present my personal identity and school identity on Instagram as it is more casual in comparison to my work identity which is presented on LinkedIn. The reason for this is to keep my professional and work-related material and aspects of my life to demonstrate my accomplishments and present my qualifications to remain aligned with future goals and opportunities. I do keep my personal and school accounts generally proper. However, I am more relaxed about posting everyday experiences or the more social and adventurous aspects of my life. 
+Personally, I present my personal identity and school identity on Instagram as it is more casual in comparison to my work identity which is presented on LinkedIn. The reason for this is to keep my professional and work-related material and aspects of my life such as my accomplishments and my qualifications to remain aligned with future goals and opportunities. I do keep my personal and school accounts generally formal as well. However, I am more relaxed about posting everyday experiences or the more social and adventurous aspects of my life on my personal platforms. I do belive using a social patform is very beneficial for peofessional use. In the reading by Rajagopal, et al. 2012, for my first Wow and Wonder post I was facinated to understand how big of a role the three-layered approach proposed by Grabher and Ibert (2008) placed on networking in a profssional setting. the importance of the communality layer/strong ties, sociality layer/weak ties, and connectivity layer/very weak ties when building these connections in aa work place and lead to moorre mentor based relationships that can aid in furthuring ones career and avoiding making mistakes when making bigger career based decisions. 
 
 ### Access and Inclusion 
 Inclusive design aims to provide the user with a good experience. It is known as shifting away from the idea of “one-size-fits-all”. And moving towards creating a design for a diverse range of users. Accessibility on social media platforms is in relation to recognizing exclusion and displaying information in a clear manner. 
@@ -130,3 +125,6 @@ https://www.instagram.com/about/legal/terms/before-january-19-2013/
 https://help.instagram.com/519522125107875/?maybe_redirect_pol=0
 https://files.eric.ed.gov/fulltext/EJ1223776.pdf
 https://about.instagram.com/blog/announcements/introducing-new-ways-to-protect-our-community-from-abuse
+https://www.forbes.com/sites/ryanmac/2016/03/23/steve-anderson-baseline-ventures-instagram-venture-capital-raver/?sh=4e45a62a354d
+https://www.crunchbase.com/organization/instagram
+https://firstmonday.org/ojs/index.php/fm/article/view/3559/3131
