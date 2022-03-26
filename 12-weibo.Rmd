@@ -2,6 +2,144 @@
 
 ## Persona {-}
 
-![Jack Chen](assets/weibo/Jack persona.png)
+![Persona1](assets/Weibo/persona1.png)
+![Persona2](assets/Weibo/persona2.png)
+![Persona3](assets/Weibo/image1.png)
+![Persona4](assets/Weibo/jap.png)
 
 ## Demographics {-}
+
+###  Describe your chosen platform in significant detail, including, as available (Wikipedia may be a good source for some of this info):
+
+Sina Weibo is a Chinese social media site. As a microblogging app that launched on August 14, 2009, it has become one of the largest social media platforms in China. In March 2014, Sina Weibo was spun off as a separate entity simply called “Weibo”. In November 2018 Weibo suspended the registration of minors under 14 years old on Weibo. Besides, Weibo is mainly used as a platform to cultivate user relationships and then share, spread, and receive information. Weibo opened its popularity at the beginning by inviting a large number of celebrities to join. As the user base grew, it continued to invite media professionals, government agencies, NGOs, and corporations t✔ Content Sharing
+o sign up Weibo to post and disseminate information.
+
+### ✔️ Target Audience
+
+There are more than 462 million monthly active users in 2018. According to statistical data analysis, the age group distribution of Chinese Sina Weibo users in 2020 is between 14 and 75 years old. 30% of Sina Weibo users in China are under 20 years old, 48% are 30-39 years old, 18% are 40-49 years old, 3% are 50-59 years old and 1% are over 60 year old. Weibo does not restrict the age of users but will ask for identity verification to make sure it is not a minor.Weibo are more uniform in their political leanings, as posting sensitive political statements can easily be blocked and deleted. Moreover, many international companies have registered Weibo official  accounts to post advertisements of their brands, which is also an excellent way to promote their brands. In other words, Sina Weibo not only becomes a crucial part of the younger generation’ daily life, but also becomes a useful marketing tool for the advertising market in China.
+
+For users with different interests, Weibo provides different categories of topic or community discussions. So we can see many types of people on Weibo, such as the government, self-media, celebrities, painters, and corporations. Even for non-users, they are able to browse and search content on Weibo; they mostly use Weibo to read the latest news, watch their favorite videos and stories.
+
+### ✔️ The Connection among Users
+
+In terms of the connection between Weibo users, they are able to follow their favorite users without the reciprocation from them. They can communicate by commenting on the posts by texts and images; they can also have private chats to connect their favorite users. Furthermore, abundant fun emojis, stickers, and GIFs increase the engagement, and promote the connection between Weibo users.
+
+## Content 
+
+### ✔ Content Sharing
+
+Weibo content can be shared privately. Even the private sharing function and private retweeting function of Weibo are well done. For example, Weibo users can set up groups so that the content they post can only be seen by the people they specify.
+
+The content can be shared through a variety of ways. For example, Weibo users can upload their Weibo stories and texts to share their daily life, and their visitors and followers are able to show their Likes and Comments on the post. They can also repost their favorite contents with the reference of the original authors. Moreover, Weibo users are also able to join topic groups, such as painting groups and cat groups. In the groups, they post some relevant images and keywords to entertain and help each other. Besides, Weibo users are also allowed to hold and watch live-streaming sessions to acquire and share the latest news and events; they can even do online shopping on the live-streaming videos. Therefore, Weibo provides excellent ways to foster communication among Weibo users.
+
+### ✔️ Viral Content
+
+The functions on Weibo such as Like, Comment, and Repost allow the information to go viral. The more people comment and repost on a post, the faster the information is disseminated. Moreover, the news posted by the official accounts and government accounts are recommended on Weibo’s home page, which can accelerate the spread of the vital information. 
+
+## Company and Business
+
+Weibo is a public company. Sina Weibo went public on April 17,2014, with Sina taking an 11% stake in Weibo in the IPO and Alibaba owning 32% after the IPO.
+
+### ✔️ Major Investors
+
+6.12% of Shares Held by All insider
+46.36% of Shares Held by institutions
+49.38% of Float Held by Institutions
+Top Institutional Holders:
+Bank of America Corporation
+Alibaba Group Holding Ltd
+Morgan Stanley
+Top Mutual Fund Holders:
+Allspring Emerging Markets Equity Fund
+
+### ✔️ Revenue Generating
+
+The profit model of Weibo is mainly advertising commission, which is very similar to Facebook. Through the user’s search and information to better understand the customer, and then recommend relevant ads to the user. In addition, this includes watching videos. It is also a revenue point to go to other websites’ shopping platforms through Wei
+Weibo’s ToS:https://weibo.com/signup/v5/protocol
+Weibo’s privacy policy:https://mobile.biz.weibo.com/static/html/privacy.html
+
+your key takeaways from your examination of your platform’s ToS and Privacy Policy:  How do we collect and use your personal Information. Cookie and related technologies. How do we entrust, share, transfer and publicly disclose your personal information? How do we protect your personal Information. How do we store your Personal Information. Your personal information rights. How do we collect and process the personal information of minors? Update of this policy.  How can I contact weibo? To the extent permitted by laws and regulations, users agree and authorize weibo operators to take legal actions in any form, including but not limited to complaints, lawsuits and other necessary rights protection measures, against acts infringing users' legitimate rights and interests (including but not limited to unauthorized copying, use, editing and plagiarism). Weibo has the right to terminate the service if users violate the usage rules. The conclusion, execution, interpretation and dispute resolution of this Agreement shall be governed by the laws of the Mainland of the People's Republic of China.bo advertising pages. Besides, videos are also profitable when they reach a certain number of plays and likes.
+
+### ✔️ Other Pertinent Information
+
+China’s established Chinese firewall and Internet censorship. As a result, Western mainstream social media cannot enter China. This is also a means for China to promote economic development and political correctness.
+
+## Privacy and Surveillance
+
+### ✔️ a link to your platform’s ToS and Privacy Policy
+
+Weibo’s ToS:https://weibo.com/signup/v5/protocol
+Weibo’s privacy policy:https://mobile.biz.weibo.com/static/html/privacy.html
+
+your key takeaways from your examination of your platform’s ToS and Privacy Policy:  How do we collect and use your personal Information. Cookie and related technologies. How do we entrust, share, transfer and publicly disclose your personal information? How do we protect your personal Information. How do we store your Personal Information. Your personal information rights. How do we collect and process the personal information of minors? Update of this policy.  How can I contact weibo? To the extent permitted by laws and regulations, users agree and authorize weibo operators to take legal actions in any form, including but not limited to complaints, lawsuits and other necessary rights protection measures, against acts infringing users' legitimate rights and interests (including but not limited to unauthorized copying, use, editing and plagiarism). Weibo has the right to terminate the service if users violate the usage rules. The conclusion, execution, interpretation and dispute resolution of this Agreement shall be governed by the laws of the Mainland of the People's Republic of China.
+
+Based on the terms of service of Weibo, it is evident that users are not allowed to sell or rent their accounts, and if discovered, they will be deactivated. It is also apparent that the organization can entrust its services to a third party or its affiliates and does not need to inform the user for authorisation. From the terms of service, it is clear that the registered user is responsible for the content posted on their specific pages and how they use the services (Arsarkij & Laohajaratsang, 2021). The content posted by the individual should comply with the set rules, laws, and regulations. The platform is not responsible for any information or content provided by an individual. The terms of service state that the platform may be changed from time to time at the discretion of the organization. The platform may also refuse to distribute or remove content on the platforms if they do not comply with the set regulations. There are also some services on the platform that are paid network services, and as such, a fee should be paid for the users to access. 
+
+## Social Media and your PLN in Education
+
+### ✔️ The Interaction between Users
+
+People choose to interact with others through a variety of ways, which depend on their personal preferences. Some people tend to text with pictures and emojis,  and others may choose to post videos to share their current moods and daily life. In terms of the time limit of the posted videos, they should be within 15 minutes. Meanwhile, the viewers are able to make comments on content to express their opinions, which is a nice way to foster communication among people. The viewers can also repost their favorite contents with the references of the original authors so that more people are going to engage in the hot topic. 
+
+Moreover, the viewers can show their likes of their favorite contents by  pressing the “Like” button. They usually show their likes when they notice some humorous topics. They can also search their interested topics on Weibo’s search area, which helps people quickly find their favorite contents. In addition, everyone on Weibo is able to see the likes and comments of contents when the creators are not showing their posts in a private setting. The creators generally respond to comments, and interesting and thoughtful comments easily attract them to reply. Besides, people can also chat privately on the dialogue page, which allows them to have a one-to-one communication.
+
+### ✔️ Typical Users:  Educators 
+
+Educators can register an account with Weibo and share their content on the platform. There are all types of bloggers on Weibo, such as culture, make up, cook food, photography, and so on. They have an audience of people who want to learn this type of knowledge. The bloggers all read the comments of the audience and answer their questions. This approach improves the quality of the video and communicates well with the audience. Most educators use Weibo to create
+
+### ✔️ Feedback from Weibo Posts
+
+We made separate posts about the same life tips on different Weibo accounts,  which is 'Do you know what your standard weight is? ' and 'How to calculate your BMI'. After the release, it can be seen that the age group of active users of Weibo is 16-35 years old. The ages of our characters are 18, 25, 32, 46 and 58. By comparing posts 18, 25 and 32 have more replies to posts, and 58 has few replies. People are very interested in the weight corresponding to height at different ages, and they are more interested in learning about physical health. Users between the ages of 14 and 30 are concerned about whether their body is in good shape, and most users over 30 are concerned about whether they are overweight. And most of the people who reply to the posts published in each age group are people of the corresponding age group. Over 77% of Weibo users are aged 14-40, and most people who use the software want to get news, entertainment and daily life information.
+
+### ✔️ Educators’ Concerns on Weibo
+
+The management of Weibo is very strict. For example, sensitive words are not allowed, posts will be deleted if disinformation is posted, and accounts will be blocked in serious cases. However, the privacy issue of Weibo may not be solved very well, because nowadays, not only the phone number but also the ID and name of the person are required to register Weibo. The purpose of this is for the healthy development of youth education and better targeting of those who post disinformation. Overall, there are pros and cons. Therefore, educators need to be aware of these issues at all times in order to develop a better platform.
+
+### ✔️ More Information for Educators 
+-Weibo is a social media, networking platform where users can share information with each other. 
+-Weibo is characterized by fast information distribution and wide dissemination; it shows the top 50 daily hot topics, which include the worldwide news and events. 
+-Weibo is good for marketing and can be a shipping platform for business people to promote their products and audience. In other words, it allows people to do online shopping.
+-Weibo videos are prohibited to upload videos containing pornographic, illegal, infringing, and other bad content.
+-Weibo offers a teenager mode. After turning it on, parents are able to control the usage time and the recommended contents on Weibo. Meanwhile, more educational and academic information are revealed on Weibo’s homepage, rather than the entertainment topics.
+
+## Balancing your PLN and Public Discourse
+
+### How do notable, high-profile individuals use social media?
+
+In Weibo, the function of high-profile individuals using Weibo is to bring more attention to themselves. When some fans know that their favorite idols start to share their life and photos online, they will always pay attention and bring some topics for them. When they have new tv shows or albums, Weibo is a good platform for publicity, which can also be seen by some people who do not know them and attract more people's attention.
+
+High-profile individuals and celebrities use their social media platforms differently than regular people. They utilize social media platforms, mostly like brands, where they market their products on such platforms. In this case, high-profile individuals or celebrities will utilize these platforms to market their content, movies, or music (Yoakam, 2019). The platforms are used in such a way that they draw attention to their work, and they also receive feedback regarding their work. There is also the chance for these individuals to express themselves. 
+
+### What are the benefits to being in the public eye and having a PLN?
+
+The benefit is that you can see yourself through the public eye and you can see the public from a personal point of view.
+It is essential to be on a PLN and in the public eye because it helps in the development of relationships. Through a PLN, an individual can ask for information and get valuable feedback from peers (Arsarkij & Laohajaratsang, 2021). It is also possible to share content you have developed and other information enhanced through feedback from peers. Through a PLN, an individual can also increase their flexibility because you are able to decide the regularity of connecting with the online community. 
+
+### Limitations and Benefits of Weibo
+
+The community built using online social media has certain limitations, and all the software used in China is monitored by the government, so this leads to some limitations. China does not allow inappropriate remarks on social media, such as insulting the country, illegal, pornography, etc. are all illegal content. If people want to discuss some sexual knowledge with community members on Weibo, post with overly pornographic words and the post will be deleted by Weibo administrators. There is absolutely no problem discussing national politics and gender relations on Weibo. But if you want to search on Weibo for specific drug words like marijuana, white powder, or cocaine, you won't find them, which are all illegal words (drugs are illegal in China). Searching for 'drugs' can find some videos and articles of police anti-drugs, as well as knowledge of drug popularization. There are many minors on Weibo, so that they can grow up healthy and stay away from pornography, gambling and drugs. And people tend to get more positive feedback when they search for keywords to learn more relevant news or knowledge. Weibo management is very strict, and abusive and abusive words are prohibited. This is also a benefit, making the whole community more positive and harmonious.
+
+One of the restrictions of using online tools provided by the employer is that the work environment can be considered repressive by the employees, and this can work towards the damage of employee morale and confidence (Yoakam, 2019). However, the implementation of these tools helps improve the productivity of individuals at the workplace because time is not spent on other platforms.
+
+### Delivering information in a connected society requires verifiable resources, how can you ensure that you build a PLN you can rely on?
+
+According to ToS, Weibo is protected by the laws of the People's Republic of China. Anyone spreading rumors on Weibo will be punished by law and restricted by the platform. You can file a lawsuit when you are threatened or treated unfairly on the platform. In order to ensure the safety of each user and trust platform must strictly require each user's rules of use. 
+
+To build a reliable PLN, an individual needs to open a Weibo account that allows the individual to follow and engage educators they admire. The individual may also start blogging their ideas, which helps connect with a broader community of teachers (Arsarkij & Laohajaratsang, 2021). For veteran storytellers to reduce the possibility of sharing misinformation, they should engage teachers of similar topics because they have already researched. The veteran storyteller should also explore current events that are considered hot-button. 
+
+## Avoid Misinformation
+
+Authors usually include a description of the source of the story when they tell it. To avoid the risk of misinformation on Weibo, most people write something at the end of the story to avoid misunderstandings, such as the above story is adapted from a true story or the content of the story contains personal opinions for reference only. Most microbloggers usually talk to viewers in the comments section when they post articles or stories on microblogs, which is one way to avoid misinformation. Another way is to look up certain information from other software or websites before starting the story, and adding the reference at the end.
+
+## References
+
+https://tenbagroup.com/what-is-sina-weibo-know-your-chinese-social-media/  
+https://en.wikipedia.org/wiki/Sina_Weibo 
+https://www.statista.com/statistics/320940/china-sina-weibo-user-breakdown-by-age-group/
+https://blogs.lse.ac.uk/impactofsocialsciences/2020/03/26/weibo-how-is-chinas-second-largest-social-media-platform-being-used-for-social-research/ 
+https://www.dragonsocial.net/blog/chinese-social-media-weibo-and-twitter-comparison/ 
+https://finance.yahoo.com/quote/WB/holders/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANfp3GIqiNOywMzMyw3p5HWxVgZmFc7LHEpxY2Og7GCqmbZHbVwXmsz67B4fmpFADiCYo37T-jJCW6QZE65Lt5CQ5SDVYAbDzi4phXPuNxr3FJ5H6nPNM0-lt2HDAdYAeBiwwqfrxkFYhvVYgnmgFtDFNETUb_AQnpEalQbNOJep
+https://weibo.com/signup/v5/protocol
+https://mobile.biz.weibo.com/static/html/privacy.html
+Arsarkij, J., & Laohajaratsang, T. (2021). A Design of Personal Learning Network on Social Networking Tools with Gamification for Professional Experience. International Journal of Emerging Technologies in Learning (iJET), 16(18), 53-68. 
+Yoakam, E. M. (2019). Staff members’ perceptions of the usefulness of their personal learning network on Twitter (Doctoral dissertation, Baker University). 
