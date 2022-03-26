@@ -1,3 +1,37 @@
 # LinkedIn
 ## Persona
 ![Persona1](assets/LinkedIn/persona1.png)
+
+## Demographics 
+
+✔️ Target audience (age, demographics, political leaning, interests, hobbies, etc)
+-LinkedIn has 675+ million users worldwide. Their users tend to be over 18 years old. Their users are looking for jobs or maintaining relationships at work. According to user surveys in the United States, up to 37% of users are 46-55 years old.
+
+✔️ Can non-users browse or search content?
+-Non-users can browse and use the search function. Comments and conversations require registration to use.
+
+✔️ How are users connected (e.g., on some platforms, you request a connection which needs to be accepted, but on others, you can follow anyone without them reciprocating)
+-Users in Linkedin need to add each other as friends before they can chat privately. There's also a premium service that sends messages directly to strangers, but there's a monthly limit.
+
+✔️ Can content be shared privately?
+-Yes, Linkedin can choose to make your posts public or only to your friends.
+
+✔️ How is content shared?
+-Users can choose to post their own posts, and if the content is public, it will appear on your profile page. Users also can share content by leaving comments in other people's posts. Users can also private message content to designated users (friends must be required).
+
+✔️ How does content go viral?
+-Linkedin users can post their own public posts, which are seen by strangers when others search for keywords related to your posts. If your post is viewed and commented on by a large number of people, it will appear further up the page and more likely to be seen by strangers. Some big corporate posts are also very influential because they have a large following.
+
+✔️ Is the parent company public or private?
+-The parent company for Linkedin is Microsoft and it is a public company.
+
+✔️ Who are the Founders?
+-Reid Hoffman & Eric Ly
+
+✔️ How does the company generate revenue?
+-Linkedin generates revenue through advertising, offering talent solutions, marketing solutions, and premium accounts.
+
+## Privacy and Surveillance 
+
+## References: {-} 
+1.https://blog.hootsuite.com/linkedin-demographics-for-business/
