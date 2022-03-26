@@ -7,36 +7,16 @@ Snapchat is a popular messaging app that lets users exchange pictures and videos
 
 ## 2 Demographic Information {-}
 
-### 2.1
-### ✔️ target audience (age, demographics, political leaning, interests, hobbies, etc)
-#### okay. picasso.
-
-### ✔️ can non-users browse or search content?
-
-### ✔️ how are users connected (e.g., on some platforms, you request a connection which needs to be accepted, but on others, you can follow anyone without them reciprocating)
-
-### ✔️ can content be shared privately?
-
-### ✔️ how is content shared?
-
-### ✔️ how does content go viral?
-
-### ✔️ is the parent company public or private?
-
-### ✔️ who are the major investors?
-
-### ✔️ how does the company generate revenue?
-
-### ✔️ any other pertinent information…
-
-
 ## 3 Privacy and Surveillance {-}
 
 ### 3.1 Link your platform's ToS and Privacy Policy
 
-Snapchat's 
+Snapchat's Terms of Service: https://snap.com/en-US/terms
+Snpachat's Privacy Policy: https://snap.com/en-US/privacy/privacy-policy
 
-### Key takeaways the platform’s ToS and Privacy Policy
+### 3.2 Key takeaways the platform’s ToS and Privacy Policy
+
+
 
 ## 4 Social Media and your PLN in Education {-}
 
@@ -48,7 +28,9 @@ Snapchat's
 
 ## 8 Media Literacy (including Trust and Disinformation) {-}
 
+## References {-}
 
-
+[1] https://snap.com/en-US/terms
+[2] https://snap.com/en-US/privacy/privacy-policy
 
 
