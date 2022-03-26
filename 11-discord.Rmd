@@ -75,7 +75,7 @@ Discord is given a grade of E by ToSDR. Discord does track you and can read your
 
 ## Social Media and PLN in Education {-}
 ### Interacting on Discord {-}
-Users can interact with other users using different features within Discord. A user can start Voice Calls, Video Calls, and DM other users. Users can use the “@” symbol in combination with a username to refer to other users. One may “react” to messages through the use of a large list of classic and animated emojis and memes using the Add Reaction (as depicted in the following screenshot). The platform also supports file sharing such as pdfs, Words docs, images, videos and more. 
+Individuals can interact with others using the many features offered within the platform. A user can start Voice Calls, Video Calls, and DM other users. Users can use the “@” symbol in combination with a username to refer to other users. One may “react” to messages through the use of a large list of classic and animated emojis and memes using the Add Reaction (as depicted in the following screenshot). The platform also supports file sharing such as pdfs, Words docs, images, videos and more. 
 ![Example of reacting to a message](assets/Discord/Example.png)
 One may also choose from a variety of other options using the ellipsis located in the far right corner of the message options as shown below.
 ![Other message options](assets/Discord/Other.png)
