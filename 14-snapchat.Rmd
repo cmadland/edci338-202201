@@ -9,14 +9,34 @@ Snapchat is a popular messaging app that lets users exchange pictures and videos
 
 ## 3 Privacy and Surveillance {-}
 
-### 3.1 Link your platform's ToS and Privacy Policy
+### 3.1 Link to Snapchat's ToS and Privacy Policy
 
 Snapchat's Terms of Service: https://snap.com/en-US/terms
 Snpachat's Privacy Policy: https://snap.com/en-US/privacy/privacy-policy
 
-### 3.2 Key takeaways the platform’s ToS and Privacy Policy
+### 3.2 Key takeaways of Snapchat's ToS and Privacy Policy
 
+#### 3.2.1 How they gather information
 
+First, they learn about you when you use their service. While you may not tell them you’re a sports fan, if you’re always watching basketball highlights on Discover and your Bitmoji is wearing your team colors, it’s a safe guess.
+
+Second, they learn from whatever information you choose to give them. For example, when you set up a Snapchat account, we learn your birthday, email address, and the unique name you’d like to go by.
+
+Third, they sometimes learn about you from other people and services. For example, if a friend uploads their contact list, they might see your phone number. Or, if you tap on an ad for a video game, the advertiser may let them know that you installed it. 
+
+#### 3.2.2 How they share information
+
+When Snapchat shares information, it’s usually because you ask them to — like when you access Snap Map or send a Chat to a friend. Some of your information, like your username and Snapcode, is visible to the public by default.
+
+#### 3.2.3 How they store information
+
+Snapchat is about living in the moment. That's why when you send a Snap or Chat, it's deleted by default after it's viewed or expires. Messages may remain if you or your friends saves them in chat. 
+
+#### 3.2.4 Grey area about Snapchat's Privacy Policy. 
+
+Snapchat had a recent privacy policy update where they collect log information such as details about how you’ve used our services, device information such as your web browser type and language, access times, pages viewed, IP address, identifiers associated with cookies or other technologies that may uniquely identify your device or browser and pages you visited before or after navigating to our website.
+
+As with any service, it's important to read the terms of service and privacy policy you agree to. Thankfully, Snapchat's is written without much of the legal jargon companies frequently use to obfuscate their shady tactics.
 
 ## 4 Social Media and your PLN in Education {-}
 
