@@ -12,7 +12,7 @@
 
 ## Demographics  
 ### Target audience (age, demographics, political leaning, interests, hobbies, etc.)    
-Age: In the U.S., 63% of adults (12+) use Facebook and users aged 18+ spend an average of 34 minutes per day on the social media platform. An important note about Facebook’s advertising audience is that there is a good focus on almost all the age groups. Primarily, however, 32% of Facebook’s advertising audience are people aged 25-34.  
+Age: In the U.S., 63% of adults (12+) use Facebook and users aged 18+ spend an average of 34 minutes per day on the social media platform. An important note about Facebook’s advertising audience is that there is a good focus on almost all the age groups. Primarily, however, 31% of Facebook’s advertising audience are people aged 25-34.  ^[[19 facebook demographics to inform your strategy in 2022](https://blog.hootsuite.com/facebook-demographics)]    
 Demographics: Amazingly, nearly a third of world’s population uses Facebook at least once a month. Although other social media platforms like TikTok have had a rising popularity over last several years, Facebook is still managing to get engagement from many users around the world. In addition, in terms of gender statistics, 56% of Facebook users are male with 44% being female. Interestingly, nearly 82% of college graduates are on Facebook and are much more likely to use the platform compared to high school graduates. ^[[63 Facebook Statistics You Need to Know in 2022](https://www.omnicoreagency.com/facebook-statistics/)]  Lastly, as of January 2022, India has the greatest number of users on Facebook (329.65 million), followed by the U.S. (179.65 million). ^[[Leading countries based on Facebook audience size as of January 2022](https://www.statista.com/statistics/268136/top-15-countries-based-on-number-of-facebook-users/)]
 Political Leaning: Facebook certainly tracks political views of its users and assigns political labels. However, it’s important to note that 73% of people believe that their assigned political label is accurate whereas 27% believe that their political label is inaccurate and doesn’t correctly reflect their political views. In spite of all this, 35% of Facebook users are assigned as liberals, 35% are assigned as conservatives, and the rest (29%) are assigned as moderate.  ^[[Facebook Algorithms and Personal Data](https://www.pewresearch.org/internet/2019/01/16/facebook-algorithms-and-personal-data/)]       
 Interests:  
@@ -42,9 +42,6 @@ According to Investopedia, the major insider shareholders are Michael Schroepfer
 The company generate most of its revenue by showing digital advertisements. Facebook’s business model is explained simply by Mark Zuckerberg in the video below.  ^[[Senator Asks How Facebook Remains Free, Mark Zuckerberg Smirks: ‘We Run Ads’ | NBC News](https://www.youtube.com/watch?v=n2H8wx1aBiQ)]  
 
 [![Senator Asks How Facebook Remains Free, Mark Zuckerberg Smirks: ‘We Run Ads’ | NBC News](https://i.ytimg.com/vi/n2H8wx1aBiQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=n2H8wx1aBiQ)  
-
-### References
-^[[19 facebook demographics to inform your strategy in 2022](https://blog.hootsuite.com/facebook-demographics)]   
 
 ## Privacy and Surveillance  
 ### A link to your platform’s ToS and Privacy Policy
