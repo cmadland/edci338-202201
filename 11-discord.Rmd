@@ -83,7 +83,7 @@ For video chats, up to 25 individuals can join one session at a time. Within a v
 
 ### Educational Accounts {-}
 One of the ways discord can help educators is through acting as a platform to encourage collaboration and discussion among learners. For members who actively engage in discussions, a well organized educational server can act as a personal learning network to engage with other learners and communicate on common topics.
-
+![Interaction post](assets/Discord/post1.jpeg)
 Code::together (https://discord.me/code)
 Code Together is a public educational server on the subject of programming and software development. Members of the server can range from absolute beginners to certified developers. It aims to act as a platform for sharing programming related resources and discuss specific programming problems or challenges. It also has channels for advertising personal or enterprise programming or software development projects. Just like other servers, any messages or posts can be quickly and easily responded to via emojis.Through observation, content is more likely to be responded to by others under channels with specific topics such as a programming language.
 
@@ -103,17 +103,16 @@ Discord contains adult content and is not suitable for young children. Some serv
 Discord encourages its users who are under 18 to activate their age-restricted content filter, Keep me safe. This allows Discord to scan images and videos that have been sent through direct messaging and block out any adult material or inappropriate behaviour. This filter can be accessed through the Privacy & Safety section in User Settings. Along with this, users are also able to block any users who they do not want to communicate with. 
 ![Safety filter for Direct Messaging](assets/Discord/Safety.png)
 
-## Balancing your PLN and Public Discourse
+## Balancing your PLN and Public Discourse {-}
 
-### How High-Profile Individuals use Discord
+### How High-Profile Individuals use Discord {-}
 As Discord is heavily used by those who play video games, many notable individuals on the platform are in some way related to the video game industry. Many popular YouTubers also have their own Discord servers. Most of these influencers leverage Discord to personally interact with their audience, create a gathering place for fans to interact with one another, and to share related content. Typically, popular influencers create public servers so all of their fans can participate, but some individuals might restrict access in a private server and only grant access to specific individuals (ex: some fans might have to sign up for the influencer’s Patreon in order to be invited to their private Discord group). Unlike most other social media platforms, the discussion features of Discord (chat, voice chat, etc.) are synchronous, meaning users can interact with one another in real-time, leading to improved engagement and conversation in specific communities.
 Popular influencers running their own Discord server usually need to enlist a few moderators to ensure that the server is a safe environment for all of those within it.
 
-### Benefits of Being in Public Eye
+### Benefits of Being in Public Eye {-}
 Most Discord users use the platform because of its anonymity in comparison to other social media platforms, but there are some benefits to having an identifiable public profile for specific individuals. As previously mentioned, popular influencers can host their own servers to create a community where they and their audience can interact with one another. Individuals who run a business might also want to opt for a public profile to attract possible customers, attain customer feedback, and for marketing purposes [13]. Students might want to use their real names to connect with their classmates to discuss their classes, assignments, events, and more.
 
-### Building community with online tools provided by an employer
-
+### Building community with online tools provided by an employer {-}
 Possible restrictions:
 The tools provided may not be ideal for building community
 The kind of people you are trying to reach may not use the tools your employer has provided
@@ -123,16 +122,19 @@ Possible benefits:
 Money may be saved if the employer is paying for the tools
 Better opportunity to connect with coworkers
 
+### Verifiable resources and reliable PLN
 On Discord, public servers can attract members with various backgrounds and the quality of information can be largely uncertain. However, in well-established and organized Discord servers, users can have different roles or tags based on different levels of knowledge or proficiency towards a subject. For example, members of the Code::together server can have the role of a Certified Developer, Moderator, Partner, etc. Tags can be viewed by anyone and can be indicated by displaying different colours on the user name. The collection of roles all hold their different purposes and one can apply for a role after achieving certain requirements. This helps to build one’s credentials and level of authority when publishing any resources and content.
+![Different roles](assets/Discord/roles.jpeg)
 
 Another way one can build or join a reliable network is through a Verified Server. A Verified Server represents that it is an ‘officially affiliated community of a business, brand, and figure of public interest’, and is presented with a verification icon [14]. The verification process requires the applicant to provide proof of official affiliation with the business or entity as well as the presence of other formal identifications such as websites and social media. Looking for a verified server when obtaining resources can help to ensure the content is more authentic and interact with official representatives from the business or entity.
+![Verified server](assets/Discord/verified.png)
 
 ✔️ How do those who are veteran story tellers minimize the risk of sharing misinformation?
 
 
-## Digital Identity, Access and Inclusion, and Media Literacy
+## Digital Identity, Access and Inclusion, and Media Literacy {-}
 
-### Digital Identity 
+### Digital Identity {-}
 With social media and online platforms rapidly advancing, we engage with them in both personal lives and professional settings. Therefore, it is important to separate the use of social media under different settings or environments, giving us the opportunity to interact with digital tools under different identities. 
 
 Commonly, during work or in other professional settings (i.e., universities), we are provided with designated channels of communication, such as Brightspace, WordPress, and Microsoft Teams. Separating the use of different tools actively provides us with the opportunity to differentiate interactions between work/study and personal life. However, this may not be the case if one social media platform is being utilized in different ways. For example, we can have both professional and personal Discord servers on one account, or have group chats with both friends and work colleagues on Messenger.
@@ -141,8 +143,7 @@ Different platforms can also influence the extent to which we present our ‘rea
 
 However, it is worth realizing that sometimes it is not easy to explicitly differentiate our personal and professional identities. One might want to take advantage of some of their professional achievements or profile and use that to promote their level of influence or popularity in other fields of personal interest. For example, a professional software developer could earn more respect when engaging with friends on a gaming network.
 
-
-### Access and Inclusion 
+### Access and Inclusion {-}
 How does the platform you chose for the Major Project incorporate accessibility and inclusion principles. How are disabled people treated on the platform? Are there multiple ways people can consume or produce content to meet accessibility needs? How do you include those who might otherwise be excluded?
 
 Discord has a dedicated Accessibility section, which can be found in User Settings > App Settings > Accessibility. There are options for reduced motion, auto-playing GIFs, playing animated emojis, and text-to-speech settings [15]. According to an article comparing Slack and Discord’s accessibility settings, Discord leaves much to be desired [16]. Screen readers read out form field labels but not the values entered, and using private chat is difficult. As of the article’s writing in January 2021, there was no sound alert for direct messages in Discord, no “send” button when chatting, and no sound alert for sending direct messages [16]. 
@@ -151,7 +152,7 @@ Discord has safety principles and policies, but not any direct policies on acces
 
 Overall, Discord does not do the best job of being accessible and inclusive. There are many features missing in terms of making the platform accessible for individuals using screen readers. Further, despite having a Head of Inclusion, Diversity, and Purpose, Discord does not have diversity and inclusion principles, which it should implement. 
 
-### Media Literacy, Trust, and Disinformation 
+### Media Literacy, Trust, and Disinformation {-}
 Does your chosen platform have content moderation policies? Does it flag disinformation, or provide links to trusted resources? How do you ensure that you don’t spread disinformation as misinformation? (Hint: this last question might require you to do a bit of legwork to learn about Media Literacy. This resource should help - but don’t try to read the whole thing!)
 
 
