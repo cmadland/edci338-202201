@@ -117,7 +117,7 @@ Personally, I think that information should be easily accessible and understanda
 A content moderation policy is created by operators that prohibit users from posting certain content, such as content that exhibit graphic violence, child sexual exploitation, and hateful content. In Instagram, content moderation policy is used to protect members of the Instagram community. Instagram will remove content that contains hate speech, repeated unwanted messages, etc. Instagram doesn’t flag disinformation itself, however, users are encouraged to report disinformation they saw and the content will be removed after the inspection by Instagram. Media literacy provides a framework to access, analyze, evaluate, and create messages in a variety of forms – from text to video. It’s important to note that media literacy is not just about “protecting” us from unwanted messages. Media literacy is more about helping us become competent, critical, and literate in all media forms so that we control the interpretation of what we see or hear rather than letting the interpretation control us. It’s important for us to be aware of the information on the social media platforms, some of them could be fake. For me personally, I use critical thinking (a strategy that is more often used in writing an assignment) for browsing information on Instagram as well. I perceive everything on Instagram as 50% real and 50% fake, and only to believe it’s 100% real if I can verify the information. So I never get troubled by misinformation on Instagram and other social media platforms.
 
 ## Resources 
-Katie Sehl (2022). Inclusive Design for Social Media: Tips for Creating Accessible Channels. (2020). Retrieved 27 March 2022, from https://blog.hootsuite.com/inclusive-design-social-media/
+Sehl,K. (2022). Inclusive Design for Social Media: Tips for Creating Accessible Channels. (2020). Retrieved 27 March 2022, from https://blog.hootsuite.com/inclusive-design-social-media/
 
 Accessibility | Instagram Help Centre. (2022). Retrieved 27 March 2022, from https://help.instagram.com/308605337351503
 
@@ -125,17 +125,17 @@ Combatting Misinformation on Instagram | Instagram. (2022). Retrieved 27 March 2
 
 Community Guidelines | Instagram Help Centre. (2022). Retrieved 27 March 2022, from https://help.instagram.com/477434105621119
 
-CEAMBUR, Alle. 2022. Neals Schaffer."How to Identify Your Instagram Target Audience and Turn Them into Customers". https://nealschaffer.com/instagram-target-audience/#:~:text=The%20Instagram%20demographic%20shows%20that,25%20and%2029%20years%20oldhttps://www.investopedia.com/articles/personal-finance/030915/how-instagram-makes-money.asp
+CEAMBUR, A. 2022. Neals Schaffer."How to Identify Your Instagram Target Audience and Turn Them into Customers". https://nealschaffer.com/instagram-target-audience/#:~:text=The%20Instagram%20demographic%20shows%20that,25%20and%2029%20years%20oldhttps://www.investopedia.com/articles/personal-finance/030915/how-instagram-makes-money.asp
 
 Instagram. 2013. "Terms of Use" https://www.instagram.com/about/legal/terms/before-january-19-2013/
 
 Instagram. 2022. "Data Policy". https://help.instagram.com/519522125107875/?maybe_redirect_pol=0
 
-Erarslan, Ali. 2019."Instagram as an Education Platform for EFL Learners". https://files.eric.ed.gov/fulltext/EJ1223776.pdf
+Erarslan, A. 2019."Instagram as an Education Platform for EFL Learners". https://files.eric.ed.gov/fulltext/EJ1223776.pdf
 
-Mosseri, Adem. 2021. Instagram. https://about.instagram.com/blog/announcements/introducing-new-ways-to-protect-our-community-from-abuse
+Mosseri, A. 2021. Instagram. https://about.instagram.com/blog/announcements/introducing-new-ways-to-protect-our-community-from-abuse
 
-Mac, Ryan. 2013. Forbes "How Instagram's First Investor Steve Anderson Struck Gold As A One-Man Deal" Machinehttps://www.forbes.com/sites/ryanmac/2016/03/23/steve-anderson-baseline-ventures-instagram-venture-capital-raver/?sh=4e45a62a354d
+Mac, R. 2013. Forbes "How Instagram's First Investor Steve Anderson Struck Gold As A One-Man Deal" Machinehttps://www.forbes.com/sites/ryanmac/2016/03/23/steve-anderson-baseline-ventures-instagram-venture-capital-raver/?sh=4e45a62a354d
 
 Cruncbase. 2022. "instagram" https://www.crunchbase.com/organization/instagram
 
