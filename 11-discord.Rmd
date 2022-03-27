@@ -153,7 +153,15 @@ Discord has safety principles and policies, but not any direct policies on acces
 Overall, Discord does not do the best job of being accessible and inclusive. There are many features missing in terms of making the platform accessible for individuals using screen readers. Further, despite having a Head of Inclusion, Diversity, and Purpose, Discord does not have diversity and inclusion principles, which it should implement. 
 
 ### Media Literacy, Trust, and Disinformation {-}
-Does your chosen platform have content moderation policies? Does it flag disinformation, or provide links to trusted resources? How do you ensure that you don’t spread disinformation as misinformation? (Hint: this last question might require you to do a bit of legwork to learn about Media Literacy. This resource should help - but don’t try to read the whole thing!)
+Media literacy is an important structure for navigating all information we encounter, especially on social media platforms where anyone is able to spread disinformation. Media literacy provides us with the tools to analyze and be critical of the information that we come across and to be cautious when creating media content. It is very important to be able to assess all information that we are given and determine whether or not it is accurate and can be verified. 
+Discord has recently updated its community guidelines to address disinformation and misinformation. These new guidelines highlight that users cannot share false or misleading information on Discord that is likely to cause physical or societal harm. [18] There will now be a general ban on sharing content that can influence or sway people’s opinions through the use of “sensationalized, alarmist, or hyperbolic language, or any content that repeats widely-debunked health claims, unsubstantiated rumours, or conspiratorial narratives” [18].  Users are encouraged to flag and report any disinformation/ misinformation that is found to be harmful. Some of the content that is banned and will be removed includes [18]:
+* Anti Vaccination content;
+* Medically unsupported and dangerous cures for diseases;
+* Content that distorts information about a disease; and,
+* Any content that could hinder the resolution of a public health emergency.
+
+Discord plans to take action against the spread of misinformation violations by giving a warning to an accounts and servers, suspending accounts, removing harmful content, and permanently disabling an account or server. Overall, Discord strives to keep its platform a safe place for individuals to connect online and build strong communities. 
+
 
 
 ## References {-}
@@ -174,3 +182,4 @@ Does your chosen platform have content moderation policies? Does it flag disinfo
 [15] https://support.discord.com/hc/en-us/articles/1500010454681-Accessibility-Settings-Tab
 [16] https://equalentry.com/slack-vs-discord-which-is-better-for-screen-readers/ 
 [17] https://discord.com/blog/an-update-on-racial-equity-at-discord-through-inclusion-diversity-and-purpose-efforts 
+[18] https://discord.com/blog/addressing-health-misinformation
