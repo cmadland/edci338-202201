@@ -132,9 +132,9 @@ Educators use Tik Tik as a platform to reach audience members from all over the 
 
 #### Educators Responses to Comments and Questions {-}
 
-A majority of creators prioritize replying and addressing questions made by their audience to create engagement and prove continstency. Responses can directly be responded to in a video, and is often done so by creators. When a question has been asked, educators may produce a video that shows the question being asked and them addressing it. This way, they can directly address the comments and/or questions of their viewers.  An example of this is shown below. 
+A majority of creators prioritize replying and addressing questions made by their audience to create engagement and prove continstency. Comments can directly be responded to in a video, and is often done so by creators. When a question has been asked, educators may produce a video that shows the question being asked and them addressing it. This way, they can directly address the comments and/or questions of their viewers.  An example of this is shown below. 
 
-Picture
+![Creator Responses](assets/tiktok/Video.PNG)
 
 #### TikTok as a PLN {-}
 
