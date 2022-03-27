@@ -110,8 +110,8 @@ A comment can easily be made on TikTok with a few simple steps!
 3. Tap the “add comment” box and write a message
 4. Lastly, press send when you’re ready!
 
-Pictures
-
+![Steps to Leave Comments](assets/tiktok/img1.JPG)
+![Steps to Leave Comments](assets/tiktok/img2.JPG)
 
 #### Liking {-}
 
