@@ -162,7 +162,6 @@ Discord has recently updated its community guidelines to address disinformation 
 Discord plans to take action against the spread of misinformation violations by giving a warning to an accounts and servers, suspending accounts, removing harmful content, and permanently disabling an account or server. Overall, Discord strives to keep its platform a safe place for individuals to connect online and build strong communities. 
 
 
-
 ## References {-}
 [1] https://levvvel.com/discord-statistics-and-facts/#:~:text=The%20app%20is%20primarily%20targeting,was%20around%2020%20year%20old. 
 [2] https://discord.com/why-discord-is-different   
