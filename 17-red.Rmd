@@ -35,10 +35,6 @@ Content on RED can go viral if the post is in the Explore section, which means t
 RED is founded in Shanghai in 2013 as a user-generated content community, and RED completed Series D fundraising with a valuation of over 3 billion on 2018. The main investors are listed below: 
 ![figure 3](assets/red/investors.png)
 
-### Reference
-[1] https://www.xiaohongshu.com/en
-[2] https://www.latmultilingual.com/blog/understanding-red-the-chinese-shopping-app/
-
 ## Privacy and Surveillance
 
 ### Privacy Protection
@@ -114,6 +110,10 @@ The platforms do not limit the people who use them, giving equal opportunities a
 
 The content published on Red needs to pass the audit, and each platform has a particular audit policy. In order to avoid spreading false information, the content that needs to be published needs to pass the verification of accurate and valid information. There is no way for false information to pass the audit, and if you need to buy goods on the platform, you will be provided with direct links to reliable and regular resources for purchase. In order to ensure that false information is not disseminated as misinformation, the content must first be vetted before it is posted to ensure that the source of the resource is reliable and regular and that certain guarantees are in place. After guaranteeing reliable resources and audits, publishing the relevant content can largely avoid false information.
 
+## Reference
+[1] https://www.xiaohongshu.com/en
+[2] https://www.latmultilingual.com/blog/understanding-red-the-chinese-shopping-app/
+[3] https://en.wikipedia.org/wiki/Xiaohongshu
 
 
 
