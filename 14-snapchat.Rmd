@@ -2,7 +2,7 @@
 
 Snapchat is a popular messaging app that lets users exchange pictures and videos (called snaps) that are meant to disappear after they're viewed. It's advertised as a "new type of camera" because the essential function is to take a picture or video, add filters, lenses or other effects and share them with friends.
 
-## Contents Page
+## Contents
 1 Personas
 2 Demographic Information
 3 Privacy and Surveillance
