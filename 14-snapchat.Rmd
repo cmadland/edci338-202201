@@ -98,6 +98,12 @@ When someone is in a search for a job online, they would have a professional pro
 
 ## 7.7 Access and Inclusion {-}
 
+In this day and age, with the increased ubiquity of social media platforms, it is imperative to consider accessibility as a feature of these networks.  Snapchat is still behind compared to other platforms. in this regard. To make an app, accessible best practices such as the POUR (perceivable, operable, understandable, robust) principles need to be employed. [7] These principles are internationally agreed-upon standards established to aid in designing an application/website
+
+Visually impaired users are affected the most as closed captioning of videos does not exist as of yet. Screen reading/dictation technologies like VoiceOver by Apple can be used in conjunction with Snapchat to mitigate these issues, but are not completely resolved. While users can search for and add friends, view Stories, send and receive messages, they cannot interact with photos and videos that have no words and no audio respectively. Uploading snaps is also difficult in similar regard. The issues outlined above pertain to perception and operability as content is not discernable to all users and certain features are hard to access due to the user’s limitations. Snapchat also suffers from robustness issues, as it is fundamentally a mobile application. It cannot be used on a computer.
+
+Equity in the digital space is everyone’s right, and disregarding accessible design practices is borderline unethical. The accessibility issues facing Snapchat require a big design overhaul. The app’s confusing user interface was put in place intentionally as a way for users to explore and find out different features of the app. It was meant to be fun and engaging, as Snapchat was primarily targeted towards the younger generations. In doing so, the UI/UX designers essentially neglected a part of the population.
+
 ## 7.8 Media Literacy (including Trust and Disinformation) {-}
 
 ## 7.9 References {-}
@@ -107,4 +113,5 @@ When someone is in a search for a job online, they would have a professional pro
 [4] https://www.businessinsider.com/snapchat-privacy-policy-update-explained-2015-10
 [5] https://www.linkedin.com/help/linkedin/answer/a548441/what-is-linkedin-and-how-can-i-use-it-?lang=en
 [6] https://www.omnicoreagency.com/snapchat-statistics/
+[7] https://equalizedigital.com/web-accessibility-p-o-u-r-acronym/
 
