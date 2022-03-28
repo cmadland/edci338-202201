@@ -28,19 +28,25 @@ Non-users cannot peruse content on the platform. As it is a person-to-person pla
 
 The primary purpose of the app is to share content privately. The app was originally intended to be a person-to-person communication platform. Users send another person a photo/video/text message which disappears after the allotted time set by the sender, has passed. With group chats, people are able to share content with multiple people at once. Users can share ‘Stories’ which are snaps viewable by all their friends, that are only available for 24 hours. Individuals can also create filters and lenses and post them to be used by others in the community, under Lens Explorer. Users can subscribe to their favorite Lens and the creator, to stay up to date with their latest creations.
 
+<!--
 ![camera](assets/snapchat/camera.png)
 **Take a snap and send it to friends, or post on your story**
+-->
 
 ![chat](assets/snapchat/chat.png)
 **Chatting with friends**
 
+<!--
 ![stories](assets/snapchat/stories.png)
 **Watch other's stories and explore Discover pages**
+--> 
 
 Attaining virality on Snapchat is not like other platforms. Users can post videos up to 60 seconds long onto Spotlight, attaching relevant hashtags and hoping that it gains enough traction for it to go viral. If it does go viral, they can then get paid for it through third-party payment providers. Users can interact with the video by liking and sharing it with friends.
 
+<!--
 ![spotlight](assets/snapchat/spotlight.png)
 **A video on Spotlight section of snapchat**
+-->
 
 ### 7.2.4 Company Details {-}
 
