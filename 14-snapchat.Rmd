@@ -52,12 +52,12 @@ Attaining virality on Snapchat is not like other platforms. Users can post video
 
 Snapchat is owned by Snap Inc. which went public in March of 2017 under the trading symbol SNAP.
 
-![investors](assets/snapchat/investors.png)
+![investors](assets/snapchat/investors.png)  
 **Screenshot from: https://money.cnn.com/quote/shareholders/shareholders.html?symb=SNAP&subView=institutional**
 
 Snapchat generates revenue primarily from digital advertising services, which consist of augmented reality ads, Snap Ads and tools to measure advertising engagement.
 
-![financials](assets/snapchat/snapchat2021financials.png)
+![financials](assets/snapchat/snapchat2021financials.png)  
 **Photo from: https://whatisthebusinessmodelof.com/business-models/how-snapchat-makes-money/**
 
 
@@ -65,7 +65,7 @@ Snapchat generates revenue primarily from digital advertising services, which co
 
 ### 7.3.1 Link to Snapchat's ToS and Privacy Policy {-}
 
-Snapchat's Terms of Service: https://snap.com/en-US/terms [1]
+Snapchat's Terms of Service: https://snap.com/en-US/terms [1]  
 Snpachat's Privacy Policy: https://snap.com/en-US/privacy/privacy-policy [2]
 
 ### 7.3.2 Key takeaways of Snapchat's ToS and Privacy Policy {-}
@@ -139,12 +139,12 @@ Snapchat claims that they actively remove false information besides that, they p
 
 <!--
 ## 7.9 References {-}
-[1] https://snap.com/en-US/terms
-[2] https://snap.com/en-US/privacy/privacy-policy
-[3] https://snap.com/en-US/privacy/your-privacy
-[4] https://www.businessinsider.com/snapchat-privacy-policy-update-explained-2015-10
-[5] https://www.linkedin.com/help/linkedin/answer/a548441/what-is-linkedin-and-how-can-i-use-it-?lang=en
-[6] https://www.omnicoreagency.com/snapchat-statistics/
-[7] https://equalizedigital.com/web-accessibility-p-o-u-r-acronym/
+[1] https://snap.com/en-US/terms  
+[2] https://snap.com/en-US/privacy/privacy-policy  
+[3] https://snap.com/en-US/privacy/your-privacy  
+[4] https://www.businessinsider.com/snapchat-privacy-policy-update-explained-2015-10  
+[5] https://www.linkedin.com/help/linkedin/answer/a548441/what-is-linkedin-and-how-can-i-use-it-?lang=en  
+[6] https://www.omnicoreagency.com/snapchat-statistics/  
+[7] https://equalizedigital.com/web-accessibility-p-o-u-r-acronym/  
 
 -->
