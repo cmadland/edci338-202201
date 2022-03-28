@@ -4,6 +4,8 @@ Snapchat is a popular messaging app that lets users exchange pictures and videos
 
 ## 1 Persona {-}
 ![Persona Example 1](assets/snapchat/persona1.png)
+![Persona Example 2](assets/snapchat/Persona2.png)
+![Persona Example 3](assets/snapchat/Persona3.png)
 
 ## 2 Demographic Information {-}
 
