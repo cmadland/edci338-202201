@@ -57,8 +57,8 @@ Snapchat generates revenue primarily from digital advertising services, which co
 
 ### 7.3.1 Link to Snapchat's ToS and Privacy Policy {-}
 
-Snapchat's Terms of Service: https://snap.com/en-US/terms
-Snpachat's Privacy Policy: https://snap.com/en-US/privacy/privacy-policy
+Snapchat's Terms of Service: https://snap.com/en-US/terms [1]
+Snpachat's Privacy Policy: https://snap.com/en-US/privacy/privacy-policy [2]
 
 ### 7.3.2 Key takeaways of Snapchat's ToS and Privacy Policy {-}
 
@@ -68,19 +68,19 @@ First, they learn about you when you use their service. While you may not tell t
 
 Second, they learn from whatever information you choose to give them. For example, when you set up a Snapchat account, we learn your birthday, email address, and the unique name you’d like to go by.
 
-Third, they sometimes learn about you from other people and services. For example, if a friend uploads their contact list, they might see your phone number. Or, if you tap on an ad for a video game, the advertiser may let them know that you installed it. 
+Third, they sometimes learn about you from other people and services. For example, if a friend uploads their contact list, they might see your phone number. Or, if you tap on an ad for a video game, the advertiser may let them know that you installed it [3].
 
 #### How they share information {-}
 
-When Snapchat shares information, it’s usually because you ask them to — like when you access Snap Map or send a Chat to a friend. Some of your information, like your username and Snapcode, is visible to the public by default.
+When Snapchat shares information, it’s usually because you ask them to — like when you access Snap Map or send a Chat to a friend. Some of your information, like your username and Snapcode, is visible to the public by default [3].
 
 #### How they store information {-}
 
-Snapchat is about living in the moment. That's why when you send a Snap or Chat, it's deleted by default after it's viewed or expires. Messages may remain if you or your friends saves them in chat. 
+Snapchat is about living in the moment. That's why when you send a Snap or Chat, it's deleted by default after it's viewed or expires. Messages may remain if you or your friends saves them in chat [3].
 
 #### Grey areas about Snapchat's Privacy Policy {-}
 
-Snapchat had a recent privacy policy update where they collect log information such as details about how you’ve used our services, device information such as your web browser type and language, access times, pages viewed, IP address, identifiers associated with cookies or other technologies that may uniquely identify your device or browser and pages you visited before or after navigating to our website.
+Snapchat had a recent privacy policy update where they collect log information such as details about how you’ve used our services, device information such as your web browser type and language, access times, pages viewed, IP address, identifiers associated with cookies or other technologies that may uniquely identify your device or browser and pages you visited before or after navigating to our website [4].
 
 As with any service, it's important to read the terms of service and privacy policy you agree to. Thankfully, Snapchat's is written without much of the legal jargon companies frequently use to obfuscate their shady tactics.
 
@@ -92,13 +92,13 @@ As with any service, it's important to read the terms of service and privacy pol
 
 A digital identity is the body of information about an individual, organization or electronic device that exists online. People present themselves differently online and on social medias based on what they are trying to acheieve. Each platform is different from the others due to their distinct unique selling points. 
 
-For example, LinkedIn is the world's largest professional network on the internet. You can use LinkedIn to find the right job or internship, connect and strengthen professional relationships, and learn the skills you need to succeed in your career. Snapchat, on the other hand, is primarily used for creating multimedia messages referred to as "snaps" that can consist of a photo or a short video, and can be edited to include filters and effects, text captions, and drawings. It empowers people to express themselves, live in the moment, learn about the world, and have fun together. 
+For example, LinkedIn is the world's largest professional network on the internet. You can use LinkedIn to find the right job or internship, connect and strengthen professional relationships, and learn the skills you need to succeed in your career [5]. Snapchat, on the other hand, is primarily used for creating multimedia messages referred to as "snaps" that can consist of a photo or a short video, and can be edited to include filters and effects, text captions, and drawings. It empowers people to express themselves, live in the moment, learn about the world, and have fun together. 
 
 When someone is in a search for a job online, they would have a professional profile picture along with their qualifications on the business media site, such as LinkedIn, to impress employers to hire them. They would only include career related information on this site. On the contrary, if the same person wants to share some jolly family photos with their friends and family, they would post them on their personal social media site such as Facebook or Snapchat. Facebook and Snapchat are platforms where people share more about their lifestyles.
 
 ## 7.7 Access and Inclusion {-}
 
-In this day and age, with the increased ubiquity of social media platforms, it is imperative to consider accessibility as a feature of these networks.  Snapchat is still behind compared to other platforms. in this regard. To make an app, accessible best practices such as the POUR (perceivable, operable, understandable, robust) principles need to be employed. [7] These principles are internationally agreed-upon standards established to aid in designing an application/website
+In this day and age, with the increased ubiquity of social media platforms, it is imperative to consider accessibility as a feature of these networks.  Snapchat is still behind compared to other platforms. in this regard. To make an app, accessible best practices such as the POUR (perceivable, operable, understandable, robust) principles need to be employed [7]. These principles are internationally agreed-upon standards established to aid in designing an application/website
 
 Visually impaired users are affected the most as closed captioning of videos does not exist as of yet. Screen reading/dictation technologies like VoiceOver by Apple can be used in conjunction with Snapchat to mitigate these issues, but are not completely resolved. While users can search for and add friends, view Stories, send and receive messages, they cannot interact with photos and videos that have no words and no audio respectively. Uploading snaps is also difficult in similar regard. The issues outlined above pertain to perception and operability as content is not discernable to all users and certain features are hard to access due to the user’s limitations. Snapchat also suffers from robustness issues, as it is fundamentally a mobile application. It cannot be used on a computer.
 
