@@ -2,28 +2,7 @@
 
 Snapchat is a popular messaging app that lets users exchange pictures and videos (called snaps) that are meant to disappear after they're viewed. It's advertised as a "new type of camera" because the essential function is to take a picture or video, add filters, lenses or other effects and share them with friends.
 
-## Contents list {-}
-1       [Personas](https://cmadland.github.io/edci338-202201/snapchat.html#persona-5)
-2       [Demographic Information](https://cmadland.github.io/edci338-202201/snapchat.html#demographic-information)
-2.1     Target Audience
-2.2     Connecting with others
-2.3     Sharing Content on Snapchat
-2.4     Company Details
-3       [Privacy and Surveillance](https://cmadland.github.io/edci338-202201/snapchat.html#privacy-and-surveillance-6)
-3.1     [Link to Snapchat's ToS and Privacy Policy](https://cmadland.github.io/edci338-202201/snapchat.html#link-to-snapchats-tos-and-privacy-policy)
-3.2     [Key takeaways of Snapchat's ToS and Privacy Policy](https://cmadland.github.io/edci338-202201/snapchat.html#key-takeaways-of-snapchats-tos-and-privacy-policy)
-3.2.1   [How they gather information](https://cmadland.github.io/edci338-202201/snapchat.html#how-they-gather-information)
-3.2.2   [How they share information](https://cmadland.github.io/edci338-202201/snapchat.html#how-they-share-information)
-3.2.3   [How they store information](https://cmadland.github.io/edci338-202201/snapchat.html#how-they-store-information)
-3.2.4   [Grey areas about Snapchat's Privacy Policy](https://cmadland.github.io/edci338-202201/snapchat.html#grey-area-about-snapchats-privacy-policy) 
-4       Social Media and your PLN in Education
-5       Balancing your PLN and Public Discourse
-6       [Digital Identity](https://cmadland.github.io/edci338-202201/snapchat.html#digital-identity)
-7       Access and Inclusion
-8       Media Literacy (including Trust and Disinformation)
-9       [References](https://cmadland.github.io/edci338-202201/snapchat.html#references-6)
-
-## 1 Persona {-}
+## 7.1 Persona {-}
 
 ![Persona Example 1](assets/snapchat/persona1.png)
 
@@ -31,20 +10,20 @@ Snapchat is a popular messaging app that lets users exchange pictures and videos
 
 ![Persona Example 3](assets/snapchat/Persona3.png)
 
-## 2 Demographic Information {-}
+## 7.2 Demographic Information {-}
 
-### 2.1 Target Audience {-}
+### 7.2.1 Target Audience {-}
 
 With over 319 million daily active users, Snapchat is mainly targeted towards Millennials and Generation Z [6]. Teens and young adults engage in this platform as the self-destructing image feature takes away the permanence of sharing images online. Individuals of other age groups do not partake as much on this platform, mainly due to the nature of how content is shared. The gender demographics of Snapchat is split quite evenly, with 54.4% of users identifying as females and 44.6% identifying as males.
 
-### 2.2 Connecting with others {-}
+### 7.2.2 Connecting with others {-}
 
 Non-users cannot peruse content on the platform. As it is a person-to-person platform, having an account on the app is required. Users connect with each other by adding others as friends, much like other popular messaging platforms like Facebook. They can also subscribe to influencers and pages under the Discover section, found when swiped right from the camera screen. In recent years, Snapchat has allowed users to create group chats consisting of 100 people. Anyone is able to add people to the group even if the admin of the group isn’t their friend.
 
 ![friends](assets/snapchat/addfriends.png)
 **Chat and send snaps to friends and groups**
 
-### 2.3 Sharing Content on Snapchat {-}
+### 7.2.3 Sharing Content on Snapchat {-}
 
 The primary purpose of the app is to share content privately. The app was originally intended to be a person-to-person communication platform. Users send another person a photo/video/text message which disappears after the allotted time set by the sender, has passed. With group chats, people are able to share content with multiple people at once. Users can share ‘Stories’ which are snaps viewable by all their friends, that are only available for 24 hours. Individuals can also create filters and lenses and post them to be used by others in the community, under Lens Explorer. Users can subscribe to their favorite Lens and the creator, to stay up to date with their latest creations.
 
@@ -62,7 +41,7 @@ Attaining virality on Snapchat is not like other platforms. Users can post video
 ![spotlight](assets/snapchat/spotlight.png)
 **A video on Spotlight section of snapchat**
 
-### 2.4 Company Details {-}
+### 7.2.4 Company Details {-}
 
 Snapchat is owned by Snap Inc. which went public in March of 2017 under the trading symbol SNAP.
 
@@ -74,16 +53,16 @@ Snapchat generates revenue primarily from digital advertising services, which co
 ![financials](assets/snapchat/snapchat2021financials.png)
 **Photo from: https://whatisthebusinessmodelof.com/business-models/how-snapchat-makes-money/**
 
-## 3 Privacy and Surveillance {-}
+## 7.3 Privacy and Surveillance {-}
 
-### 3.1 Link to Snapchat's ToS and Privacy Policy {-}
+### 7.3.1 Link to Snapchat's ToS and Privacy Policy {-}
 
 Snapchat's Terms of Service: https://snap.com/en-US/terms
 Snpachat's Privacy Policy: https://snap.com/en-US/privacy/privacy-policy
 
-### 3.2 Key takeaways of Snapchat's ToS and Privacy Policy {-}
+### 7.3.2 Key takeaways of Snapchat's ToS and Privacy Policy {-}
 
-#### 3.2.1 How they gather information {-}
+#### How they gather information {-}
 
 First, they learn about you when you use their service. While you may not tell them you’re a sports fan, if you’re always watching basketball highlights on Discover and your Bitmoji is wearing your team colors, it’s a safe guess.
 
@@ -91,25 +70,25 @@ Second, they learn from whatever information you choose to give them. For exampl
 
 Third, they sometimes learn about you from other people and services. For example, if a friend uploads their contact list, they might see your phone number. Or, if you tap on an ad for a video game, the advertiser may let them know that you installed it. 
 
-#### 3.2.2 How they share information {-}
+#### How they share information {-}
 
 When Snapchat shares information, it’s usually because you ask them to — like when you access Snap Map or send a Chat to a friend. Some of your information, like your username and Snapcode, is visible to the public by default.
 
-#### 3.2.3 How they store information {-}
+#### How they store information {-}
 
 Snapchat is about living in the moment. That's why when you send a Snap or Chat, it's deleted by default after it's viewed or expires. Messages may remain if you or your friends saves them in chat. 
 
-#### 3.2.4 Grey areas about Snapchat's Privacy Policy {-}
+#### Grey areas about Snapchat's Privacy Policy {-}
 
 Snapchat had a recent privacy policy update where they collect log information such as details about how you’ve used our services, device information such as your web browser type and language, access times, pages viewed, IP address, identifiers associated with cookies or other technologies that may uniquely identify your device or browser and pages you visited before or after navigating to our website.
 
 As with any service, it's important to read the terms of service and privacy policy you agree to. Thankfully, Snapchat's is written without much of the legal jargon companies frequently use to obfuscate their shady tactics.
 
-## 4 Social Media and your PLN in Education {-}
+## 7.4 Social Media and your PLN in Education {-}
 
-## 5 Balancing your PLN and Public Discourse {-}
+## 7.5 Balancing your PLN and Public Discourse {-}
 
-## 6 Digital Identity {-}
+## 7.6 Digital Identity {-}
 
 A digital identity is the body of information about an individual, organization or electronic device that exists online. People present themselves differently online and on social medias based on what they are trying to acheieve. Each platform is different from the others due to their distinct unique selling points. 
 
@@ -117,11 +96,11 @@ For example, LinkedIn is the world's largest professional network on the interne
 
 When someone is in a search for a job online, they would have a professional profile picture along with their qualifications on the business media site, such as LinkedIn, to impress employers to hire them. They would only include career related information on this site. On the contrary, if the same person wants to share some jolly family photos with their friends and family, they would post them on their personal social media site such as Facebook or Snapchat. Facebook and Snapchat are platforms where people share more about their lifestyles.
 
-## 7 Access and Inclusion {-}
+## 7.7 Access and Inclusion {-}
 
-## 8 Media Literacy (including Trust and Disinformation) {-}
+## 7.8 Media Literacy (including Trust and Disinformation) {-}
 
-## 9 References {-}
+## 7.9 References {-}
 [1] https://snap.com/en-US/terms
 [2] https://snap.com/en-US/privacy/privacy-policy
 [3] https://snap.com/en-US/privacy/your-privacy
