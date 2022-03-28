@@ -26,6 +26,32 @@ References
 
 ## 2 Demographic Information {-}
 
+### 2.1 Target Audience
+
+With over 319 million daily active users, Snapchat is mainly targeted towards Millennials and Generation Z [6]. Teens and young adults engage in this platform as the self-destructing image feature takes away the permanence of sharing images online. Individuals of other age groups do not partake as much on this platform, mainly due to the nature of how content is shared. The gender demographics of Snapchat is split quite evenly, with 54.4% of users identifying as females and 44.6% identifying as males.
+
+### 2.2 Connecting with others
+
+Non-users cannot peruse content on the platform. As it is a person-to-person platform, having an account on the app is required. Users connect with each other by adding others as friends, much like other popular messaging platforms like Facebook. They can also subscribe to influencers and pages under the Discover section, found when swiped right from the camera screen. In recent years, Snapchat has allowed users to create group chats consisting of 100 people. Anyone is able to add people to the group even if the admin of the group isn’t their friend.
+
+### 2.3 Content
+
+The primary purpose of the app is to share content privately. The app was originally intended to be a person-to-person communication platform. Users send another person a photo/video/text message which disappears after the allotted time set by the sender, has passed. With group chats, people are able to share content with multiple people at once. Users can share ‘Stories’ which are snaps viewable by all their friends, that are only available for 24 hours. Individuals can also create filters and lenses and post them to be used by others in the community, under Lens Explorer. Users can subscribe to their favorite Lens and the creator, to stay up to date with their latest creations.
+
+Attaining virality on Snapchat is not like other platforms. Users can post videos up to 60 seconds long onto Spotlight, attaching relevant hashtags and hoping that it gains enough traction for it to go viral. If it does go viral, they can then get paid for it through third-party payment providers.
+
+### 2.4 Company Details
+
+Snapchat is owned by Snap Inc. which went public in March of 2017 under the trading symbol SNAP.
+
+![investors](assets/snapchat/investors.png)
+**Screenshot from: https://money.cnn.com/quote/shareholders/shareholders.html?symb=SNAP&subView=institutional**
+
+Snapchat generates revenue primarily from digital advertising services, which consist of augmented reality ads, Snap Ads and tools to measure advertising engagement.
+
+![financials](assets/snapchat/snapchat2021financials.png)
+**Photo from: https://whatisthebusinessmodelof.com/business-models/how-snapchat-makes-money/**
+
 ## 3 Privacy and Surveillance {-}
 
 ### 3.1 Link to Snapchat's ToS and Privacy Policy
