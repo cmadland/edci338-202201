@@ -93,7 +93,9 @@ Discord can also serve as an excellent platform for language learning by leverag
 
 HINF Connect
 HINF Connect is one of the many servers under the University of Victoria server. The university server allows certified accounts users with university email to join clubs, social or study groups, and specific course or academic program servers created by university students and members. This establishes a convenient way for learners from the same program, course, or club to get together and share meaningful content to build a better and more networked university learning experience. The HINF Connect server was created by HINF students from the Class of 2021 but is joined by students from different years of study (including graduate students). Channels are organized by different HINF courses, and voice channels act as a great source to conduct group studies. Other resources, including Co-op information, experience sharing from senior students, and industry news, are valuable to learners studying in the HINF program.
+
 ![Photo of UVic Server](assets/Discord/server1.png)
+
 ![Photo of HINF Server](assets/Discord/server2.png)
 
 ### Safety Concerns for Educators {-}
