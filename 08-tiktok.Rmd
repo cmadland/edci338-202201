@@ -115,10 +115,10 @@ Tiktok serves as a great resource for individuals to interact with other content
 #### Leaving Comments {-}
 
 A comment can easily be made on TikTok with a few simple steps! 
-1. Select the video you plan to interact with.
-2. From here, you must tap the comment icon located on the right. 
-3. Tap the “add comment” box and write a message.
-4. Lastly, press send when you’re ready!
+1. Select the video you plan to interact with.  
+2. From here, you must tap the comment icon located on the right.  
+3. Tap the “add comment” box and write a message.  
+4. Lastly, press send when you’re ready!  
 
 ![Steps to Leave Comments](assets/tiktok/img1.JPG)
 ![Steps to Leave Comments](assets/tiktok/img2.JPG)
