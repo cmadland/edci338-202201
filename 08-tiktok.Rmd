@@ -117,7 +117,7 @@ A comment can easily be made on TikTok with a few simple steps!
 
 Liking a video has never been easier for TikTok users. In order to like a video, one can simply tap the heart shaped icon located in the middle right side of the page. 
 
-Picture
+![How to Like](assets/tiktok/img3.JPG)
 
 When a user likes the content produced by a content creator, the like is viewed by the person who made the video. However, it should be noted that unless you switch your privacy settings, everyone can view your video as well. Attached below are numerical steps to be followed if one wishes to switch their “like history” to not be viewed by others. 
 
