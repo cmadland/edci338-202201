@@ -5,6 +5,10 @@ Snapchat is a popular messaging app that lets users exchange pictures and videos
 ## Contents {-}
 1 Personas
 2 Demographic Information
+2.1 Target Audience
+2.2 Connecting with others
+2.3 Sharing Content on Snapchat
+2.4 Company Details
 3 Privacy and Surveillance
 3.1 Link to Snapchat's ToS and Privacy Policy
 3.2 Key takeaways of Snapchat's ToS and Privacy Policy
@@ -34,11 +38,26 @@ With over 319 million daily active users, Snapchat is mainly targeted towards Mi
 
 Non-users cannot peruse content on the platform. As it is a person-to-person platform, having an account on the app is required. Users connect with each other by adding others as friends, much like other popular messaging platforms like Facebook. They can also subscribe to influencers and pages under the Discover section, found when swiped right from the camera screen. In recent years, Snapchat has allowed users to create group chats consisting of 100 people. Anyone is able to add people to the group even if the admin of the group isn’t their friend.
 
+![friends](assets/snapchat/addfriends.png)
+**Chat and send snaps to friends and groups**
+
 ### 2.3 Sharing Content on Snapchat {-}
 
 The primary purpose of the app is to share content privately. The app was originally intended to be a person-to-person communication platform. Users send another person a photo/video/text message which disappears after the allotted time set by the sender, has passed. With group chats, people are able to share content with multiple people at once. Users can share ‘Stories’ which are snaps viewable by all their friends, that are only available for 24 hours. Individuals can also create filters and lenses and post them to be used by others in the community, under Lens Explorer. Users can subscribe to their favorite Lens and the creator, to stay up to date with their latest creations.
 
-Attaining virality on Snapchat is not like other platforms. Users can post videos up to 60 seconds long onto Spotlight, attaching relevant hashtags and hoping that it gains enough traction for it to go viral. If it does go viral, they can then get paid for it through third-party payment providers.
+![camera](assets/snapchat/camera.png)
+**Take a snap and send it to friends, or post on your story**
+
+![chat](assets/snapchat/chat.png)
+**Chatting with friends**
+
+![stories](assets/snapchat/stories.png)
+**Watch other's stories and explore Discover pages**
+
+Attaining virality on Snapchat is not like other platforms. Users can post videos up to 60 seconds long onto Spotlight, attaching relevant hashtags and hoping that it gains enough traction for it to go viral. If it does go viral, they can then get paid for it through third-party payment providers. Users can interact with the video by liking and sharing it with friends.
+
+![spotlight](assets/snapchat/spotlight.png)
+**A video on Spotlight section of snapchat**
 
 ### 2.4 Company Details {-}
 
