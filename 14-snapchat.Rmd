@@ -3,29 +3,32 @@
 Snapchat is a popular messaging app that lets users exchange pictures and videos (called snaps) that are meant to disappear after they're viewed. It's advertised as a "new type of camera" because the essential function is to take a picture or video, add filters, lenses or other effects and share them with friends.
 
 ## Contents {-}
-1 Personas
-2 Demographic Information
-2.1 Target Audience
-2.2 Connecting with others
-2.3 Sharing Content on Snapchat
-2.4 Company Details
-3 Privacy and Surveillance
-3.1 Link to Snapchat's ToS and Privacy Policy
-3.2 Key takeaways of Snapchat's ToS and Privacy Policy
-3.2.1 How they gather information
-3.2.2 How they share information
-3.2.3 How they store information
-3.2.4 Grey areas about Snapchat's Privacy Policy. 
-4 Social Media and your PLN in Education
-5 Balancing your PLN and Public Discourse
-6 Digital Identity
-7 Access and Inclusion
-8 Media Literacy (including Trust and Disinformation)
-References
+1       [Personas](https://cmadland.github.io/edci338-202201/snapchat.html#persona-5)
+2       [Demographic Information](https://cmadland.github.io/edci338-202201/snapchat.html#demographic-information)
+2.1     Target Audience
+2.2     Connecting with others
+2.3     Sharing Content on Snapchat
+2.4     Company Details
+3       [Privacy and Surveillance](https://cmadland.github.io/edci338-202201/snapchat.html#privacy-and-surveillance-6)
+3.1     [Link to Snapchat's ToS and Privacy Policy](https://cmadland.github.io/edci338-202201/snapchat.html#link-to-snapchats-tos-and-privacy-policy)
+3.2     [Key takeaways of Snapchat's ToS and Privacy Policy](https://cmadland.github.io/edci338-202201/snapchat.html#key-takeaways-of-snapchats-tos-and-privacy-policy)
+3.2.1   [How they gather information](https://cmadland.github.io/edci338-202201/snapchat.html#how-they-gather-information)
+3.2.2   [How they share information](https://cmadland.github.io/edci338-202201/snapchat.html#how-they-share-information)
+3.2.3   [How they store information](https://cmadland.github.io/edci338-202201/snapchat.html#how-they-store-information)
+3.2.4   [Grey areas about Snapchat's Privacy Policy](https://cmadland.github.io/edci338-202201/snapchat.html#grey-area-about-snapchats-privacy-policy) 
+4       Social Media and your PLN in Education
+5       Balancing your PLN and Public Discourse
+6       [Digital Identity](https://cmadland.github.io/edci338-202201/snapchat.html#digital-identity)
+7       Access and Inclusion
+8       Media Literacy (including Trust and Disinformation)
+9       [References](https://cmadland.github.io/edci338-202201/snapchat.html#references-6)
 
 ## 1 Persona {-}
+
 ![Persona Example 1](assets/snapchat/persona1.png)
+
 ![Persona Example 2](assets/snapchat/Persona2.png)
+
 ![Persona Example 3](assets/snapchat/Persona3.png)
 
 ## 2 Demographic Information {-}
@@ -118,7 +121,7 @@ When someone is in a search for a job online, they would have a professional pro
 
 ## 8 Media Literacy (including Trust and Disinformation) {-}
 
-## References {-}
+## 9 References {-}
 [1] https://snap.com/en-US/terms
 [2] https://snap.com/en-US/privacy/privacy-policy
 [3] https://snap.com/en-US/privacy/your-privacy
