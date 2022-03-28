@@ -30,14 +30,14 @@ The first option consists of following three simple steps:
 
 Videos made and created on TikTok’s platform can also be viewed on other neighbouring media platforms. Multiple channels on youtube have dedicated their content to uploading what is currently trending on Tik Tok. Content creators of youtube make it possible for users without an account to gain quick and easy access to like and comment on the video on youtube. 
 TikTok videos may also be viewed without an account if they’re sent by message, Snapchat, email, Facebook etc. 
-With that being said, there are a variety of features that can not be accessed by users without an account. Without an account, you are unable to follow creators, like videos, see or write comments on the videos, upload or share content or join creators ‘lives’.
+With that being said, there are a variety of features that can not be accessed by users without an account. Guest users features are restricted and they are unable to follow creators, like videos, see or write comments on the videos, upload or share content or join creators ‘lives’.
 
 #### How Users are Connected {-}
 
-TikTok features allow users to generate communities online. Users can stay connected through the act of sharing, following, commenting or liking other creators’ posts. Simply by locating and following a creator’s account, their videos will be readily available for viewing in the “following” section of TikTok. Unless the creator’s content is made private, a user does not need to wait for access to be granted, in order to proceed in viewing the video of the account. Furthermore, there are obligations for users to follow one another back, however, access to the creator’s videos is still made available regardless of mutual following. 
+TikTok features allow users to generate communities online. Users can stay connected through the act of sharing, following, commenting or liking other creators’ posts. Simply by locating and following a creator’s account, their videos will be readily available for viewing in the “following” section of TikTok. Unless the creator’s content is made private, a user does not need to wait for access to be granted, in order to proceed in viewing the video of the account. Furthermore, there are no obligations for users to follow one another back, however, access to the creator’s videos is still made available regardless of mutual following. 
  There exists two types of pages to view content. The ‘for you page’ showcases viral Tik Toks and creators of all sorts. This side of TikTok may allow users to discover new creators they wish to connect with or follow. After the user has followed the creator, their content may now exist on the other side of TikTok. 
  Separated into two sections, the videos published by the users following will appear on the ‘following’ page, while other creators will appear on the “for you page”. The users following page exists to serve individuals with accessible access to their favourite content creators and avoid missing out on their friend’s and families’ posts.
- Another way to interact on TikTok is to engage in creators’ “lives”. Users may choose to go live to interact with their followers in real-time. By sharing insight into their daily living, creators find great success in expanding their followers and creating user engagement. Another unique feature allows for creators to go live with other fellow creators on the app. TikTok lives provide users with access to comment, ask questions and send or receive gifts. Although, TikTok requires users to meet a following of 1,000 and be 16 years of age in order to host a live. 
+ Another way to interact on TikTok is to engage in creators’ “lives”. Users may choose to go live to interact with their followers in real-time. By sharing insight into their daily living, creators have found great success expanding their followers and creating user engagement. Another unique feature allows for creators to go live with other fellow creators on the app. TikTok lives provide users with access to comment, ask questions and send or receive gifts. Although, TikTok requires users to meet a following of 1,000 and be 16 years of age in order to host a live. 
 
 
 ### Content {-}
@@ -58,7 +58,7 @@ Even if the account is set to public, the account holder has access to edit the 
 
 #### Viral Content {-} 
 
-Content published on TikTok has the ability to go viral any time a user creates and uploads a public video onto their account. If the content a user creates gets picked up by the TikTok algorithm, it will be shared to other users via the “For You” page. Based on the user's interests and past interactions with TikTok videos, TikTok's algorithm curates a "For You" page of video content from creators the user may not follow. The algorithm utilizes users’ data on interactions with videos such as the screen time of watching a video, liking the video, and/or sharing it.
+Content published on TikTok has the ability to go viral any time a user creates and uploads a public video onto their account. If the content a user creates gets picked up by the TikTok algorithm, it will be shared to other users via the “For You” page. Based on the user's interests and past interactions with TikTok videos, the platforms analytics curates a "For You" page of video content from creators the user may not follow. The algorithm utilizes users’ data on interactions with videos such as the screen time of watching a video, liking the video, and/or sharing it.
 
 ![foryou](assets/tiktok/foryou.jpg) 
 
@@ -74,11 +74,11 @@ The founder, Chairman and former CEO Zhang Yiming created ByteDance in 2012 and 
 
 #### Major Investors {-}
 
-Despite the main ownership of TikTok being owned by the Beijing-based tech company commonly referred to as “ByteDance”, in recent years pressure by the Trump Administration forced Bytedance to expand and create a new company referred to as TikTok Global.  These steps allowed Americans to feel safe about the storing and gathering of their citizen’s information, as opposed to China potentially using it to gain insight and track Americans. To date, the current minority owners are Oracle and Walmart. Oracle holds a 12.5% stake in the company, with Walmart in at 7.5%.
+Despite the main ownership of TikTok being owned by the Beijing-based tech company commonly referred to as “ByteDance”, in recent years pressure by the Trump Administration forced Bytedance to expand and create a new company referred to as TikTok Global.  These steps allowed Americans to feel safe about the storing and gathering of their citizen’s information, as opposed to China potentially using it to gain insight and track Americans. To date, the current minority owners are Oracle and Walmart. Oracle holds a 12.5% stake in the company, with Walmart at 7.5%.
 
 #### Revenue Generated {-} 
 
-The business model of leading social media apps is quite similar to one another and leads to the generation of profits. While TikTok is free to download, the network does exceptionally well from paid advertisements and in-app-purchases. Scrolling through the “for-you” page, embedded in-feed ads will begin on auto-play. Tiktok will direct ads based on the user’s interactiveness with certain content. This is very helpful for business to grow, network and generate profits, however, the current cost of in-feed ads start at a minimum of $10 per Cost Per thousand/ mile views (CPM). Furthermore, there also exists brand-takeover ads, which begin to play an ad from the moment the app is launched. Businesses may prefer to buy into these ads, to grab the attention of their target audience while they are most attentive. To view ads, a more prestigious form of advertising consists of longer adds up to 60 seconds that pop up during the duration of a user’s activity on the app. Branded hashtag challenges also exist to create brand awareness. The hashtag appears on the discovery page as a fun way to boost user engagement and get messages across. Lastly, branded effects offered by TikTok allow businesses to purchase custom stickers or filters that can be used by users on TikTok for a period of 10 days. As for in-app purchases, TikTok has utilized virtual coins to be purchased and shared among its users. Ranging from 100 to 10,000 virtual coins, the price can vary between 99 cents- $99.99. The in-app currency allows users to show appreciation for the content they engage in and enjoy!
+The business model of leading social media apps are quite similar to one another and lead to the generation of profits. While TikTok is free to download, the network does exceptionally well from paid advertisements and in-app-purchases. Scrolling through the “for-you” page, embedded in-feed ads will begin on auto-play. Tiktok will direct ads based on the user’s interactiveness with certain content. This is very helpful for businesses to grow, network and generate profits, however, the current cost of in-feed ads start at a minimum of $10 per Cost Per thousand/ mile views (CPM). Furthermore, there also exists brand-takeover ads, which begin to play an ad from the moment the app is launched. Businesses may prefer to buy into these ads, to grab the attention of their target audience while they are most attentive. To view ads, a more prestigious form of advertising consists of longer adds up to 60 seconds that pop up during the duration of a user’s activity on the app. Branded hashtag challenges also exist to create brand awareness. The hashtag appears on the discovery page as a fun way to boost user engagement and get messages across. Lastly, branded effects offered by TikTok allow businesses to purchase custom stickers or filters that can be used by users on TikTok for a period of 10 days. As for in-app purchases, TikTok has utilized virtual coins to be purchased and shared among its users. Ranging from 100 to 10,000 virtual coins, the price can vary between 99 cents- $99.99. The in-app currency allows users to show appreciation for the content they engage in and enjoy!
 
 ^[Kibet, L. (2021, April 23). How does TikTok make money? GOBankingRates. (https://www.gobankingrates.com/money/business/how-does-tiktok-make-money/)]
 
@@ -113,9 +113,9 @@ Tiktok serves as a great resource for individuals to interact with other content
 #### Leaving Comments {-}
 
 A comment can easily be made on TikTok with a few simple steps! 
-1. Select the video you plan to interact with
-2. From here, you must tap the comment icon located on the right 
-3. Tap the “add comment” box and write a message
+1. Select the video you plan to interact with.
+2. From here, you must tap the comment icon located on the right. 
+3. Tap the “add comment” box and write a message.
 4. Lastly, press send when you’re ready!
 
 ![Steps to Leave Comments](assets/tiktok/img1.JPG)
@@ -129,7 +129,7 @@ Liking a video has never been easier for TikTok users. In order to like a video,
 
 ![How to Like](assets/tiktok/img3.JPG)
 
-When a user likes the content produced by a content creator, the like is viewed by the person who made the video. However, it should be noted that unless you switch your privacy settings, everyone can view your video as well. Attached below are numerical steps to be followed if one wishes to switch their “like history” to not be viewed by others. 
+When a user likes the content produced by a content creator, the like is viewed by the person who made the video. However, it should be noted that unless settings are switched to be private, the video can be viewed by all. Attached below are numerical steps to be followed if one wishes to switch their “like history” to not be viewed by others. 
 
 ![How to Make Likes Private](assets/tiktok/IMG4.JPG)
 ![How to Make Likes Private](assets/tiktok/IMG5.JPG)
@@ -139,29 +139,31 @@ When a user likes the content produced by a content creator, the like is viewed 
 
 ### Creators {-}
 
-#### Educators on TikTik {-}
+#### Educators on TikTok {-}
 
-Educators use Tik Tik as a platform to reach audience members from all over the world. Tik Tok provides a platform for creators to share their voices and knowledge. Videos are created with the intent to educate viewers, answer questions and promote learning. All types of content are currently being taught on TikTok. Educators such as Dad, how do I? Provides valuable life lessons and educates viewers on how to fix things. You can also access content such as Janelle Rohner's which educates viewers on Keto lifestyles and provides weight loss tips. Depending on the type of content the creators produce, this determines the type of audience members. For instance, Dad, how do I? Has an audience of mostly young people while Janelle Rohner’s audience is an older audience as some of the content she shares is keto drinks for those 19+. No matter the topic of interest, there is sure to be a content creator producing educational content on that particular topic.
+Educators use TikTok as a platform to reach audience members from all over the world. TikTok provides a platform for creators to share their voices and knowledge. Videos are created with the intent to educate viewers, answer questions and promote learning. All types of content are currently being taught on TikTok. Educators such as Dad, how do I? provides valuable life lessons and educates viewers on how to fix things. Users can also access Janelle Rohner's content which educates viewers on Keto lifestyles and provides weight loss tips. Depending on the type of content the creators produce, this determines the type of audience members. For instance, Dad, how do I? has an audience of mostly young people while Janelle Rohner’s audience is an older audience as some of the content she shares is keto drinks for those 19+. No matter the topic of interest, there is sure to be a content creator producing educational content on that particular topic.
 
-#### Educators Responses to Comments and Questions {-}
+#### Educators Response to Comments and Questions {-}
 
-A majority of creators prioritize replying and addressing questions made by their audience to create engagement and prove continstency. Comments can directly be responded to in a video, and is often done so by creators. When a question has been asked, educators may produce a video that shows the question being asked and them addressing it. This way, they can directly address the comments and/or questions of their viewers.  An example of this is shown below. 
+A majority of creators prioritize replying and addressing questions made by their audience to create engagement and provide continstency. Comments can directly be responded to in a video, and is often done so by creators. When a question has been asked, educators may produce a video that shows the question being asked and them addressing it. This way, they can directly address the comments and/or questions of their viewers.  An example of this is shown below. 
 
 ![Creator Responses](assets/tiktok/Video.PNG)
 
 #### TikTok as a PLN {-}
 
-Educators on Tik Tok are able to use the platform as a Personal Learning Network (PLN). For instance, Tik Tok provides educators with a space to share and utilize worksheets, assignments and activities that fellow teachers have created. The growth of TikTok has allowed it to beome a virtual team, to distribute and swap ideas. The app can be a great tool for teacher to expand their personal learning networks and gain insight on useful methods employed by teacher alike.
+Educators on TikTok are able to use the platform as a Personal Learning Network (PLN). For instance, TikTok provides educators with a space to share and utilize worksheets, assignments and activities that fellow teachers have created. The growth of TikTok has allowed it to beome a virtual team to distribute and swap ideas. The app can be a great tool for teacher to expand their personal learning networks and gain insight on useful methods employed by teacher alike.
 
 ### Educational Post on TikTok Experience {-}
 Our group posted the same video on each of our persona's accounts to see the difference in the interactions of users. 
 
-The video posted on Sophia Green’s (persona) account gathered 805 views, 7 likes and 1 follower. This may be due to the hashtags placed in the caption, #vegan & #sustainable. This may be due to the popularity of these hashtags, so that when someone searches up the hashtag, the video will appear, or the TikTok algorithm could have pushed the video onto users' For You pages based on their interests in those topics. Please click here to see the TikTok post: https://www.tiktok.com/@sophiagreen111/video/7077332572879015173?is_copy_url=1&is_from_webapp=v1
+The video posted on Sophia Green’s (persona) account gathered 805 views, 7 likes and 1 follower. This can be attributed to the hashtags #vegan and #sustainable which were placed in the caption. As a result of these hashtags, when someone searches up the hashtag, the video will appear, or the TikTok algorithm could have pushed the video onto users' For You pages based on their interests in those topics. Please click here to see the TikTok post: https://www.tiktok.com/@sophiagreen111/video/7077332572879015173?is_copy_url=1&is_from_webapp=v1
 
 Ariel Fipke, a macro influencer new to TikTok generated a 2 person following. Having  received only 259 views, 4 likes and 1 comment, it became clear she needed to utilize tips and tricks made by fellow tiktok influencers to grow her following and user engagement. Going forward, she may consider utilizing more popular hashtags to increase views. The comment received from a user named @kyleesmithh was “Looks so yummy!! Definitely giving this a try." This comment demonstrates that users do enjoy being shown new, healthy recipes that can be done with just a few ingredients and in a timely manner. This information will allow Ariel to see the success in producing more of this content, but instead making use of trending sounds, concise captions, and popular hashtags to grow her current following. 
 
 The Video that was posted to Melanie Mitchell’s profile only got 76 views, 2 likes and 1 follower. It is possible that  the only reason why the post got this little of views is from the hashtags. Some of the Hashtags used were, #freshfoods #healthyliving #newrecipe. An interesting thing about hashtags is that the post will get more engagement if the hashtags used have fewer tags altogether. Finding ones with the lowest number of tags means more people could see the post but in conclusion, it did not work very well. To get more engagement on TikTok, the persona would have to be constantly active and posting in order for others to see and engage with. Due to the algorithm, a user must post often in order to be visible or else the user’s profile will get pushed into the background and not be seen.
 To see the TikTok Post, the Link is Provided here:  https://www.tiktok.com/@melmeltell/video/7077359543008759045?is_copy_url=1&is_from_webapp=v1&q=melmeltell&t=1648068583269
+
+The Tiktok which was posted to the “Lindsay Adams” account received 102 views and 3 likes. By no means did this post go viral, however, the views which were obtained can be attributed to the video appearing on the For you page. The video was most likley placed on individuals for you pages whose interest and previous likes were in line with the video posted. As a result of this, the viewers must have been those who consider themselves to be vegan and those who live healthy lifestyles. A variety of hashtags surrounding healthy living, yoga and vegan living were placed in the caption of the video so viewers could have been drawn in through either searching the hashtags directly or through TikToks algorithm. If Linsay Adams were to have a bgger following, the video would have recieved more comments and it would have been easier to determine exactly what type of audiece members she was attracting.
 
 
 ### Concerns with TikTok {-}
