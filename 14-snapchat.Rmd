@@ -85,8 +85,17 @@ Snapchat had a recent privacy policy update where they collect log information s
 As with any service, it's important to read the terms of service and privacy policy you agree to. Thankfully, Snapchat's is written without much of the legal jargon companies frequently use to obfuscate their shady tactics.
 
 ## 7.4 Social Media and your PLN in Education {-}
+Snapchat users can interact with each other as long as they are friends in the app. Snap is the main feature of Snapchat that users send snaps to each other. Snaps are usually automatically deleted  after they have been viewed by all recipients. Influencers and creators stay connected with their fans by posting videos that are less than 60 seconds long. Fans can't appreciate or favorite snapchat content, but they can share it. Creators can reply to messages from fans as needed.
+
+Educators can use snapchat to share their expertise and create short educational videos on different topics. Short spanned educational videos attracts a broad group of younger audience interested at the subject. Teachers can use snapchat as a PLN by posting a discussion questions at the beginning of the day or even using it as an efficient way to send announcements on materials or schedule for the following day.
+
+Snapchat's short-lived video feature can be easily exploited for spreading misinformation. However the platform itself have been very strict about their approach against false information as they completely remove it. However, educators can be victim to phishing, spams, etc. as bad actors are always willing to compromise different organizations through their employees. However, by not clicking on unknown links, not replying to unknown people, etc. educators can stay safe.
+
+Snapchat lets user create group which an educator can easily leverage by creating a snapchat group of their PLN. As younger generation is more inclined towards digital delivery of education content, an educator can reach more active audience through this feature. Besides groups, educators can create short videos about different topics,  give important announcements, etc.
 
 ## 7.5 Balancing your PLN and Public Discourse {-}
+
+Famous influencers use snapchat along with other social media platforms to reach as much audience they possible can. For having an active audience, influencers post contents relevant for that social media, in case of snapchat short videos. Educators are now turning into influencers as short informative videos of current affairs can gain a lot of audience. An active connected PLN with verifiable information reaches a broader audience.
 
 ## 7.6 Digital Identity {-}
 
@@ -105,6 +114,9 @@ Visually impaired users are affected the most as closed captioning of videos doe
 Equity in the digital space is everyone’s right, and disregarding accessible design practices is borderline unethical. The accessibility issues facing Snapchat require a big design overhaul. The app’s confusing user interface was put in place intentionally as a way for users to explore and find out different features of the app. It was meant to be fun and engaging, as Snapchat was primarily targeted towards the younger generations. In doing so, the UI/UX designers essentially neglected a part of the population.
 
 ## 7.8 Media Literacy (including Trust and Disinformation) {-}
+
+Snapchat claims that they actively remove false information besides that, they prohibit accounts that promote or distribute age-restricted content. Snapchat protects it's users by implementing strict content moderation policies. Fact-checking is a great step before posting about information, it protects the individual from spreading false information and gives them credibility.
+
 
 ## 7.9 References {-}
 [1] https://snap.com/en-US/terms
