@@ -4,7 +4,6 @@
 ## Persona {-}
 ![Sophia Green](assets/tiktok/persona1.PNG) 
 ![Second Page](assets/tiktok/Copy of Venn Diagram Template.png) 
-![Emily's Persona](assets/tiktok/emily-persona.jpeg)
 ![Tianna's Persona](assets/tiktok/tiapersona.png)
 ![Miah's Persona](assets/tiktok/L.png)
 ![Miah's Persona Second Page](assets/tiktok/P.png)
@@ -115,7 +114,7 @@ Tiktok serves as a great resource for individuals to interact with other content
 #### Leaving Comments {-}
 
 A comment can easily be made on TikTok with a few simple steps! 
-1. Select the video you plan to interact with.    
+1. Select the video you plan to interact with.  
 2. From here, you must tap the comment icon located on the right.   
 3. Tap the “add comment” box and write a message.  
 4. Lastly, press send when you’re ready!  
