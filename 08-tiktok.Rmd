@@ -92,8 +92,19 @@ The business model of leading social media apps are quite similar to one another
 [Privacy Policy for Younger Users](https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en)
 
 ### Key Takeaway's from TikToks Privacy Policy {-}
+The Terms of Service (ToS) and Privacy Policy (PP) serve as a legally binding contract between TikTok and its users. Confined within this document is advanced terminology that the average person would find difficult to comprehend. A crucial point stated in the document notes that Tiktok is not held accountable for the privacy policy of third-party partnerships and advertisements that are provided in the app via Cookies (TikTok. June 2, 2021. Para 20). Following that, Tiktok is also not liable if the user is to click a link outside or from a Third-party source (TikTok. June 2, 2021. Para 37). 
 
+ Under the section 'User Content and Behavioural Information' TikTok explains that by giving informed consent, the app may collect users’ information present in their content including their background, face, location and bodily attributes. They also disclose information that may be obtained regarding your interests, gender, and age as means to “personalize” content and "[promote] your content to other users and explore whether your profile presents further opportunities for collaboration" (TikTok. June 2, 2021. Para 10).
 
+ With reference to the Privacy Policy for Younger Users (YUPP), the document was substantially shorter than that of the General Privacy Policy (GPP). The Policy states that limited information is obtained from youth under the age of 13 residing in the United States (US).  This includes the username, password, date of birth, device ID, IP address, web browser type and some app activity (TikTok. January 2020. Para. 1-2 ). This information is only acquired for troubleshooting and other analytical services. In addition, this is also collected for legal and governmental reasons which not only is rare but is reasonable as it is law enforcement. (TikTok. January 2020. Para. 4 & 6). An apparent difference found between the YUPP and GPP resides in the difference of protection between users. Those who are 13 and under are subject to much less severe policies and are inclined to more privacy. In contrast, those who are over the age of 14 are forced to forgo their privacy and grant TikTok access to a great deal of their personal information. 
+
+ Users should be encouraged to review the Policy Acts laid out by TikTok, in order to be fully made aware of and comfortable with their decision to sacrifice their privacy rights. TikTok recommends that any questions or concerns with respect to the ToS or PP be directly addressed to them via email (TikTok. June 2, 2021. Para 34).
+
+^[Terms of service - tiktok. Terms of Service . (2019, February). (https://www.tiktok.com/legal/terms-of-use?lang=en)]
+
+^[Privacy policy for younger users. TikTok. (2020, January) (https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en )]
+
+^[Privacy policy. TikTok. (2021, June 2)(https://www.tiktok.com/legal/privacy-policy-row?lang=en )]
 
 ## Social Media and PLN in Education {-}
 
@@ -161,9 +172,7 @@ As with any social media platform, educators should be aware of the inappropriat
 ^[Stutzman, S. (2022). 5 Things Parents Need to Know about Tik-Tok. Kid Matters Counceling. https://kidmatterscounseling.com/blog/5-things-parents-need-to-know-about-tik-tok/#:~:text=Suggestive%20Content%20Abounds&text=With%20TikTok%20being%20mostly%20based,their%2016%2B%20rating%20would%20suggest]
 ^ [DiResta, R. (2021, October 5). It’s Not Misinformation. It’s Amplified Propaganda. The Atlantic.(https://www.theatlantic.com/ideas/archive/2021/10/disinformation-propaganda-amplification-ampliganda/620334/)]
 
-### Other Notes {-}
-
-Ongoing
+### Other Things a Curious Educator May Want to Know {-}
 
 ## Balancing Your PLN and Public Discourse {-}
 
