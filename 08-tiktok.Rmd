@@ -24,9 +24,9 @@
 
 TikTok does not require users to create an account to browse the platform. There are a variety of methods that allow non-users to navigte the platform. With a few simple steps, users that do not wish make an account are able to view the content. 
 The first option consists of following three simple steps:
-1. Go to TikTok.com
-2. Select “For you” on the left sidebar 
-3. Begin watching videos without logging into an account
+1. Go to TikTok.com  
+2. Select “For you” on the left sidebar   
+3. Begin watching videos without logging into an account  
 
 Videos made and created on TikTok’s platform can also be viewed on other neighbouring media platforms. Multiple channels on youtube have dedicated their content to uploading what is currently trending on TikTok. Content creators of youtube make it possible for users without an account to gain quick and easy access to like and comment on the video on youtube. 
 TikTok videos may also be viewed without an account if they’re sent by message, Snapchat, email, Facebook etc. 
@@ -93,15 +93,6 @@ The business model of leading social media apps are quite similar to one another
 
 ### Key Takeaway's from TikToks Privacy Policy {-}
 
- TikTok's Terms of Service (ToS) and Privacy Policies (PP) are both legal contracts that bind the platform and its users. It is not surprising that the tenacity of the ToS and PP of TikTok is impossibly long and hard understand a single word, it would take a week to read and re-read to understand the ToS. The PP and PP for younger users were easier to understand and were significantly shorter than the ToS. By using a keyword search to search for specific words such as 'Privacy' and 'Access' for the general PP, and 'Collect' for the Younger Users PP. Because the keyword search searches all words regarding 'Privacy', 'Access', and 'Collect', it was decided to exclude the times it was mentioned in titles, headings, or weblinks to narrow down the search results. 
-
-According to TikTok, they are not responsible for the privacy policy of third-party partnerships and advertisements that are provided in the app via Cookies ^[[TikTok. June 2, 2021. Para 20](https://www.tiktok.com/legal/privacy-policy-row?lang=en)]. They also note that if a user follows a link outside or from a Third-party source, TikTok is again not responsible or liable for their PP ^[[TikTok. June 2, 2021. Para 37](https://www.tiktok.com/legal/privacy-policy-row?lang=en)]. One single point that seems to be not as invasive was found, but it still does not show to be entirely ethical. It states that if there are any questions, how to use, or want to know if you have any rights in your country, to contact them via email again ^[[TikTok. June 2, 2021. Para 34](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.tiktok.com%2Flegal%2Fprivacy-policy-row%3Flang%3Den&data=04%7C01%7C%7Ced2e0d7557fd40b8c7b508da0f6fe370%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637839270483285606%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=CHaGUlTBmeylRs%2BSOVO0QrRDQu2iKWFcMwINCed5NiA%3D&reserved=0)]. this is not a positive point, it seems like they added this in just to say that they mentioned about having rights without actually caring about oneself as a person.
-
-Under the section 'User Content and Behavioural Information' TikTok may collect information such as identifying objects and scenery that appear in the background, location, face, and body attributes from the user's content ^[[TikTok. June 2, 2021. Para 10](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.tiktok.com%2Flegal%2Fprivacy-policy-row%3Flang%3Den&data=04%7C01%7C%7Ced2e0d7557fd40b8c7b508da0f6fe370%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637839270483285606%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=CHaGUlTBmeylRs%2BSOVO0QrRDQu2iKWFcMwINCed5NiA%3D&reserved=0)]. The platform may also collect and review users' interests, gender, and age for the purpose of personalizing content, as well as "promoting your content to other users and exploring whether your profile presents further opportunities for collaboration" ^[[TikTok. June 2, 2021. Para 10](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.tiktok.com%2Flegal%2Fprivacy-policy-row%3Flang%3Den&data=04%7C01%7C%7Ced2e0d7557fd40b8c7b508da0f6fe370%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637839270483285606%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=CHaGUlTBmeylRs%2BSOVO0QrRDQu2iKWFcMwINCed5NiA%3D&reserved=0)]. These facts can make a user uncomfotable and they may decide to not use the app any further.
-
-When comparing the PP to the Younger Users Privacy Policy (YUPP), it was shocking to see how different they compare. YUPP is significantly shorter than the PP,  there were no drop-down pages, just one simple scroll-down page. A keyword search was used again, but the term 'Privacy had less results than the term 'Collect' was used as it had significantly more results. According to TikTok, they collect limited information only for youth under 13 ^[[TikTok. January 2020. Para. 1-2](https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en)]. They collect only the username, password, birthday, and some info about the user's device such as network activity like device ID, IP address, web browser type etc. ^[[TikTok. January 2020. Para. 3](https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en )]. These points are so simple and they seem less invasive and more secure than what everyone else must to consent to. TikTok can and may use the username and password to authenticate the user, but it is not clear as to how or why they do that. TikTok also only uses the information for troubleshooting and other analytical services as well as for legal and governmental reasons which not only is rare, but is reasonable as it is law enforcement. ^[[TikTok. January 2020. Para. 4 & 6](https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en )].
-
-The difference between these two Policies is significant, so a question arose from this analysis. Why is it riskier for anyone over the age of 14 who are in fact still minors, to use TikTok? It is frightening at how loosely TikTok speaks about Users rights in the PP compared to how much more protected users are in YUPP. All users of TikTok should be under the policies of the YUPP because it seems more serious about the security and integrity of minors than it does with the bigger population which still include minors.
 
 
 ## Social Media and PLN in Education {-}
@@ -113,10 +104,10 @@ Tiktok serves as a great resource for individuals to interact with other content
 #### Leaving Comments {-}
 
 A comment can easily be made on TikTok with a few simple steps! 
-1. Select the video you plan to interact with.
-2. From here, you must tap the comment icon located on the right. 
-3. Tap the “add comment” box and write a message.
-4. Lastly, press send when you’re ready!
+1. Select the video you plan to interact with.  
+2. From here, you must tap the comment icon located on the right.   
+3. Tap the “add comment” box and write a message.  
+4. Lastly, press send when you’re ready!  
 
 ![Steps to Leave Comments](assets/tiktok/img1.JPG)
 ![Steps to Leave Comments](assets/tiktok/img2.JPG)
