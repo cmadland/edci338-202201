@@ -1,48 +1,69 @@
 # LinkedIn
 ## Persona
+
 ![Persona1](assets/LinkedIn/persona1.png)
 
 ## Demographics 
 
+![Interface](assets/LinkedIn/interface.png)
+
 ✔️ Target audience (age, demographics, political leaning, interests, hobbies, etc)
+
 * LinkedIn has 675+ million users worldwide. Their users tend to be over 18 years old. Their users are looking for jobs or maintaining relationships at work. According to user surveys in the United States, up to 37% of users are 46-55 years old.
 
 ✔️ Can non-users browse or search content?
+
 * Non-users can browse and use the search function. Comments and conversations require registration to use.
 
 ✔️ How are users connected (e.g., on some platforms, you request a connection which needs to be accepted, but on others, you can follow anyone without them reciprocating)
+
 * Users in Linkedin need to add each other as friends before they can chat privately. There's also a premium service that sends messages directly to strangers, but there's a monthly limit.
 
 ✔️ Can content be shared privately?
+
 * Yes, Linkedin can choose to make your posts public or only to your friends.
 
 ✔️ How is content shared?
+
 * Users can choose to post their own posts, and if the content is public, it will appear on your profile page. Users also can share content by leaving comments in other people's posts. Users can also private message content to designated users (friends must be required).
 
 ✔️ How does content go viral?
+
 * Linkedin users can post their own public posts, which are seen by strangers when others search for keywords related to your posts. If your post is viewed and commented on by a large number of people, it will appear further up the page and more likely to be seen by strangers. Some big corporate posts are also very influential because they have a large following.
 
 ✔️ Is the parent company public or private?
+
 * The parent company for Linkedin is Microsoft and it is a public company.
 
 ✔️ Who are the Founders?
+
 * Reid Hoffman & Eric Ly
 
 ✔️ How does the company generate revenue?
+
 * Linkedin generates revenue through advertising, offering talent solutions, marketing solutions, and premium accounts.
 
 ## Privacy and Surveillance
 
-✔️ a link to your platform’s ToS and Privacy Policy
+![Privacy Policy](assets/LinkedIn/Privacy Policy.png)
+
+✔️ A link to your platform’s ToS and Privacy Policy
+
 * Terms of use : https://www.linkedin.com/legal/l/service-terms
+
 * Privacy policy : https://www.linkedin.com/legal/privacy-policy?trk=content_footer-privacy-policy
 
 ✔️ Your key takeaways from your examination of your platform’s ToS and Privacy Policy
+
 * Linkedin users use the site primarily for job hunting and professional networking. Companies and individuals are required to be truthful in their job postings, and Posting false job postings is considered a violation of the terms of use.
+
 * Users are required not to provide false personal information, which is a violation of the terms of use if it is found to be false during the job search process.
+
 * Linkedin automatically recommends your information and posts to people who need you, which doesn't violate Privacy Policy.
 
 ## Social Media and your PLN in Education
+
+![PLN](assets/LinkedIn/PLN.png)
 
 ### Interact on Linkedin {-} 
 * People who sign up for Linkedin can leave comments or "likes" on public posts made by other users. At the bottom of each post is a quick marker, there are six different ICONS representing different meanings, they are Like, Celebrate, Support, Love, Insightful, Curious. You can support a post by leaving a quick mark under it, so that's going to make this post more propagating. If you are interested in this post, you can leave a comment below the post. Linkedin also supports photo commenting. Creators tend to pick the best comments to respond to, which makes the post even better.
@@ -56,30 +77,48 @@
 * Teaching content posted by an ordinary account is difficult for others to find because they won't be recommended at the top of the list. At the same time, most people are not interested in what a regular account (with few followers) posts, and are more likely to read professional looking posts.
 
 ## Balancing your PLN and Public Discourse
+
+![Bill Gates](assets/LinkedIn/BG.png)
+
 ✔️ How do notable, high-profile individuals use social media?
+
 * Celebrities often use Linkedin to share updates related to their field of expertise or events they attend. What celebrities share on Linkedin is less entertaining than other social apps.
+
 * For example, Bill Gates posts on his personal page about his activities related to the economy.
 
 ✔️ What are the benefits to being in the public eye and having a PLN?
+
 * To being in the public eye and having a PLN will give you a reputation, and your account will be more valuable as more people follow you. (Advertising, etc.)
+
 * On the other hand, you can easily gather more people in the same field, which is very good for knowledge acquisition and exchange.
 
 ✔️ Building community with online tools provided by an employer can be limiting, what are some possible restrictions and benefits?
+
 * Restrictions - The functions of the community will be limited, The community tends to be more formal.
+
 * Benefits - easier to join the community, save more money.
 
 ✔️ Delivering information in a connected society requires verifiable resources, how can you ensure that you build a PLN you can rely on?
+
 * It starts with choosing the right people’s posts. It is best to have certified individuals or high-profile individuals.
+
 * You can then compare the information to see if it's correct by comparing what different people have posted about it.
+
 * Choosing authenticated group chats increases the accuracy of messages.
+
 * In conclusion, the more famous the account or group chat will be more reliable.
 
 ✔️ How do those who are veteran story tellers minimize the risk of sharing misinformation?
+
 * Double-check the accuracy of the information before posting a post.
+
 * Add a note to your message or add a note in the comments.
+
 * Promptly address questions and comments in the comments section.
 
 ## Reflection
+
+![DEI](assets/LinkedIn/DEI.png)
 
 ### Digital Identity {-} 
 * Personally, I tend to separate my personal identity from my professional identity. I don't show my personal life very often on social media, and there is even less personal information on some social media that I don't use very often. I use different social software for different purposes. When I need to find a job, I will definitely use Linkedin instead of Facebook because Linkedin's target audience is professionals. At the same time, I think the social media recording my life status should be more entertaining and should not involve my work content, which will help me relax. Reducing the amount of irrelevant content on social media for work can increase my level of trust.
