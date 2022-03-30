@@ -1,11 +1,14 @@
 # Zenly
+
 ## Persona
+
 ![Persona 1](assets/zenly/Persona 1.jpg)
-![Persona 2](assets/zenly/persona2.png)
+![Persona 2](assets/zenly/persona2a.png)
 ![Persona 3](assets/zenly/Persona -- Zenly.png)
 ![Persona 4](assets/zenly/persona1.png)
 
 ## Demographic
+
 ###✔️ target audience (age, demographics, political leaning, interests, hobbies, etc)
   Friends and family members. Zenly is popular among teenagers.^https://en.everybodywiki.com/Zenly Zenly is an app that combines three functions: social, messaging, and mapping. Over 2 million people have downloaded the Zenly so far.
 
@@ -33,6 +36,7 @@ Those investors have invested $22.5 million.
 
 ###✔️ how does the company generate revenue?
   Zenly does not have subscription and in-app purchase. The company will develop its own data mapping system to provide users with its own brand services. 
+
 
 ## Privacy and Surveillance
 ###✔️ a link to your platform’s ToS and Privacy Policy
