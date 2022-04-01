@@ -212,13 +212,13 @@ In this video, a creator on TikTok delves into her experience counteracting the 
 
 ### Digital Identity {-}
 
-Using the visitor and resident map as a group helped us conceptualize how we present ourselves on social media. V&R mapping is an exercise that helps learners visualize the way they use the internet (White & Cornu, 2011). As a guide, the horizontal axis shows where social media activity can be placed in relation to the resident side (left) or the visitor side (right). By following the vertical axis, social media activity can be placed near the personal side (top) or institutional side (bottom). ^[[White, D. S., & Le Cornu, A. (2011). Visitors and Residents: A new typology for online engagement. First Monday, 16(9). [DOI](https://doi.org/10.5210/fm.v16i9.317)]
+Using the visitor and resident map as a group helped us conceptualize how we present ourselves on social media. V&R mapping is an exercise that helps learners visualize the way they use the internet (White & Cornu, 2011). As a guide, the horizontal axis shows where social media activity can be placed in relation to the resident side (left) or the visitor side (right). By following the vertical axis, social media activity can be placed near the personal side (top) or institutional side (bottom). ^[White, D. S., & Le Cornu, A. (2011). Visitors and Residents: A new typology for online engagement. First Monday, 16(9). DOI https://doi.org/10.5210/fm.v16i9.317]
 
 Mia:
 In creating this map, I was able to reflect on the separate identities I have for personal and institutional uses, as well as how much I leave a trace on social media platforms. My placement of different social media application in the quadrants led me to notice that my Twitter and personal email (residential use) began as personal but gradually became more institutional as the semester progressed. I was able to identify UVIC’s email platform as strictly professional and as a place where we only visit since I only receive emails and I do not interact with people there. While deciding where to place TikTok, I decided to create two separate categories for my school persona (Sophia Green) account and my personal account. I placed my personal TikTok account in the top right quadrant since it is an app where I reside for my personal use. My interactions with this account, including liking and commenting on videos, are used to collect my personal content preferences. I placed Sophia Greens’ account in the bottom right quadrant since I still reside in that app as I am leaving public traces online, but I am only using that account for school (institutional) purposes. 
-![V&R](assets/tiktok/V&R.PNG) 
+![V&R](assets/tiktok/V-R.PNG) 
 
-^[[White, D. S., & Le Cornu, A. (2011). Visitors and Residents: A new typology for online engagement. First Monday, 16(9). [DOI](https://doi.org/10.5210/fm.v16i9.317)]
+^[White, D. S., & Le Cornu, A. (2011). Visitors and Residents: A new typology for online engagement. First Monday, 16(9). https://doi.org/10.5210/fm.v16i9.317]
 
 ### Access and Inclusion {-}
 
