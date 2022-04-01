@@ -14,7 +14,7 @@ Hello everyone and thank you for joining this course!
 
 My name is Colin Madland and I will be your instructor for this Spring 2022 cohort of EDCI 338, *Social Media and Personalized Learning*. I am a PhD candidate in the Educational Technology area of the Faculty of Education, where I am researching assessment in higher education. You can learn more about me and my research on my [personal website](https://cmad.land) and follow me on [Twitter](https://twitter.com/colinmadland). I live and work in West Kelowna, BC, on the [traditional, unceded, ancestral lands of the `syilx` people](https://wfn.ca) and I am grateful to be a guest here.
 
-When I am not working on my reasearch, or my day-job at another BC university, I really enjoy riding my bicycle, cooking all sorts of deliciousness on my grill, and hanging out with my family, which includes my wife, 2 two sons, 1 daughter-in-law, 1 daughter, 1 son-in-law, and 1 grandson. Some people might include the fur-bearing beasts (a dog and a cat) in the 'family' category, I know they certainly do!
+When I am not working on my reasearch, or my day-job at another BC university, I really enjoy riding my bicycle, cooking all sorts of deliciousness on my grill, and hanging out with my family, which includes my wife, 2 sons, 1 daughter-in-law, 1 daughter, 1 son-in-law, and 1 grandson. Some people might include the fur-bearing beasts (a dog and a cat) in the 'family' category, I know they certainly do!
 
 I'm going to be honest with you (hopefully that isn't surprising...) and perhaps a bit vulnerable. I'm teaching EDCI338 for the first time this spring, and the course requires a significant investment in learning to use some technologies that you and I both may not be entirely familiar with. There aren't really any good ways to think deeply about social media without actually engaging in social media. That can be really challenging, especially in the midst of the ongoing dispruption of our lives due to COVID-19. Disruption can take many forms, from being physically sick with COVID, to having family members and friends being affected, to losing jobs, and on and on. As a result, it can be really hard to focus on learning. So, I want you to understand from the very beginning that it is my *responsibility- in this course to do whatever it is that I can to support your success.
 
@@ -579,3 +579,20 @@ Your Celebration of Learning post is due.
 ```
 
 As always, feel free to book a meeting with me if you have questions!
+
+## Week Twelve (and a half) (Mar 28 - April 7) {-}
+
+Here we are. It's been a semester! There is no new content this week, but you do have one final assignment to work on over the next 10 days. The [Celebration of Learning post](https://cmadland.github.io/edci338-202201/course-assessment.html#celebration-of-learning-30) is your chance to show off what you've done this semester. The core requirement is that you address [each of the learning outcomes](https://cmadland.github.io/edci338-202201/course-details.html) of the course in a reflective post on your WordPress blog. You need to tell me, with evidence from your work during the course, how you have met each of the learning outcomes. Types of evidence include links to your published Wow and Wonder posts, links to your colleagues posts (not only your own Learning Pod, but that is a great place to start), and links to course readings or other resources. You must present at least one piece of evidence for each learning outcome. You are also encouraged to include evidence from your social media interactions (either as your persona, or as yourself), and links to sources from outside the course.
+
+You should aim for 100 - 150 words for each outcome, and be sure to include **why** you thing the evidence you chose shows you met the outcome. Memes are also welcomed.
+
+Also, make sure to book a time with me to meet with your learning pod to review your Major Project. During that meeting (I'll try my best to fit it into 30 mins, but I like hearing from you...), you should be prepared to tell me a bit about your project (highlights) and to answer a few questions. You don't need to  prepare a formal presentation. The link to book a meeting is in Brightspace.
+
+```{block, type='todo'}
+#### Things To Do This Week
+✔️ **Book** a time to meet with me to review your Major Project by **Saturday April 2**. Meetings need to happen this week and be finished by April 2.
+✔️ **Complete** your Celebration of Learning post. There is actually a deadline to complete your celebration of learning post, and that is **Thursday, April 7**.
+✔️ Please **fill out the Course Experience Survey** that you have received in your email. I do not see the results of this survey until after grades have been approved and responses are completely anonymous.
+```
+
+As always, let me know if you have questions.
