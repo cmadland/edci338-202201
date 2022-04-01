@@ -65,7 +65,11 @@ When we posted a note about a statistics class, one third of the reviewers were 
 ![figure 4](assets/red/post1.png)
 ![figure 5](assets/red/post1comment.png)
 We also did a post about restaurants in Vancouver. Comments on this type of post fall into three categories. One is to collect our posts; the second is the affirmation and love of people who have been to the restaurant; the third is their dissatisfaction and complaint based on the experience they once visited, but the third group is in the minority. 
+
+<!--
 ![figure 6](assets/red/post2.png)
+-->
+
 ![figure 7](assets/red/post2-2.png)
 ![figure 8](assets/red/post2comment.png)
 ![figure 9](assets/red/post2comment2.png)
