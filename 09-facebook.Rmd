@@ -129,9 +129,13 @@ As a learning pod, we don't have reason to believe there is some sinister plot t
 
 People are able to interact on the platform mainly through liking, commenting, or sharing posts. In addition, there are other features that Facebook offers for users to connect and engage in conversations:
 •	Messenger: It’s perhaps the most essential part of allowing users to connect and instantly message each other. This messaging platform allows people to interact through audio, video, or text and offers ways to share content, react to messages, send and receive payments, and customize conversations. 
+
 •	Groups: Facebook Groups is for people who share the same interests and want to engage in conversations, share content, manage online and in-person events, etc. It’s a powerful way of connecting like-minded people and forming online communities.
+
 •	Facebook Live: Facebook Live is one of the most popular features on the platform and has proven to be a very effective way for users to connect whether it’s for a fundraiser, Q&A, online event, dancing and music performances, cooking shows, etc. It’s also an important part of building authentic human connections and creating more memorable experiences. This feature is especially useful for creators who want to interact with their fans and community of followers.
+
 •	Stories: Facebook Stories are a quick way of sharing content with friends and followers by posting photos or short videos. Creators use this feature to post creative content since it allows for more customization and engages viewers in a short span of time. Stories only last for 24 hours and are primarily used to share news, announcements, updates, funny or creative videos, events, and content excerpts.
+
 If people want to initiate a conversation about a post, they can click on the “Comment” button or the box that says, “Write a Comment…”. Along with the comments, users can add emojis, gifs, stickers, photos, or videos. It’s also possible to react or reply to other comments, which is a substantial way for users to communicate on the platform. In order to quickly like a post, users can simply click on the “Like” button, but they can also hover the “Like” button and choose a reaction by tapping an icon corresponding to “Like”, “Love”, “Haha”, “Wow”, “Sad” or “Angry”. Facebook launched “Reactions” in 2016 in order to give users the opportunity to express how they feel about a post in a quick and simple manner. ^[[Reactions Now Available Globally]( https://about.fb.com/news/2016/02/reactions-now-available-globally/)]   
 
 ![Facebook Reactions](assets/facebook/reactions.png)  
