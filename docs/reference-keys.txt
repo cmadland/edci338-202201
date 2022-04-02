@@ -25,10 +25,10 @@ reflection-1
 resources
 zenly
 persona-9
-demographic
+demographics-7
 red
 personas-2
-demographics-7
+demographics-8
 tos
 key-takeaways
 reference
