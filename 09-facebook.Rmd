@@ -128,6 +128,7 @@ As a learning pod, we don't have reason to believe there is some sinister plot t
 ### Describe how people are able to interact in your platform. Can people leave comments on content? Is there a quick and easy way to ‘Like’ or ‘favourite’ something? Who sees that ‘like?’ Do creators generally respond to comments on their content?  
 
 People are able to interact on the platform mainly through liking, commenting, or sharing posts. In addition, there are other features that Facebook offers for users to connect and engage in conversations:
+
 •	Messenger: It’s perhaps the most essential part of allowing users to connect and instantly message each other. This messaging platform allows people to interact through audio, video, or text and offers ways to share content, react to messages, send and receive payments, and customize conversations. 
 
 •	Groups: Facebook Groups is for people who share the same interests and want to engage in conversations, share content, manage online and in-person events, etc. It’s a powerful way of connecting like-minded people and forming online communities.
