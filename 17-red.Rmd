@@ -7,7 +7,7 @@
 ![Persona 4](assets/red/Persona 4.png)
 
 ## Demographics
-Target Audience
+###Target Audience
 RED is a Chinese social media and e-commerce platform launched in 2013 with more than 300 million users and monthly active users on RED exceed 200 billion on 2021. Of RED’s 300 million users, about 80% are female and 70% are Millennials or members of Generation Z. Typically those using the app have higher than average disposable income. RED is used by Chinese people in China and around the world. We describe RED as a combination of Instagram, Pinterest and Amazon, where people can review products and share their shopping experiences with a vast community. Users post product photos with reviews and tips for other users to read, comment, and save to their boards as you would on Pinterest. Also, you can follow influencers and shop online within the RED app. 
 
 ### Can non-users browse or search content?
